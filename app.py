@@ -91,3 +91,18 @@ def convert_df(df_in):
 
 csv_bytes = convert_df(filtered[show_cols])
 st.download_button("Download filtered CSV", csv_bytes, file_name="hn_filtered.csv", mime="text/csv")
+
+# At the bottom of your Streamlit layout
+st.markdown("---")
+st.markdown(
+    f"🕒 Last updated: **{datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}** (IST)"
+)
+
+st.markdown(
+    """
+    <div style='text-align: center; font-size: 15px; margin-top: 20px;'>
+        Built with ❤️ by <a href='https://www.linkedin.com/in/jaidevb/' target='_blank'>Jaidev B</a>
+    </div>
+    """,
+    unsafe_allow_html=True
+)

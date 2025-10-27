@@ -95,7 +95,7 @@ st.download_button("Download filtered CSV", csv_bytes, file_name="hn_filtered.cs
 # At the bottom of your Streamlit layout
 st.markdown("---")
 st.markdown(
-    f"🕒 Last updated: **{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}** (IST)"
+    f"🕒 Last updated: **{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}** (UTC)"
 )
 
 st.markdown(

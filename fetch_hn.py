@@ -7,6 +7,7 @@ from dateutil import parser
 import os
 import re
 import time
+from textblob import TextBlob  # NEW: for sentiment analysis
 
 API_URL = "https://hn.algolia.com/api/v1/search_by_date?tags=story&hitsPerPage=100"
 DATA_DIR = "data"
@@ -52,6 +53,17 @@ def classify_title(title):
                     return lang
     return None
 
+# --- Sentiment analysis ---
+def get_sentiment(text):
+    blob = TextBlob(text)
+    polarity = blob.sentiment.polarity
+    if polarity > 0:
+        return "positive"
+    elif polarity < 0:
+        return "negative"
+    else:
+        return "neutral"
+
 def fetch_hn():
     """Fetch multiple pages (~1000 recent posts)"""
     all_hits = []
@@ -88,6 +100,7 @@ def hits_to_df(hits):
             "created_at": created_ts.isoformat(),
         }
         row["language"] = classify_title(title)
+        row["sentiment"] = get_sentiment(title)  # NEW LINE
         rows.append(row)
     df = pd.DataFrame(rows)
     if not df.empty:
@@ -113,12 +126,13 @@ def save_to_sqlite(df):
         points INTEGER,
         num_comments INTEGER,
         created_at TEXT,
-        language TEXT
+        language TEXT,
+        sentiment TEXT
     );
     """)
     cur.execute("""
-    INSERT OR REPLACE INTO posts (objectID, title, url, author, points, num_comments, created_at, language)
-    SELECT objectID, title, url, author, points, num_comments, created_at, language FROM posts_tmp;
+    INSERT OR REPLACE INTO posts (objectID, title, url, author, points, num_comments, created_at, language, sentiment)
+    SELECT objectID, title, url, author, points, num_comments, created_at, language, sentiment FROM posts_tmp;
     """)
     conn.commit()
     cur.execute("DROP TABLE IF EXISTS posts_tmp;")

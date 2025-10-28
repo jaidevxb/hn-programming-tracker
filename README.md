@@ -1,6 +1,6 @@
 # 🚀 Hacker News Programming Tracker
 
-Track the most recent programming-related posts from [Hacker News](https://news.ycombinator.com/) using Python, Streamlit, and a scheduled GitHub Action.
+Track the most recent programming-related posts from [Hacker News](https://news.ycombinator.com/) using **Python**, **Streamlit**, and a scheduled **GitHub Action**.
 
 🔗 **Live App:** [https://hn-programming-tracker.streamlit.app/](https://hn-programming-tracker.streamlit.app/)
 
@@ -8,22 +8,24 @@ Track the most recent programming-related posts from [Hacker News](https://news.
 
 ## 📘 Overview
 
-This project automatically fetches the latest Hacker News stories tagged with `story` from the Algolia API and displays the programming-related ones using a Streamlit dashboard.
+This project automatically fetches the latest Hacker News stories tagged with `story` from the **Algolia API** and displays the programming-related ones on a **Streamlit dashboard**.
 
-Every day, the dataset is refreshed automatically via **GitHub Actions**, so the Streamlit app always shows the most recent programming posts.
+Every day, the dataset refreshes automatically via **GitHub Actions**, so the Streamlit app always shows the latest programming and tech discussions.
 
 ---
 
 ## 🧠 Features
 
 * Fetches the **latest 1000 Hacker News stories** daily.
-* Filters and displays **programming-related** posts.
+* Classifies whether each post is **programming-related** using keyword & semantic matching.
+* Performs **sentiment analysis** on each title using **TextBlob**.
 * Interactive Streamlit dashboard with:
 
   * Search bar to find posts by keyword
   * Bar chart showing post counts by date
-  * Clickable links to the original Hacker News articles
-* Daily automatic data refresh using GitHub Actions.
+  * Sentiment breakdown visualization
+  * Links to the original Hacker News articles
+* **Daily automatic data refresh** using GitHub Actions.
 
 ---
 
@@ -32,13 +34,13 @@ Every day, the dataset is refreshed automatically via **GitHub Actions**, so the
 | Component      | Technology                                            |
 | -------------- | ----------------------------------------------------- |
 | Data Source    | [Hacker News Algolia API](https://hn.algolia.com/api) |
-| Backend Script | Python (`requests`, `pandas`, `sqlite3`)              |
+| Backend Script | Python (`requests`, `pandas`, `sqlite3`, `textblob`)  |
 | Dashboard      | [Streamlit](https://streamlit.io/)                    |
 | Automation     | [GitHub Actions](https://github.com/features/actions) |
 
 ---
 
-## 📂 Project Structure
+## 🗂️ Project Structure
 
 ```
 HN-Programming-Tracker/
@@ -47,7 +49,7 @@ HN-Programming-Tracker/
 │   ├── hn_data.csv        # Latest fetched stories
 │   └── hn_data.sqlite     # SQLite database for backup
 │
-├── fetch_hn.py            # Fetches data from Hacker News API
+├── fetch_hn.py            # Fetches data + sentiment analysis
 ├── app.py                 # Streamlit dashboard
 ├── requirements.txt       # Python dependencies
 ├── .gitignore             # Ignore unnecessary files (like data/)
@@ -94,8 +96,8 @@ Then open the local URL shown in your terminal.
 
 The file `.github/workflows/fetch_daily.yml` is configured to:
 
-* Run every day at 04:00 UTC = 9:30 AM IST.
-* Execute `fetch_hn.py` to fetch the latest posts.
+* Run every day at **04:00 UTC (9:30 AM IST)**.
+* Execute `fetch_hn.py` to fetch & analyze the latest posts.
 * Commit and push updated data automatically.
 
 You can view the workflow in **GitHub → Actions tab**.
@@ -104,11 +106,11 @@ You can view the workflow in **GitHub → Actions tab**.
 
 ## 🌐 Deployment
 
-This project is hosted on **Streamlit Cloud**. Streamlit automatically redeploys the app when new commits are pushed to the main branch.
+This project is hosted on **Streamlit Cloud**. Streamlit automatically redeploys the app whenever new commits are pushed to the main branch.
 
 ---
 
-## 🧑‍💻 Author
+## 👨‍💻 Author
 
 **Jaidev B**
 Aspiring Data Scientist | Electrical & Electronics Engineering
@@ -118,13 +120,14 @@ Aspiring Data Scientist | Electrical & Electronics Engineering
 
 ## 💡 Future Enhancements
 
-* Add language/topic filters (e.g., Python, AI, Web Dev).
-* Track most upvoted programming posts.
-* Add daily trend visualizations.
+* Add topic/language filters (Python, AI, Web Dev, etc.)
+* Compare daily sentiment trends in programming discussions.
+* Highlight top-voted posts per language.
+* Integrate Transformer-based sentiment model for higher accuracy.
 
 ---
 
-## 🪪 License
+## 🟪 License
 
 This project is open source under the [MIT License](LICENSE).
 

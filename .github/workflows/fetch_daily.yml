@@ -1,6 +1,6 @@
 name: Daily HN Fetch
 
-on: schedule: - cron: "10 5 * * *"  # runs every day at 9:30 AM IST (04:00 UTC) workflow_dispatch:      # allows manual run
+on: schedule: - cron: "30 5 * * *"  # runs every day at 9:30 AM IST (04:00 UTC) workflow_dispatch:      # allows manual run
 
 jobs: fetch_and_commit: runs-on: ubuntu-latest
 

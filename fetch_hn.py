@@ -7,21 +7,20 @@ from dateutil import parser
 import os
 import re
 import time
-from textblob import TextBlob  # NEW: for sentiment analysis
+from textblob import TextBlob
 
 API_URL = "https://hn.algolia.com/api/v1/search_by_date?tags=story&hitsPerPage=100"
 DATA_DIR = "data"
 CSV_PATH = os.path.join(DATA_DIR, "hn_data.csv")
 DB_PATH = os.path.join(DATA_DIR, "hn_data.sqlite")
 
-# languages list and common aliases (lowercase)
 LANG_KEYWORDS = {
     "python": ["python"],
     "javascript": ["javascript", "js", "node", "nodejs"],
     "java": ["java"],
     "c++": ["c++", "cpp"],
     "c#": ["c#", "c sharp"],
-    "c": [r"\bc\b"],  # regex for single-letter c as whole word
+    "c": [r"\bc\b"],
     "go": ["golang", "go "],
     "rust": ["rust"],
     "typescript": ["typescript", "ts "],
@@ -53,7 +52,6 @@ def classify_title(title):
                     return lang
     return None
 
-# --- Sentiment analysis ---
 def get_sentiment(text):
     blob = TextBlob(text)
     polarity = blob.sentiment.polarity
@@ -65,9 +63,8 @@ def get_sentiment(text):
         return "neutral"
 
 def fetch_hn():
-    """Fetch multiple pages (~1000 recent posts)"""
     all_hits = []
-    for page in range(10):  # fetch ~2000 posts
+    for page in range(10):  # ~1000 posts
         url = f"{API_URL}&page={page}"
         res = requests.get(url, timeout=15)
         res.raise_for_status()
@@ -98,9 +95,9 @@ def hits_to_df(hits):
             "points": h.get("points", 0),
             "num_comments": h.get("num_comments", 0),
             "created_at": created_ts.isoformat(),
+            "language": classify_title(title),
+            "sentiment": get_sentiment(title),
         }
-        row["language"] = classify_title(title)
-        row["sentiment"] = get_sentiment(title)  # NEW LINE
         rows.append(row)
     df = pd.DataFrame(rows)
     if not df.empty:
@@ -148,6 +145,29 @@ def append_to_csv(df):
     else:
         df.to_csv(CSV_PATH, index=False)
 
+# --- CLEAN FUNCTION (CSV + SQL) ---
+def clean_data(csv_path=CSV_PATH, db_path=DB_PATH):
+    # --- Clean CSV ---
+    if os.path.exists(csv_path):
+        df_csv = pd.read_csv(csv_path)
+        df_csv = df_csv.drop_duplicates(subset=["objectID"], keep="last")
+        df_csv = df_csv.sort_values(by="created_at")
+        df_csv.to_csv(csv_path, index=False)
+    else:
+        print("CSV not found, skipping CSV cleanup.")
+
+    # --- Clean SQL ---
+    if os.path.exists(db_path):
+        conn = sqlite3.connect(db_path)
+        df_sql = pd.read_sql_query("SELECT * FROM posts", conn)
+        df_sql = df_sql.drop_duplicates(subset=["objectID"], keep="last")
+        df_sql = df_sql.sort_values(by="created_at")
+        df_sql.to_sql("posts", conn, if_exists="replace", index=False)
+        conn.close()
+        print(f"Data cleaned ✅ — {len(df_sql)} unique posts stored.")
+    else:
+        print("SQLite DB not found, skipping DB cleanup.")
+
 def main():
     ensure_data_dir()
     hits = fetch_hn()
@@ -157,7 +177,8 @@ def main():
         return
     save_to_sqlite(df)
     append_to_csv(df)
-    print(f"Fetched {len(df)} posts; saved to {CSV_PATH} and {DB_PATH}")
+    clean_data()  # 🧹 Clean after saving
+    print(f"Fetched {len(df)} posts; saved + cleaned both CSV and SQLite.")
 
 if __name__ == "__main__":
     main()

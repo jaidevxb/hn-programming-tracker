@@ -2,7 +2,7 @@ name: Daily HN Fetch
 
 on:
   schedule:
-    - cron: "55 5 * * *"  # runs every day at 11:25 AM IST (05:55 UTC)
+    - cron: "0 4 * * *"  # runs every day at 9:30 AM IST (04:00 UTC)
   workflow_dispatch:      # allows manual run
 
 jobs:

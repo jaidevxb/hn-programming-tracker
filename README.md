@@ -51,6 +51,9 @@ HN-Programming-Tracker/
 │
 ├── fetch_hn.py            # Fetches data + sentiment analysis
 ├── app.py                 # Streamlit dashboard
+├── clean_db.py            # Clean Sqlite DB
+├── clean_csv.py           # Clean CSV
+├── sync_data.py           # Sync both CSV and Sqlite DB
 ├── requirements.txt       # Python dependencies
 ├── .gitignore             # Ignore unnecessary files (like data/)
 └── .github/workflows/
@@ -101,6 +104,15 @@ The file `.github/workflows/fetch_daily.yml` is configured to:
 * Commit and push updated data automatically.
 
 You can view the workflow in **GitHub → Actions tab**.
+
+---
+
+## 🧹 Data Cleaning
+
+To ensure high-quality and unique records:
+* The script automatically removes duplicate posts (based on objectID) before saving new data.
+* Additional helper scripts (clean_csv.py and clean_db.py) are available to manually clean and sort existing datasets (hn_data.csv and hn_data.sqlite).
+* This guarantees that the dataset remains fresh, consistent, and free from redundancy, even with daily updates.
 
 ---
 

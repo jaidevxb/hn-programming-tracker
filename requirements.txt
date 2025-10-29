@@ -5,3 +5,4 @@ plotly
 sqlalchemy
 python-dateutil
 textblob
+-m textblob.download_corpora

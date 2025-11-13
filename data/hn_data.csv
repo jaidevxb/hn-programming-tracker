@@ -255,8 +255,8 @@ objectID,title,url,author,points,num_comments,created_at,language,sentiment
 45725163,"Ask HN: Should YouTube have an ""AI free"" content label system?",,andrewstuart,3.0,3.0,2025-10-27 19:19:21+00:00,shell,positive
 45725173,Show HN: MNML – Android Launcher (Open Testing Release),,tuxxness,4.0,2.0,2025-10-27 19:20:22+00:00,shell,neutral
 45725196,"Amazon Plans to Cut 30k Corporate Jobs, Reuters Reports",https://www.bloomberg.com/news/articles/2025-10-27/amazon-plans-to-cut-30-000-corporate-jobs-reuters-reports,bugbuddy,8.0,1.0,2025-10-27 19:22:38+00:00,,neutral
-45725223,Start Your LLC – Step-by-step guide,https://fromzerotollc.com,erayalakese,2.0,0.0,2025-10-27 19:25:02+00:00,,neutral
 45725224,Germany's Porsche pauses shift to EVs as profits tank [video],https://www.dw.com/en/germanys-porsche-pauses-shift-to-evs-as-profits-tank/video-74493792,prmph,15.0,27.0,2025-10-27 19:25:02+00:00,typescript,neutral
+45725223,Start Your LLC – Step-by-step guide,https://fromzerotollc.com,erayalakese,2.0,0.0,2025-10-27 19:25:02+00:00,,neutral
 45725231,Gmail confirmed as part of data leak,https://www.forbes.com/sites/daveywinder/2025/10/27/gmail-passwords-confirmed-as-part-of-183-million-account-data-breach/,exec01,3.0,0.0,2025-10-27 19:25:26+00:00,,positive
 45725238,"Bayes theorem, the geometry of changing beliefs",https://www.youtube.com/watch?v=HZGCoVF3YvM,nhhvhy,2.0,1.0,2025-10-27 19:25:53+00:00,,neutral
 45725239,Ransomware profits drop as victims stop paying hackers,https://www.bleepingcomputer.com/news/security/ransomware-profits-drop-as-victims-stop-paying-hackers/,speckx,4.0,0.0,2025-10-27 19:25:55+00:00,typescript,neutral
@@ -586,8 +586,8 @@ objectID,title,url,author,points,num_comments,created_at,language,sentiment
 45729382,In Praise of Useless Robots,https://thereader.mitpress.mit.edu/in-praise-of-useless-robots/,billybuckwheat,5.0,0.0,2025-10-28 05:13:23+00:00,,negative
 45729386,Hacktoberfest 2024,https://hacktoberfest.com,muradblood,1.0,0.0,2025-10-28 05:13:30+00:00,,neutral
 45729389,Santa Cruz tech CEO's accused killers 'humiliated' by pushups,https://www.kron4.com/news/california/santa-cruz-tech-ceos-accused-killers-humiliated-by-pushups-detective-testifies/,donsupreme,2.0,0.0,2025-10-28 05:14:01+00:00,shell,neutral
-45729394,I tried OpenAI's new Atlas browser but I still don't know what it's for,https://www.technologyreview.com/2025/10/27/1126673/openai-new-atlas-browser/,devonnull,18.0,11.0,2025-10-28 05:14:46+00:00,,positive
 45729393,Lowering in SQL,https://buttondown.com/jaffray/archive/lowering-in-sql/,ibobev,3.0,0.0,2025-10-28 05:14:46+00:00,sql,neutral
+45729394,I tried OpenAI's new Atlas browser but I still don't know what it's for,https://www.technologyreview.com/2025/10/27/1126673/openai-new-atlas-browser/,devonnull,18.0,11.0,2025-10-28 05:14:46+00:00,,positive
 45729395,George Clooney Confirms Ocean's 14 Is Happening,https://www.ign.com/articles/george-clooney-confirms-oceans-14-is-happening-and-will-probably-shoot-in-about-9-or-10-months,handfuloflight,3.0,0.0,2025-10-28 05:15:07+00:00,,neutral
 45729400,'AI' Sucks the Joy Out of Programming,https://alexn.org/blog/2025/10/27/ai-sucks-the-joy-out-of-programming/,signa11,9.0,3.0,2025-10-28 05:15:56+00:00,,positive
 45729402,OpenAI shunned advisers on $1.5T of deals,https://www.ft.com/content/967b0d78-62df-4eea-a441-8ce3a5d03564,1vuio0pswjnm7,1.0,0.0,2025-10-28 05:16:26+00:00,shell,neutral
@@ -3375,8 +3375,8 @@ objectID,title,url,author,points,num_comments,created_at,language,sentiment
 45765656,Results from Blasting Yeast with UV Light,https://chillphysicsenjoyer.substack.com/p/results-from-blasting-yeast-with,crescit_eundo,3.0,0.0,2025-10-30 21:35:02+00:00,typescript,positive
 45765658,Coding on the iPad [video],https://www.youtube.com/watch?v=Rptvh534lI4,mesmertech,2.0,1.0,2025-10-30 21:35:06+00:00,,neutral
 45765660,Why do AI models use so many em-dashes?,https://www.seangoedecke.com/em-dashes/,alehlopeh,3.0,0.0,2025-10-30 21:35:10+00:00,shell,positive
-45765665,TrustMRR – Database of verified startup revenues,https://trustmrr.com,jshchnz,2.0,0.0,2025-10-30 21:35:42+00:00,rust,neutral
 45765664,Denmark reportedly withdraws Chat Control proposal following controversy,https://therecord.media/demark-reportedly-withdraws-chat-control-proposal,layer8,225.0,65.0,2025-10-30 21:35:42+00:00,,neutral
+45765665,TrustMRR – Database of verified startup revenues,https://trustmrr.com,jshchnz,2.0,0.0,2025-10-30 21:35:42+00:00,rust,neutral
 45765673,Snowy 2.0 will last 150 years and work with batteries to push out gas,https://techxplore.com/news/2025-10-white-elephant-snowy-years-batteries.html,PaulHoule,3.0,0.0,2025-10-30 21:37:01+00:00,shell,neutral
 45765679,Averaging 10 PRs a day with Claude Code,https://theahura.substack.com/p/averaging-10-prs-a-day-with-claude,theahura,7.0,0.0,2025-10-30 21:38:03+00:00,,neutral
 45765684,What's Missing from Your Favorite Chocolate Bar? It May Be Chocolate,https://www.nytimes.com/2025/10/30/climate/candy-chocolate-cocoa-prices-climate-change.html,keithly,5.0,0.0,2025-10-30 21:38:41+00:00,,positive
@@ -4611,8 +4611,8 @@ objectID,title,url,author,points,num_comments,created_at,language,sentiment
 45781248,How to Solve It: Modern Heuristics,https://archive.org/details/howtosolveitmode0000mich,suioir,1.0,1.0,2025-11-01 12:52:36+00:00,,positive
 45781250,Show HN: C Generic Queue Data Structure,https://github.com/kostakis/Generic-Queue,kostakisgr,2.0,0.0,2025-11-01 12:52:51+00:00,c,neutral
 45781256,Deep Dive on Multi-Layer Fingerprinting for Modern Bot Detection Research,https://pydoll.tech/docs/deep-dive/fingerprinting/,birdculture,1.0,0.0,2025-11-01 12:53:36+00:00,,positive
-45781267,The Terrible Technical Architecture of My First Startup,https://blog.jacobstechtavern.com/p/my-terrible-startup-architecture,tamnd,3.0,0.0,2025-11-01 12:55:09+00:00,,negative
 45781268,Show HN: Trying to eat better? I built a nutritional assistant,https://www.chat.eko-bazaar.com/,dammsaturn,1.0,0.0,2025-11-01 12:55:09+00:00,shell,positive
+45781267,The Terrible Technical Architecture of My First Startup,https://blog.jacobstechtavern.com/p/my-terrible-startup-architecture,tamnd,3.0,0.0,2025-11-01 12:55:09+00:00,,negative
 45781272,Halloween 2025 Stats,https://cruftbox.com/2025/10/31/halloween-2025/,FunnyLookinHat,1.0,1.0,2025-11-01 12:55:44+00:00,,neutral
 45781274,Bootloader Unlock Wall of Shame,https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame,turrini,2.0,0.0,2025-11-01 12:56:07+00:00,shell,neutral
 45781280,Pitching the Death Star to Investors,https://supremefounder.com/pitching-investors.html,fmfamaral,6.0,1.0,2025-11-01 12:56:44+00:00,,neutral
@@ -4956,8 +4956,8 @@ objectID,title,url,author,points,num_comments,created_at,language,sentiment
 45786173,S.T.O.P. Sue NYPD for 'Domain Awareness' Surveillance System,https://www.stopspying.org/latest-news/2025/10/28/ecbawm-stop-sue-nypd-for-domain-awareness-surveillance-system,raybb,6.0,1.0,2025-11-01 22:49:44+00:00,,neutral
 45786190,Diffwatch – Watch AI agents touch the FS and see diffs live,https://github.com/deemkeen/diffwatch,deemkeen,5.0,10.0,2025-11-01 22:52:18+00:00,typescript,positive
 45786192,Show HN: KeyLeak Detector – Scan websites for exposed API keys and secrets,https://github.com/Amal-David/keyleak-detector,amaldavid,25.0,7.0,2025-11-01 22:52:22+00:00,shell,neutral
-45786198,Ask HN: Why are certain communities like Reddit so anti-AI?,,ronbenton,4.0,11.0,2025-11-01 22:53:27+00:00,,positive
 45786199,"Kimi Linear: An Expressive, Efficient Attention Architecture",https://arxiviq.substack.com/p/kimi-linear-an-expressive-efficient,che_shr_cat,1.0,0.0,2025-11-01 22:53:27+00:00,,positive
+45786198,Ask HN: Why are certain communities like Reddit so anti-AI?,,ronbenton,4.0,11.0,2025-11-01 22:53:27+00:00,,positive
 45786210,"Principles of Epistemology (2025, essay)",https://alexpeek.org/principles-of-epistemology-full-essay.html,alexp312,4.0,0.0,2025-11-01 22:55:15+00:00,,neutral
 45786252,"Mathematics disproves Matrix theory, says reality isn't simulation",https://interestingengineering.com/culture/mathematics-ends-matrix-simulation-theory,thunderbong,2.0,0.0,2025-11-01 23:00:00+00:00,,neutral
 45786266,The purported benefits of effect systems,https://typesanitizer.com/blog/effects-convo.html,SchwKatze,14.0,1.0,2025-11-01 23:01:24+00:00,typescript,neutral
@@ -4985,8 +4985,8 @@ objectID,title,url,author,points,num_comments,created_at,language,sentiment
 45786619,Attacking macOS XPC Helpers: Protocol Reverse Engineering and Interface Analysis,https://tonygo.tech/blog/2025/how-to-attack-macos-application-xpc-helpers,kawera,6.0,0.0,2025-11-01 23:54:00+00:00,,neutral
 45786620,Can a Startup Make Computer Chips Cheaper Than the Industry's Giants?,https://www.nytimes.com/2025/10/28/technology/can-a-start-up-make-computer-chips-cheaper-than-the-industrys-giants.html,bookofjoe,1.0,2.0,2025-11-01 23:54:03+00:00,,neutral
 45786634,Why should I accept all cookies?,https://idiallo.com/blog/why-accept-cookies-at-all,jnord,7.0,3.0,2025-11-01 23:56:34+00:00,shell,neutral
-45786688,This Week in Plasma: control of frame intensity and image sharpening,https://blogs.kde.org/2025/11/01/this-week-in-plasma-control-of-frame-intensity-and-image-sharpening/,jlpcsl,3.0,0.0,2025-11-02 00:04:29+00:00,shell,neutral
 45786686,Alchemyst AI – The verifiable AI context layer for the Agentic Web,https://getalchemystai.com,anuran-roy,6.0,1.0,2025-11-02 00:04:29+00:00,,neutral
+45786688,This Week in Plasma: control of frame intensity and image sharpening,https://blogs.kde.org/2025/11/01/this-week-in-plasma-control-of-frame-intensity-and-image-sharpening/,jlpcsl,3.0,0.0,2025-11-02 00:04:29+00:00,shell,neutral
 45786689,Fun Cheap SF Map,https://funcheapsfmap.com,ProLoser,3.0,1.0,2025-11-02 00:04:31+00:00,,positive
 45786719,Show HN: Project Scorpio with added 90s vibes,https://bigjobby.com/gallery/?image=xbox,bigjobbyx,1.0,0.0,2025-11-02 00:09:49+00:00,shell,neutral
 45786737,"AI: Boom or Bubble? A live, point-in-time dashboard",https://boomorbubble.ai/,siquick,1.0,1.0,2025-11-02 00:13:26+00:00,shell,positive
@@ -6164,8 +6164,8 @@ objectID,title,url,author,points,num_comments,created_at,language,sentiment
 45801079,Show HN: TabSmart: AI-powered Chrome extension that groups tabs by context,https://chromewebstore.google.com/detail/tabsmart-ai-powered-tab-o/fhingemfikggihmpbllepfcefcabigme,sagaruprety,1.0,0.0,2025-11-03 16:43:51+00:00,shell,neutral
 45801084,Show HN: Chainkit - low level block explorer built for developers,https://chainkit.harishaji.com/,har777,2.0,0.0,2025-11-03 16:44:26+00:00,shell,neutral
 45801096,No Socials November,https://bjhess.com/posts/no-socials-november,speckx,112.0,151.0,2025-11-03 16:45:12+00:00,,neutral
-45801113,"Conversations with a former CTO around the future of tech, hiring, and community [video]",https://www.youtube.com/watch?v=6fUu6eIrZU0,mooreds,1.0,0.0,2025-11-03 16:46:25+00:00,,neutral
 45801114,Turning pollution into clean fuel: stable methane production from carbon dioxide,https://techxplore.com/news/2025-10-pollution-fuel-stable-methane-production.html,PaulHoule,1.0,0.0,2025-11-03 16:46:25+00:00,,positive
+45801113,"Conversations with a former CTO around the future of tech, hiring, and community [video]",https://www.youtube.com/watch?v=6fUu6eIrZU0,mooreds,1.0,0.0,2025-11-03 16:46:25+00:00,,neutral
 45801117,Kimberly-Clark Strikes $40B Deal for Tylenol Maker Kenvue,https://www.wsj.com/business/retail/kimberly-clark-to-buy-tylenol-maker-kenvue-0e2c97fd,JumpCrisscross,3.0,0.0,2025-11-03 16:46:45+00:00,,neutral
 45801127,CHERIoT 1.0 Released,https://cheriot.org/sail/specification/release/2025/11/03/cheriot-1.0.html,todsacerdoti,4.0,0.0,2025-11-03 16:47:23+00:00,,neutral
 45801141,Linux: Microsoft WSL's Decade-Long Journey to Open Source,https://thenewstack.io/linux-microsoft-wsls-decade-long-journey-to-open-source/,CrankyBear,2.0,0.0,2025-11-03 16:48:27+00:00,,neutral
@@ -8220,8 +8220,8 @@ objectID,title,url,author,points,num_comments,created_at,language,sentiment
 45825682,James Algebra,https://iconicmath.com/algebra/james/,erhuve,3.0,1.0,2025-11-05 17:46:48+00:00,,neutral
 45825689,There is an animal level of fear in investors,,moosedman,2.0,2.0,2025-11-05 17:47:11+00:00,,neutral
 45825692,DeepInverse Joins the PyTorch Ecosystem,https://pytorch.org/blog/deepinverse-joins-pytorch-ecosystem/,jeremyscanvic,2.0,0.0,2025-11-05 17:47:28+00:00,,neutral
-45825712,Show HN: SixSevenStudio – open-source Video Editor For Sora,https://github.com/palmier-io/sixsevenstudio,hchtin,2.0,0.0,2025-11-05 17:49:01+00:00,shell,neutral
 45825713,"Malware Now Uses AI During Execution to Mutate and Collect Data, Google Warns",https://www.securityweek.com/malware-now-uses-ai-during-execution-to-mutate-and-collect-data-google-warns/,Bender,2.0,0.0,2025-11-05 17:49:01+00:00,,neutral
+45825712,Show HN: SixSevenStudio – open-source Video Editor For Sora,https://github.com/palmier-io/sixsevenstudio,hchtin,2.0,0.0,2025-11-05 17:49:01+00:00,shell,neutral
 45825717,The Running Novelist,https://www.newyorker.com/magazine/2008/06/09/haruki-murakami-the-running-novelist,keiferski,1.0,0.0,2025-11-05 17:49:20+00:00,,neutral
 45825722,"A Brutal Look at Balanced Parentheses, Computing Machines, and Pushdown Automata",https://raganwald.com/2019/02/14/i-love-programming-and-programmers.html,warrenm,2.0,0.0,2025-11-05 17:49:31+00:00,shell,negative
 45825728,Napier Deltic,https://npht.org/about-napier/products/marine-engines/deltic/,thunderbong,2.0,0.0,2025-11-05 17:50:00+00:00,,neutral
@@ -9355,8 +9355,8 @@ objectID,title,url,author,points,num_comments,created_at,language,sentiment
 45840026,Improving Rust Compile Times by 71 Percent,https://elijahpotter.dev/articles/improving-rust-compile-times-by-71-percent,emschwartz,3.0,1.0,2025-11-06 20:31:18+00:00,rust,neutral
 45840031,What if you could describe a live webstream and get it?,https://3kk0.com/,Oliver-Taylor,2.0,1.0,2025-11-06 20:31:42+00:00,,positive
 45840044,It's mainframes all the way down,https://medium.com/supplyframe-hardware/its-mainframes-all-the-way-down-73de55d2884b,rbanffy,4.0,0.0,2025-11-06 20:32:54+00:00,,negative
-45840062,Inside Hyundai’s Massive Metaplant,https://spectrum.ieee.org/hyundai-metaplant,oldnetguy,3.0,1.0,2025-11-06 20:34:28+00:00,,neutral
 45840061,Ask HN: Does anyone know how many pages are in Perplexity's search index?,,n1xis10t,1.0,0.0,2025-11-06 20:34:28+00:00,,positive
+45840062,Inside Hyundai’s Massive Metaplant,https://spectrum.ieee.org/hyundai-metaplant,oldnetguy,3.0,1.0,2025-11-06 20:34:28+00:00,,neutral
 45840075,"Hello, Shopify Merchants",,Returnlytic,2.0,0.0,2025-11-06 20:36:13+00:00,shell,neutral
 45840078,"Ask HN: Why don't programming language foundations offer ""smol"" models?",,xrd,1.0,1.0,2025-11-06 20:36:21+00:00,,neutral
 45840088,You should write an agent,https://fly.io/blog/everyone-write-an-agent/,tabletcorry,454.0,208.0,2025-11-06 20:37:06+00:00,shell,neutral
@@ -13719,5 +13719,1005 @@ objectID,title,url,author,points,num_comments,created_at,language,sentiment
 45896305,SoftBank's $5.8B Nvidia stake sale stirs fresh AI bubble fears,https://www.thehindu.com/sci-tech/technology/softbanks-58-billion-nvidia-stake-sale-stirs-fresh-ai-bubble-fears/article70269709.ece,thisislife2,1.0,0.0,2025-11-12 04:09:07+00:00,shell,positive
 45896324,"MIT researchers propose a new model for legible, modular software",https://news.mit.edu/2025/mit-researchers-propose-new-model-for-legible-modular-software-1106,digitallogic,1.0,0.0,2025-11-12 04:15:57+00:00,,positive
 45896327,Reproachfully Presenting Resilient Recursive Descent Parsing,https://thunderseethe.dev/posts/parser-base/,todsacerdoti,1.0,0.0,2025-11-12 04:16:46+00:00,,neutral
+45896891,Trader who inspired The Big Short bets against AI as tech shares fall,https://www.bbc.com/news/articles/c867vyn2evlo,1vuio0pswjnm7,2.0,1.0,2025-11-12 06:15:30+00:00,typescript,neutral
+45896894,Abstractions for asynchronously working with series of data,https://worm-blossom.org/ufotofu/,todsacerdoti,1.0,0.0,2025-11-12 06:15:47+00:00,,neutral
+45896917,Content Is King,https://mattpalmer.io/posts/content-is-king/,cmpit,2.0,1.0,2025-11-12 06:19:41+00:00,,neutral
+45896944,AGCI Benchmark: Evaluating Long-Term and Adaptive Intelligence in AI Systems,https://www.dropstone.io/research/agci-benchmark,tempinst5,2.0,0.0,2025-11-12 06:25:45+00:00,,neutral
+45896948,The Flexible Brain: How Circuit Excitability and Plasticity Shift Across the Day,https://www.tohoku.ac.jp/en/press/flexible_brain_how_circuit_excitability_and_plasticity_shift_across_the_day.html,XzetaU8,2.0,0.0,2025-11-12 06:25:58+00:00,shell,neutral
+45896954,Pay Once Use Forever,https://payonceuseforever.io/,mddanishyusuf,1.0,3.0,2025-11-12 06:27:02+00:00,,neutral
+45896972,Statistical tests are complicated because their inventors didn't have computers,https://agarriga.substack.com/p/statistical-tests-are-complicated,Gormisdomai,11.0,0.0,2025-11-12 06:30:28+00:00,typescript,negative
+45896977,Another Linux Malware Discovered,https://www.linux-magazine.com/Online/News/Another-Linux-Malware-Discovered,elashri,2.0,0.0,2025-11-12 06:30:59+00:00,,neutral
+45897006,The Rockchip calendar used by the RK808 counts November with 31 days (2015),https://github.com/torvalds/linux/commit/f076ef44a44d02ed91543f820c14c2c7dff53716,riffraff,1.0,0.0,2025-11-12 06:35:41+00:00,typescript,neutral
+45897010,"Show HN: NEMO – A minimal Mac app for ""Eisenhower Matrix""-style task planning",https://apps.apple.com/us/app/nemo-eisenhower-matrix-memo/id6754600428?mt=12,dogoyster,2.0,0.0,2025-11-12 06:36:07+00:00,shell,negative
+45897016,You will own nothing and be (un)happy,https://racc.blog/you-will-own-nothing-and-be-unhappy/,showthemfangs,246.0,220.0,2025-11-12 06:37:13+00:00,,positive
+45897021,Fast Readers Think Ahead,https://www.nature.com/articles/s41593-025-02120-z,XzetaU8,2.0,0.0,2025-11-12 06:38:58+00:00,,positive
+45897026,Fuel Price Scaper,https://apify.com/johnvc/fuelprices,johncole,2.0,1.0,2025-11-12 06:39:57+00:00,,neutral
+45897041,Show HN: Speak your mind and get a prioritized action plan instantly,https://apps.apple.com/us/app/vachi-brain-dump-voice-notes/id6754346328,achalpandey,1.0,1.0,2025-11-12 06:42:31+00:00,shell,positive
+45897046,"Hormone replacement therapy will no longer carry a warning label, FDA says",https://www.nbcnews.com/health/womens-health/hormone-replacement-therapy-no-warning-label-fda-rcna243008,gmays,2.0,0.0,2025-11-12 06:43:28+00:00,,neutral
+45897057,Blame as a Service,https://www.humaninvariant.com/blog/blame,humaninvariant,7.0,0.0,2025-11-12 06:45:07+00:00,,neutral
+45897065,Show HN: SpatialRead – A Research Paper Reading Tool,https://spatialread.com,atalw,2.0,0.0,2025-11-12 06:45:49+00:00,shell,neutral
+45897068,Servo's SpiderMonkey Fork Mozjs,https://github.com/servo/mozjs,mnemonet,1.0,0.0,2025-11-12 06:46:14+00:00,javascript,neutral
+45897072,Show HN: CellARC Measuring Intelligence with Cellular Automata,https://arxiv.org/abs/2511.07908,mireklzicar,1.0,0.0,2025-11-12 06:46:30+00:00,shell,neutral
+45897073,Simplify Insurance Authorizations and Billing with Secure ESignatures,https://boldsign.com/blogs/insurance-authorizations-billing-esignatures/,Vijay_Amalan98,1.0,0.0,2025-11-12 06:46:36+00:00,,positive
+45897102,Local-first and open-source agent observability,https://github.com/The-Context-Company/observatory,mnemonet,1.0,0.0,2025-11-12 06:54:33+00:00,,neutral
+45897105,I made a new founder hub for startups and agencies. Fill it up with content,https://softodesign.com/,alwassikhan,1.0,0.0,2025-11-12 06:55:02+00:00,,positive
+45897108,Every Nose at Once,https://everynoise.com/,arguflow,2.0,1.0,2025-11-12 06:55:46+00:00,,neutral
+45897116,Gliter: Composable async and concurrency patterns for Go,https://github.com/arrno/gliter,thunderbong,1.0,0.0,2025-11-12 06:57:14+00:00,,neutral
+45897122,Simulating a Planet on the GPU: Part 1 (2022),https://www.patrickcelentano.com/blog/planet-sim-part-1,Doches,115.0,17.0,2025-11-12 06:58:06+00:00,,neutral
+45897135,Show HN: Typing Automator – type smooth text for demo videos,https://github.com/ritza-co/typing-automator,ritzaco,2.0,0.0,2025-11-12 07:00:17+00:00,shell,positive
+45897147,Scientists Call on the President of the European Commission to Retract AI Hype,https://www.iccl.ie/press-release/scientists-call-on-the-president-of-the-european-commission-to-retract-ai-hype-statement/,jruohonen,6.0,1.0,2025-11-12 07:02:16+00:00,typescript,neutral
+45897192,Show HN: Cloud Piano – Piano with MIDI Keyboard. Instant and Effortless,https://www.cloudpiano.app/,miika,1.0,0.0,2025-11-12 07:10:09+00:00,shell,neutral
+45897200,Warren Buffet's farewell letter [pdf],https://www.berkshirehathaway.com/news/nov1025.pdf,MinimalAction,29.0,2.0,2025-11-12 07:11:32+00:00,,neutral
+45897221,Show HN: BindWeave – Subject-Consistent AI Video Generation,https://www.bindweave1.com,Viaya,1.0,0.0,2025-11-12 07:15:17+00:00,shell,neutral
+45897223,A new AI model can forecast a person's risk of diseases across their life,https://www.economist.com/science-and-technology/2025/09/17/a-new-ai-model-can-forecast-a-persons-risk-of-diseases-across-their-life,austinallegro,2.0,1.0,2025-11-12 07:15:21+00:00,,positive
+45897225,"Ditch your (mut)ex, you deserve better",https://chrispenner.ca/posts/mutexes,JNRowe,15.0,1.0,2025-11-12 07:15:49+00:00,,positive
+45897234,Attempts to Steal CcTLD Domains,https://anti-theft.github.io/,f311a,1.0,0.0,2025-11-12 07:17:12+00:00,typescript,neutral
+45897246,Show HN: AI Terminal Course – Learn AI Engineering Like Learning Vim,https://www.npmjs.com/package/ai-terminal-course,josharsh,1.0,1.0,2025-11-12 07:19:21+00:00,shell,neutral
+45897253,Whosworkingnow.com,,belhassen2,2.0,0.0,2025-11-12 07:20:15+00:00,,neutral
+45897270,Who Eats French Fries with Mayonnaise?,https://savorysaga.info/who-eats-french-fries-with-mayonnaise/,austinallegro,3.0,2.0,2025-11-12 07:25:28+00:00,typescript,neutral
+45897271,Yann LeCun to depart Meta and launch AI startup focused on 'world models',https://www.nasdaq.com/articles/metas-chief-ai-scientist-yann-lecun-depart-and-launch-ai-start-focused-world-models,MindBreaker2605,807.0,615.0,2025-11-12 07:25:30+00:00,,neutral
+45897273,Hands-On Machine Learning with Scikit-Learn and PyTorch,https://github.com/ageron/handson-mlp,teleforce,2.0,0.0,2025-11-12 07:26:07+00:00,,neutral
+45897274,Google Posts Device Trees for Booting Pixel 10 Hardware with the Mainline Linux,https://www.phoronix.com/news/Google-Pixel-10-Google-DTs,todsacerdoti,7.0,0.0,2025-11-12 07:26:22+00:00,typescript,neutral
+45897278,Storytelling Is Holy. Don't Feed Kids AI Slop,https://sojo.net/magazine/november-2025/storytelling-holy-dont-feed-kids-ai-slop-ecd,jruohonen,9.0,0.0,2025-11-12 07:26:43+00:00,,neutral
+45897290,Are you for real? Here's how to spot AI-generated faces,https://www.thetimes.com/uk/science/article/how-to-spot-ai-generated-faces-quiz-j07lbmcmc,salkahfi,4.0,2.0,2025-11-12 07:28:55+00:00,,positive
+45897293,IRL cos – Wyoming LLC formation by Clerky,https://www.irlcos.com/,Onavo,1.0,0.0,2025-11-12 07:29:07+00:00,,neutral
+45897296,"Show HN: Omnilingual ASR – Global Speech Recognition for 1,600 Languages",https://www.omnilingualasr1.com/?i=d1d5k,lu794377,1.0,0.0,2025-11-12 07:30:00+00:00,shell,neutral
+45897313,NaNoWriMo and the creative power of looming fear,https://buttondown.com/blog/nanowrimo-lessons-email,maguay,3.0,0.0,2025-11-12 07:32:45+00:00,,positive
+45897319,I Teach Creative Writing. This Is What A.I. Is Doing to Students,https://www.nytimes.com/2025/07/18/opinion/ai-chatgpt-school.html,the-mitr,13.0,2.0,2025-11-12 07:33:51+00:00,,positive
+45897323,Vibe Hacking a Padding Oracle,https://beny23.github.io/posts/capturing_a_padding_oracle/,beny23,2.0,0.0,2025-11-12 07:35:07+00:00,,neutral
+45897395,"AI is taking our jobs, and now fine lines too",https://www.greyb.com/newsletters/ai-is-taking-our-jobs-and-now-fine-lines-too/,velvet_thunderr,2.0,0.0,2025-11-12 07:47:25+00:00,,positive
+45897418,HAProxy Unified Gateway (Beta),https://www.haproxy.com/blog/announcing-haproxy-unified-gateway-beta,rfmoz,1.0,0.0,2025-11-12 07:50:23+00:00,,neutral
+45897432,Do you want to know the range of your singing?Come and test your vocal range,https://www.singmeter.com,bitvvip,1.0,0.0,2025-11-12 07:53:05+00:00,,neutral
+45897457,Please donate to keep Network Time Protocol up – Goal 1k,https://www.ntp.org/,gastonmorixe,306.0,230.0,2025-11-12 07:56:35+00:00,,neutral
+45897468,ChatGPT Watermark Remover – Instant and Secure Tool,https://gptwatermarkremover.online/,lizbo,1.0,0.0,2025-11-12 07:57:54+00:00,,positive
+45897474,The Model of Catastrophe,https://aeon.co/essays/todays-complex-climate-models-arent-equivalent-to-reality,Gedxx,3.0,0.0,2025-11-12 07:58:35+00:00,,neutral
+45897486,Gen Z wants to know what their coworkers earn,https://fortune.com/2025/11/11/gen-z-share-salaries-compensation-at-work-wage-gap-transparency-wealth/,pretext,3.0,0.0,2025-11-12 08:00:44+00:00,typescript,positive
+45897505,About PyHtmlGui – A Python library for building user interfaces (2023),https://github.com/dirk-makerhafen/pyHtmlGui,atomicnature,1.0,0.0,2025-11-12 08:03:30+00:00,python,neutral
+45897535,Google Private AI Compute [pdf],https://services.google.com/fh/files/misc/private_ai_compute_technical_brief.pdf,neapolisbeach,1.0,0.0,2025-11-12 08:07:26+00:00,,neutral
+45897537,"ChatGPT stealth mode: listening but session closed, phone locked",https://github.com/rickballard/CoCivium,RickBallard,2.0,0.0,2025-11-12 08:07:36+00:00,,negative
+45897550,Understanding AMD's FSR 4,https://woti.substack.com/p/understanding-fsr-4,thunderbong,2.0,0.0,2025-11-12 08:09:34+00:00,,neutral
+45897564,Display proverbs and anything on macOS lockscreen,https://github.com/HenokB/selamta,henok_ademtew,1.0,0.0,2025-11-12 08:11:58+00:00,,neutral
+45897591,"HYC Co., Ltd, fiber optic passive device",https://hyc-system.com/,hycsystembella,1.0,2.0,2025-11-12 08:15:25+00:00,,neutral
+45897619,Testing Augment Code's New Credit System with 4 Real Tasks,https://blog.kilocode.ai/p/testing-augment-codes-new-credit,todsacerdoti,1.0,0.0,2025-11-12 08:18:52+00:00,,positive
+45897617,"Loom: Universal AI Runtime for Local, Cross-Platform Inference",https://medium.com/@planetbridging/loom-the-universal-ai-runtime-that-works-everywhere-and-why-that-matters-54de5e7ec182,openfluke,1.0,1.0,2025-11-12 08:18:52+00:00,,neutral
+45897647,Show HN: YaraDB – Lightweight open-source document database built with FastAPI,https://github.com/illusiOxd/yaradb,ashfromsky,9.0,1.0,2025-11-12 08:24:00+00:00,shell,neutral
+45897660,How Warp Works,https://www.warp.dev/blog/how-warp-works,seansh,1.0,0.0,2025-11-12 08:25:23+00:00,,neutral
+45897669,Preexec and precmd functions for Bash just like Zsh,https://github.com/rcaloras/bash-preexec,seansh,1.0,0.0,2025-11-12 08:26:03+00:00,shell,neutral
+45897681,Phoenix – Highly Optimized Solver for the Nonlinear 2D Schrödinger Equation,https://github.com/Schumacher-Group-UPB/PHOENIX,woopsah,2.0,0.0,2025-11-12 08:27:10+00:00,,positive
+45897713,AgentxSuite – an open-source control plane for AI agents and MCP servers,https://github.com/alparn/agentxsuite,aliparnan,2.0,1.0,2025-11-12 08:30:23+00:00,typescript,neutral
+45897729,Partial Collapse of Hongqi Bridge in SW China [video],https://www.youtube.com/watch?v=gVsRI7JcYjU,johnp314,4.0,1.0,2025-11-12 08:32:06+00:00,,negative
+45897732,Climate Risk Index 2026,https://www.germanwatch.org/en/cri,simonebrunozzi,1.0,0.0,2025-11-12 08:32:16+00:00,,neutral
+45897751,"Show HN: Offline Pen-and-Paper Games for Kids (No Screens, No Ads)",https://scribblepadgames.com/,z2plusc,3.0,3.0,2025-11-12 08:34:43+00:00,shell,neutral
+45897756,The political meddling that led to BBC crisis,https://theconversation.com/the-political-meddling-that-led-to-bbc-crisis-and-how-to-stop-it-in-the-future-269453,strogonoff,6.0,0.0,2025-11-12 08:35:27+00:00,,neutral
+45897765,Elon Musk Says Tesla Robots Can Prevent Future Crime,https://www.newsweek.com/elon-musk-tesla-robots-prevent-future-crime-11028660,saubeidl,1.0,1.0,2025-11-12 08:37:21+00:00,typescript,neutral
+45897783,A mom and a pastor shot two escaped lab monkeys,https://www.washingtonpost.com/nation/2025/11/08/monkeys-shot-research-lab-crash/,_tk_,3.0,0.0,2025-11-12 08:40:14+00:00,shell,neutral
+45897795,Vex8s: Generate VEX documents by parsing the Kubernetes SecurityContext,https://github.com/alegrey91/vex8s,alegrey91,1.0,0.0,2025-11-12 08:42:16+00:00,typescript,neutral
+45897804,Show HN: bebored – boredom workouts to stop doom-scrolling (iOS/Android),https://beboredapp.com/,oparinov,1.0,0.0,2025-11-12 08:43:19+00:00,typescript,neutral
+45897816,UK's Ofcom Is Monitoring VPNs Following Online Safety Act,https://www.techradar.com/vpn/vpn-privacy-security/exclusive-ofcom-is-monitoring-vpns-following-online-safety-act-heres-how,robtherobber,5.0,0.0,2025-11-12 08:45:10+00:00,,neutral
+45897851,Android 16 QPR1 source lands on AOSP,https://www.androidpolice.com/android-16-qpr1-source-finally-lands-on-aosp/,nickexyz,3.0,0.0,2025-11-12 08:50:09+00:00,,neutral
+45897908,Show HN: I built a free OCR tool powered by DeepSeek and PaddleOCR engines,https://deepseekocr.io,yeekal,1.0,1.0,2025-11-12 08:58:12+00:00,shell,positive
+45897909,Google Introducing Agent Sandbox,https://cloud.google.com/blog/products/containers-kubernetes/agentic-ai-on-kubernetes-and-gke,nkko,1.0,0.0,2025-11-12 08:58:24+00:00,,neutral
+45897924,"The new architecture behind our ChatGPT-based browser, Atlas",https://openai.com/index/building-chatgpt-atlas/,charlieirish,1.0,0.0,2025-11-12 09:00:21+00:00,,negative
+45897934,From tango to StarCraft: Creative activities linked to slower brain aging,https://www.psypost.org/from-tango-to-starcraft-creative-activities-linked-to-slower-brain-aging-according-to-new-neuroscience-research/,isaacfrond,6.0,0.0,2025-11-12 09:01:39+00:00,go,positive
+45897935,"What happened to Transmeta, the last big dotcom IPO",https://dfarq.homeip.net/what-happened-to-transmeta-the-last-big-dotcom-ipo/,onename,223.0,138.0,2025-11-12 09:01:41+00:00,,neutral
+45897936,"Zeus, a Marvelous Time-Sharing System (1967) [video]",https://www.youtube.com/watch?v=Dv5shcFi-og,bilegeek,1.0,0.0,2025-11-12 09:01:50+00:00,shell,positive
+45897937,Using Game-Key Cards on Nintendo Switch 2 [video],https://www.youtube.com/watch?v=5ldQYMwzWrY,HelloUsername,1.0,0.0,2025-11-12 09:01:51+00:00,,neutral
+45897941,The 'Lost Sisters' of the Pleiades Fill the Night Sky,https://www.nytimes.com/2025/11/12/science/astronomy-stars-pleiades.html,quapster,3.0,0.0,2025-11-12 09:02:48+00:00,,neutral
+45897948,Resistance in the data-driven society – Internet Policy Review,https://policyreview.info/articles/analysis/resistance-data-driven-society,mefengl,1.0,0.0,2025-11-12 09:04:12+00:00,,neutral
+45897955,Based Linux – New Debian Based Ubuntu Alternative,https://basedlinux.com,clayrisser,3.0,3.0,2025-11-12 09:04:43+00:00,,positive
+45897963,Efficient Streaming of Markdown in the Terminal,https://willmcgugan.github.io/streaming-markdown/,willm,2.0,0.0,2025-11-12 09:05:47+00:00,,neutral
+45897972,Letting Steve Jobs play with menus for ten minutes made Mac calculator's design,https://arstechnica.com/gadgets/2025/11/the-mac-calculators-original-design-came-from-letting-steve-jobs-play-with-sliders-for-ten-minutes/,isaacfrond,3.0,0.0,2025-11-12 09:06:55+00:00,,neutral
+45897975,G4 (Severe) Storm Levels Reached,https://www.swpc.noaa.gov/news/g4-severe-storm-levels-reached,ozfive,2.0,0.0,2025-11-12 09:07:26+00:00,,neutral
+45897983,Apple made a $230 crossbody sock,https://www.theverge.com/news/818328/apple-iphone-pocket-crossbody-knitted-sock-bag,isaacfrond,2.0,1.0,2025-11-12 09:08:50+00:00,,neutral
+45897984,ByteDance unveils China's most affordable AI coding agent at just US$1.30/month,https://www.scmp.com/tech/big-tech/article/3332365/bytedance-unveils-chinas-most-affordable-ai-coding-agent-just-us130-month,langitbiru,9.0,0.0,2025-11-12 09:08:50+00:00,,positive
+45897986,"Finding My Internal Compass, Literally",https://psychotechnology.substack.com/p/finding-my-internal-compass-literally,eatitraw,1.0,0.0,2025-11-12 09:09:03+00:00,,neutral
+45897998,IncusOS – immutable OS image dedicated to running Linux containers and vms,https://github.com/lxc/incus-os,moondev,3.0,0.0,2025-11-12 09:10:28+00:00,,neutral
+45898001,The Rise of Exit Taxes,https://eidel.io/the-rise-of-exit-taxes/,olieidel,3.0,0.0,2025-11-12 09:10:57+00:00,,neutral
+45898002,AI turns photos into videos with one click,https://medium.com/@kcoka370/ai-old-photo-restoration-pro-turn-faded-memories-into-4k-colorful-videos-0097f71999ba,Gustavislav,4.0,3.0,2025-11-12 09:11:00+00:00,,neutral
+45898043,Show HN: Rtrvr.ai – Remote Control Your Browser with an AI Web Agent and MCP,https://www.rtrvr.ai,arjunchint,6.0,3.0,2025-11-12 09:16:59+00:00,shell,negative
+45898048,Show HN: Zen Moment - Next.js Meditation Platform with Breathing Tools,https://zenmoment.net,951560368,1.0,0.0,2025-11-12 09:18:03+00:00,javascript,neutral
+45898057,Raylib vs. Godot: A Highly Subjective Comparison,https://michaelenger.com/blog/game-engine-research/,somenameforme,2.0,0.0,2025-11-12 09:18:45+00:00,,positive
+45898059,Show HN: Free box plot maker with CSV upload and automatic outlier detection,https://boxplotmaker.online,AriaShaw,3.0,0.0,2025-11-12 09:19:07+00:00,shell,positive
+45898065,"J.P. Morgan calls out AI spend, $650B required to deliver 10% return",https://www.tomshardware.com/tech-industry/artificial-intelligence/usd650-billion-in-annual-revenue-required-to-deliver-10-percent-return-on-ai-buildout-investment-j-p-morgan-claims-equivalent-to-usd35-payment-from-every-iphone-user-or-usd180-from-every-netflix-subscriber-in-perpetuity,dude250711,7.0,0.0,2025-11-12 09:20:43+00:00,,neutral
+45898095,Problems with Move Semantics in C++,https://www.youtube.com/watch?v=Klq-sNxuP2g,birdculture,1.0,0.0,2025-11-12 09:24:37+00:00,c++,neutral
+45898120,"Show HN: Automate App Store Connect configuration – IAPs, subs, metadata",https://storeconfig.com,semihcihan,3.0,0.0,2025-11-12 09:28:43+00:00,shell,neutral
+45898123,The UAE Is Winning the Race to Sequence a Country's DNA,https://www.bloomberg.com/news/features/2025-11-06/the-uae-is-winning-the-race-to-sequence-an-entire-country-s-dna,MKais,3.0,0.0,2025-11-12 09:29:13+00:00,,positive
+45898127,Providing the Makeshift Traveler to those experiencing unsheltered homelessness,https://thehomemoreproject.org/,doener,2.0,1.0,2025-11-12 09:29:36+00:00,shell,neutral
+45898146,Curated collection of 407 cutting-edge cybersecurity tools,https://hacker-arsenal.tools/,b16m,4.0,0.0,2025-11-12 09:32:03+00:00,,neutral
+45898154,Sudo-Rs Affected by Multiple Security Vulnerabilities – Impacting Ubuntu 25.10,https://www.phoronix.com/news/sudo-rs-security-ubuntu-25.10,iparaskev,6.0,3.0,2025-11-12 09:33:20+00:00,,neutral
+45898185,I converted a rotary phone into a meeting handset,https://www.stavros.io/posts/i-converted-a-rotary-phone-into-a-meeting-handset/,todsacerdoti,2.0,0.0,2025-11-12 09:37:41+00:00,,neutral
+45898200,New plant species discovered by team,https://www.newindianexpress.com/states/tamil-nadu/2025/Nov/12/new-plant-species-discovered-by-team-from-tns-pollachi-college,saaspirant,4.0,0.0,2025-11-12 09:40:40+00:00,,positive
+45898209,Georgia Tech Software Tools subsystem and C compiler for Prime computers,https://github.com/arnoldrobbins/gt-swt,fanf2,2.0,1.0,2025-11-12 09:42:02+00:00,c,neutral
+45898235,yt-dlp 2025.11.12,https://github.com/yt-dlp/yt-dlp/releases/tag/2025.11.12,LeoPanthera,10.0,1.0,2025-11-12 09:46:49+00:00,,neutral
+45898238,"Show HN: CodeReviewr – Pay per review, not per developer",https://codereviewr.app,sousvidal,1.0,0.0,2025-11-12 09:47:56+00:00,shell,neutral
+45898242,Cookiy AI,https://cookiy.ai/,StevenShao,1.0,1.0,2025-11-12 09:48:50+00:00,,neutral
+45898265,The Email That Broke Brussels,https://old.reddit.com/r/EUAIact/comments/1ouxntx/the_email_that_broke_brussels_or_how_i_learned_to/,robtherobber,12.0,7.0,2025-11-12 09:52:38+00:00,,neutral
+45898278,Costs and Benefits,,dcdropbox,1.0,0.0,2025-11-12 09:54:05+00:00,typescript,neutral
+45898313,Ossas (Open Source Summaries at Scale): The Inference.net × Laion × Grass,https://laion.ai/notes/summaries/,eamag,3.0,0.0,2025-11-12 09:58:42+00:00,,neutral
+45898345,A Tour of the Acme Editor [video],https://www.youtube.com/watch?v=dP1xVpMPn8M,bmacho,1.0,0.0,2025-11-12 10:04:36+00:00,,neutral
+45898356,Missing at U.N.'S Climate Meeting: American Executives,https://www.nytimes.com/2025/11/12/business/un-climate-corporate-executives.html,fleahunter,3.0,1.0,2025-11-12 10:06:29+00:00,,negative
+45898377,Security issues discovered in sudo-rs,https://lists.debian.org/debian-security-announce/2025/msg00218.html,kahlonel,23.0,14.0,2025-11-12 10:08:53+00:00,,neutral
+45898407,Yt-dlp: External JavaScript runtime now required for full YouTube support,https://github.com/yt-dlp/yt-dlp/issues/15012,bertman,912.0,540.0,2025-11-12 10:12:53+00:00,javascript,positive
+45898440,"Data-Driven Case Study: Posting a 43K-Word Article on R/cprogramming, R/rust",https://github.com/InfiniteConsult/0004_std_lib_http_client,birdculture,1.0,0.0,2025-11-12 10:17:35+00:00,rust,neutral
+45898441,"Cybersecurity interview prep sucks, so I built something better",https://cyberinterviewprep.com/,malwareandchill,2.0,3.0,2025-11-12 10:17:47+00:00,,positive
+45898450,Chat Control 2.0 through the back door,https://www.patrick-breyer.de/en/chat-control-2-0-through-the-back-door-breyer-warns-the-eu-is-playing-us-for-fools-now-theyre-scanning-our-texts-and-banning-teens/,robtherobber,94.0,20.0,2025-11-12 10:19:03+00:00,,neutral
+45898452,Denmark Pushing Chat Control 2.0 with Mandatory Message Scanning,https://old.reddit.com/r/europe/comments/1oukzov/the_eu_council_danish_presidency_is_trying_to/,user2722,10.0,1.0,2025-11-12 10:19:15+00:00,shell,neutral
+45898467,Show HN: DeltaGlider – Store 4TB of build artifacts in 5GB,https://github.com/beshu-tech/deltaglider,sscarduzio,6.0,1.0,2025-11-12 10:21:27+00:00,typescript,neutral
+45898468,"Qilin Ransomware Attack on Yaesu, Leading Japanese Manufacturer",https://www.dexpose.io/qilin-ransomware-attack-on-yaesu-leading-japanese-manufacturer/,austinallegro,1.0,0.0,2025-11-12 10:21:28+00:00,,neutral
+45898486,How the Web Was Lost,https://www.nybooks.com/articles/2025/12/04/how-the-web-was-lost-internet-this-is-for-everyone/,aryonoco,5.0,1.0,2025-11-12 10:22:53+00:00,,neutral
+45898495,PS5 Has Now Officially Outsold Every Xbox Console Ever Released,https://www.ign.com/articles/ps5-has-now-officially-outsold-every-xbox-console-ever-released,jnord,3.0,0.0,2025-11-12 10:23:54+00:00,,neutral
+45898498,AI vs. the cheating: lessons from building a national exam integrity system,,leekuanyew,2.0,1.0,2025-11-12 10:24:40+00:00,,neutral
+45898518,Growing Software,https://www.pearprogramming.blog/programming/opinions/2025/11/11/why-rails-just-stayed-with-me/,unripe_syntax,1.0,0.0,2025-11-12 10:28:38+00:00,,neutral
+45898536,"""Android Developer Verification Discourse"" by agnostic-apollo, Termux developer",https://old.reddit.com/r/termux/comments/1ourtxj/android_developer_verification_discourse/,sipofwater,3.0,1.0,2025-11-12 10:30:42+00:00,,neutral
+45898547,Show HN: nanoTabPFN – A Lightweight and Educational Reimplementation of TabPFN,https://github.com/automl/nanoTabPFN,alextpfefferle,1.0,0.0,2025-11-12 10:33:05+00:00,shell,positive
+45898580,Chad IDE → the First Brainrot IDE,https://www.ycombinator.com/launches/OgV-chad-ide-the-first-brainrot-ide,cocoflunchy,4.0,0.0,2025-11-12 10:39:45+00:00,,positive
+45898596,Why Bloom filters work the way they do,https://michaelnielsen.org/ddi/why-bloom-filters-work-the-way-they-do/,sebg,4.0,0.0,2025-11-12 10:42:51+00:00,,neutral
+45898605,Ask HN: A platform to manage personal and sensitive data for digital twins?,,krecharles,1.0,1.0,2025-11-12 10:45:41+00:00,,positive
+45898607,How to Promote Your Telegram Channel – 10 Free and Effective Ways,https://tghero.pro/promote-telegram/,Maiathe,1.0,0.0,2025-11-12 10:46:01+00:00,,positive
+45898634,Inferno: Single player remaster of the 1995 classic Descent 1,https://github.com/nbayazes/Inferno,klaussilveira,2.0,0.0,2025-11-12 10:51:06+00:00,,positive
+45898637,Homebrew 5.0.0,https://brew.sh/2025/11/12/homebrew-5.0.0/,ingve,28.0,5.0,2025-11-12 10:51:22+00:00,,neutral
+45898653,The per-request isolation architecture of TinyKVM,https://fwsgonzo.medium.com/per-request-isolation-in-tinykvm-explained-080e84328ba4,fwsgonzo,1.0,0.0,2025-11-12 10:54:11+00:00,,neutral
+45898669,Molecular Machines: The next industrial revolution [video],https://www.youtube.com/watch?v=wZOrJd3RhDE,surprisetalk,3.0,0.0,2025-11-12 10:57:32+00:00,,neutral
+45898670,Determining the golden ratio of ketamine stereoisomers,https://psychotechnology.substack.com/p/determining-the-golden-ratio-of-ketamine,surprisetalk,1.0,0.0,2025-11-12 10:57:41+00:00,,positive
+45898672,Submitting Your Research to a Journal,https://angadh.com/inkhaven-3,surprisetalk,1.0,0.0,2025-11-12 10:57:55+00:00,,neutral
+45898673,Wobble Web [video],https://www.youtube.com/watch?v=0Wh7r5hIqhU,surprisetalk,1.0,0.0,2025-11-12 10:58:05+00:00,,neutral
+45898674,Show HN: Tokenflood – simulate arbitrary loads on instruction-tuned LLMs,https://github.com/twerkmeister/tokenflood,twerkmeister,5.0,0.0,2025-11-12 10:58:12+00:00,shell,negative
+45898680,Ask HN: What agentic framework do you use?,,eibrahim,1.0,1.0,2025-11-12 10:59:30+00:00,,neutral
+45898689,China Accuses US of Orchestrating $13B Bitcoin Hack,https://www.bloomberg.com/news/articles/2025-11-11/china-accuses-us-of-orchestrating-13-billion-bitcoin-hack,giuliomagnifico,5.0,1.0,2025-11-12 11:00:22+00:00,,neutral
+45898691,Git Quick – fast Git workflows with AI-powered commit messages,https://medium.com/@vswaroop04/git-quick-lightning-fast-git-workflows-with-ai-powered-commit-messages-988088e89cf6,vswaroop04,2.0,1.0,2025-11-12 11:00:46+00:00,,positive
+45898693,Show HN: Hotkey → Screenshot → AI Help. Works in Every App,https://github.com/thisisharsh7/seeva-ai-assistant,thisisharsh7,6.0,0.0,2025-11-12 11:00:47+00:00,shell,neutral
+45898706,Helios: A 98-qubit trapped-ion quantum computer,https://arxiv.org/abs/2511.05465,fuglede_,1.0,0.0,2025-11-12 11:02:46+00:00,,neutral
+45898721,Google vows to stop scam E-Z Pass and USPS texts plaguing Americans,https://arstechnica.com/tech-policy/2025/11/google-vows-to-stop-scam-e-z-pass-and-usps-texts-plaguing-americans/,BlackPlot,20.0,5.0,2025-11-12 11:04:53+00:00,typescript,neutral
+45898752,Infrastructure or Intrusion?,https://algorithmwatch.org/en/infrastructure-intrusion-conflict-data-center/,jruohonen,1.0,0.0,2025-11-12 11:11:36+00:00,,neutral
+45898769,Mls-chat: Example client/server for the MLS protocol based on OpenMLS,https://github.com/q10elabs/mls-chat,knz42,1.0,1.0,2025-11-12 11:14:19+00:00,,neutral
+45898773,What is Purchasing power parity and why you may implement it?,https://hugo.writizzy.com/purchasing-power-parity-ppp/4ea79d1b-988e-4a9f-8d0f-3d7557703fb5,hlassiege,1.0,0.0,2025-11-12 11:14:53+00:00,,neutral
+45898789,Pakistani newspaper mistakenly prints AI prompt with the article,https://twitter.com/omar_quraishi/status/1988518627859951986,wg0,476.0,162.0,2025-11-12 11:17:06+00:00,typescript,neutral
+45898790,Checklist for Preventing Browser Fingerprinting,https://cloudexplorer.ai/checklist-preventing-browser-fingerprinting/,BlackPlot,1.0,0.0,2025-11-12 11:17:18+00:00,,neutral
+45898801,"Loom – An event-driven OS for AI agents, built by a college junior in 10 days",https://github.com/loom-os/loom,JaredforReal,2.0,1.0,2025-11-12 11:19:43+00:00,,neutral
+45898805,"Aspire – Your Stack, Streamlined",https://aspire.dev/,styx31,3.0,0.0,2025-11-12 11:20:07+00:00,,neutral
+45898812,How should open source software projects handle AI‑generated code?,https://manualdousuario.net/en/open-source-ai-code-keepassxc/,rpgbr,1.0,0.0,2025-11-12 11:21:23+00:00,typescript,neutral
+45898819,I Think the BBC's Future Is Bleak,https://livelyclock.substack.com/p/why-i-think-the-bbcs-future-is-bleak,thomasfromcdnjs,3.0,0.0,2025-11-12 11:22:33+00:00,,negative
+45898833,"HackGPT Enterprise, AI-Powered Penetration Testing Platform",https://github.com/yashab-cyber/HackGpt,salkahfi,2.0,1.0,2025-11-12 11:24:04+00:00,,neutral
+45898836,Datephotos.ai,https://datephotos.ai,jacobgor502,1.0,0.0,2025-11-12 11:24:22+00:00,,neutral
+45898842,Django-Tailwind v4.4: Now with Zero Node.js Setup via Standalone Tailwind CLI,https://timonweb.com/django/django-tailwind-v44-now-with-zero-nodejs-setup-via-standalone-tailwind-cli/,bobjackson,1.0,0.0,2025-11-12 11:24:55+00:00,javascript,neutral
+45898856,Ask HN: How does one stay motivated to grind through LeetCode?,,blutoot,73.0,89.0,2025-11-12 11:26:33+00:00,,neutral
+45898863,"TimeClout: A New, Open-Source Tool to End Shift Scheduling Headaches",https://metaduck.com/announcing-timeclout-private-beta/,pgte,1.0,0.0,2025-11-12 11:27:58+00:00,shell,positive
+45898874,Show HN: Design canvas integrated into your AI IDE,https://www.velork.com/,alielroby,1.0,0.0,2025-11-12 11:29:20+00:00,shell,neutral
+45898881,EU Violates Case Law in Proposed GDPR Big Tech AI Training Carve-Out,https://noyb.eu/en/eu-commission-about-wreck-core-principles-gdpr,piltdownman,3.0,3.0,2025-11-12 11:31:29+00:00,,neutral
+45898923,Async and Finaliser Deadlocks,https://tratt.net/laurie/blog/2025/async_and_finaliser_deadlocks.html,todsacerdoti,16.0,11.0,2025-11-12 11:38:01+00:00,,neutral
+45898928,RF and Microwave Power Amplifiers,https://us.artechhouse.com/RF-and-Microwave-Power-Amplifiers-P2436.aspx,teleforce,1.0,0.0,2025-11-12 11:38:34+00:00,,neutral
+45898931,GLP-1 receptor agonists on five-year mortality in patients with colon cancer,https://www.tandfonline.com/doi/full/10.1080/07357907.2025.2585512,01-_-,1.0,0.0,2025-11-12 11:39:13+00:00,typescript,neutral
+45898939,Ethics isn't about being a good person,https://www.lableaks.dev/p/ethics-isnt-about-being-a-good-person,didgeoridoo,3.0,0.0,2025-11-12 11:40:13+00:00,,positive
+45898946,Diving into Reactive Programming in Node.js,https://blog.appsignal.com/2025/11/12/diving-into-reactive-programming-in-nodejs.html,amalinovic,1.0,0.0,2025-11-12 11:41:18+00:00,javascript,neutral
+45898953,Raft Consensus in 2k Words,https://news.alvaroduran.com/p/raft-consensus-in-2000-words,ohduran,4.0,5.0,2025-11-12 11:41:56+00:00,,neutral
+45898979,I built an unlimited AI video generator powered by Sora 2,https://powervideo.net/,LeoWood42,1.0,1.0,2025-11-12 11:45:32+00:00,,neutral
+45898985,Cold Truth,https://drexel.edu/westphal/academics/undergraduate/graphic-design/polishpostercollections/cold-truth/,jruohonen,1.0,0.0,2025-11-12 11:46:24+00:00,,negative
+45899006,Netzbremse – Deutsche Telekom is throttling the Internet,https://netzbremse.de/en/speed/,CrLf,3.0,0.0,2025-11-12 11:49:26+00:00,,neutral
+45899012,The No. 1 Country Song in America Is by a Non-Human Artist,https://www.thedailybeast.com/the-no-1-country-song-in-america-is-by-a-non-human-artist/,Brajeshwar,2.0,1.0,2025-11-12 11:50:16+00:00,,neutral
+45899017,OpenAI loses song lyrics copyright case in German court,https://www.dw.com/en/openai-loses-song-lyrics-copyright-case-in-german-court/a-74698240,pimeys,4.0,1.0,2025-11-12 11:51:13+00:00,,negative
+45899037,Newshosting Black Friday Deal,https://controlpanel.newshosting.com/signup/,USENET_DEAL,1.0,0.0,2025-11-12 11:54:14+00:00,shell,negative
+45899040,Scientists Grow More Hopeful About Ending a Global Organ Shortage,https://www.nytimes.com/2025/11/12/health/pig-organs-transplants.html,Metacelsus,2.0,0.0,2025-11-12 11:54:23+00:00,typescript,positive
+45899074,Mojo-V: Secret Computation for RISC-V,https://github.com/toddmaustin/mojo-v,fork-bomber,2.0,0.0,2025-11-12 11:57:23+00:00,,negative
+45899077,Open Source Games,https://github.com/bobeff/open-source-games,Brajeshwar,31.0,3.0,2025-11-12 11:57:51+00:00,,neutral
+45899111,The AI Boom Is Looking More and More Fragile,https://www.wsj.com/tech/ai/the-ai-boom-is-looking-more-and-more-fragile-bd546022,Brajeshwar,6.0,0.0,2025-11-12 12:01:30+00:00,,positive
+45899115,Masterworks Sold Investors $1B in Art. Did It Paint Too Rosy a Picture?,https://www.nytimes.com/2025/11/12/arts/design/a-company-sold-investors-1-billion-in-art-did-it-paint-too-rosy-a-picture.html,cainxinth,1.0,0.0,2025-11-12 12:01:55+00:00,,neutral
+45899118,Caffewerks,https://caffewerks.com,bellamoon544,1.0,1.0,2025-11-12 12:02:15+00:00,,neutral
+45899152,"Show HN: pgflow – Workflows for Supabase, no external services (Postgres-first)",https://demo.pgflow.dev/,jumski,1.0,0.0,2025-11-12 12:06:13+00:00,shell,neutral
+45899153,Show HN: Save your Claude Code Session to Git,https://github.com/deemkeen/claude-session-management,deemkeen,2.0,0.0,2025-11-12 12:06:28+00:00,shell,neutral
+45899155,How ‘The Disintegration Loops’ Saved William Basinski’s Life,https://www.nytimes.com/2025/11/10/arts/music/disintegration-loops-william-basinski.html,XzetaU8,3.0,1.0,2025-11-12 12:06:37+00:00,,neutral
+45899170,Normalize giving your children homes instead of a college education,https://twitter.com/bennyjohnson/status/1988418969045246014,bilsbie,2.0,0.0,2025-11-12 12:08:03+00:00,,neutral
+45899172,AI Fatigue: Reflections on the Human Side of AI's Rapid Advancement,https://cacm.acm.org/opinion/ai-fatigue-reflections-on-the-human-side-of-ais-rapid-advancement/,rbanffy,2.0,0.0,2025-11-12 12:08:14+00:00,,neutral
+45899174,97% of listeners cannot distinguish between AI and human-composed songs,https://www.reuters.com/legal/litigation/are-you-listening-bots-survey-shows-ai-music-is-virtually-undetectable-2025-11-12/,giuliomagnifico,7.0,6.0,2025-11-12 12:08:20+00:00,shell,neutral
+45899175,The Pioneers of Computational Physics,https://physicsworld.com/a/the-forgotten-pioneers-of-computational-physics/,sohkamyung,2.0,0.0,2025-11-12 12:08:37+00:00,,neutral
+45899189,A brief look at FreeBSD,https://yorickpeterse.com/articles/a-brief-look-at-freebsd/,todsacerdoti,131.0,71.0,2025-11-12 12:10:11+00:00,,neutral
+45899201,"Make It Possible, Then Make It Normal",https://danielmangum.com/posts/possible-then-normal/,hasheddan,1.0,0.0,2025-11-12 12:11:37+00:00,,positive
+45899218,Google Big Sleep has found 77 Memory Corruption Issues with AI,https://issuetracker.google.com/savedsearches/7155917?s=modified_time:desc&p=1,rot22,1.0,0.0,2025-11-12 12:14:24+00:00,,neutral
+45899237,"Studio-quality headshots from selfies, with TRUE likeness (in 4K)",https://primeshot.ai,_holt,1.0,1.0,2025-11-12 12:16:31+00:00,typescript,positive
+45899241,Innovation Doesn't Die. It Just Misses Its Moment,https://medium.com/@egorich42/innovation-doesnt-die-it-just-misses-its-moment-7c8596724645,Egorich42,2.0,2.0,2025-11-12 12:16:53+00:00,typescript,neutral
+45899242,"600B Dollars, Failed Model, Missing Minds Can Meta Recover Its AI Edge",https://medium.com/@anwarzaid76/600-billion-dollars-failed-models-and-missing-minds-can-meta-recover-its-ai-edge-21045c023867,MindBreaker2605,2.0,0.0,2025-11-12 12:17:06+00:00,typescript,negative
+45899248,Matrix Arcade,https://yizhe-ang.github.io/matrix-explorable//,lackoftactics,1.0,0.0,2025-11-12 12:17:38+00:00,,neutral
+45899250,"World oil and gas demand could grow until 2050, IEA says",https://www.reuters.com/sustainability/boards-policy-regulation/world-oil-gas-demand-could-grow-until-2050-iea-says-2025-11-12/,geox,1.0,0.0,2025-11-12 12:17:57+00:00,,neutral
+45899257,Show HN: AI Nexus – Multi-model workspace with projects and branching,https://getainexus.com,michaelanckaert,2.0,0.0,2025-11-12 12:19:04+00:00,typescript,neutral
+45899263,GenAI for Computing Careers: A Sunny Take – Communications of the ACM,https://cacm.acm.org/blogcacm/genai-for-computing-careers-a-sunny-take/,rbanffy,1.0,0.0,2025-11-12 12:19:21+00:00,,neutral
+45899272,J.P. Morgan calls out the absurdity of AI spend,https://www.businessinsider.com/ai-stocks-market-outlook-dot-com-bubble-prediction-jpmorgan-2025-11,teleforce,7.0,1.0,2025-11-12 12:20:13+00:00,,neutral
+45899283,United Airlines seeks to end lawsuit over windowless 'window seats',https://www.reuters.com/sustainability/boards-policy-regulation/united-airlines-seeks-end-lawsuit-over-windowless-window-seats-2025-11-11/,woldemariam,2.0,2.0,2025-11-12 12:21:45+00:00,,neutral
+45899294,Grok believes Trump won the 2020 US Election,https://twitter.com/krassenstein/status/1988363918431973402,bjourne,5.0,6.0,2025-11-12 12:23:34+00:00,,neutral
+45899298,Microliths as a Microservices Alternative,https://www.ufried.com/blog/microservices_fallacy_10_microliths/,BinaryIgor,1.0,0.0,2025-11-12 12:23:49+00:00,,neutral
+45899302,How to Manage Google Sheets with Too Many Tabs,https://www.sheetsorganizer.com/blog/organize-google-sheets-tabs,josephautomates,1.0,0.0,2025-11-12 12:24:33+00:00,typescript,positive
+45899318,"bee cute furry face, m, argentina, side (2019)",https://www.usgs.gov/media/images/bee-cute-furry-face-m-argentina-side,Kye,1.0,0.0,2025-11-12 12:26:59+00:00,,positive
+45899357,The AI Bubble Is Ignoring Michael Burry's Fears,https://www.bloomberg.com/opinion/articles/2025-11-11/ai-bubble-is-ignoring-big-short-michael-burry-chip-depreciation-fears,thm,3.0,1.0,2025-11-12 12:31:45+00:00,,neutral
+45899366,The Shift from Computation to Conversation,https://dvitsios.org/2025/11/12/the-shift-from-computation-to-conversation/,djif,1.0,0.0,2025-11-12 12:32:10+00:00,shell,neutral
+45899380,When should we worry about AI being used to design pathogens?,https://www.rand.org/pubs/research_briefs/RBA4087-1.html,Marshferm,1.0,0.0,2025-11-12 12:33:53+00:00,shell,neutral
+45899381,"Show HN: PostIdentity, an AI that writes in your voice",https://postidentity.com,mutiny1907,5.0,0.0,2025-11-12 12:33:54+00:00,shell,neutral
+45899388,SwiftDisc – Native Swift Discord API for iOS and macOS Bots,https://github.com/M1tsumi/SwiftDisc,salkahfi,1.0,0.0,2025-11-12 12:35:02+00:00,swift,neutral
+45899401,Visual Studio 2026 release notes,https://learn.microsoft.com/en-us/visualstudio/releases/2026/release-notes,0x1997,3.0,0.0,2025-11-12 12:36:38+00:00,,neutral
+45899406,"Microsoft Office 95 – ""Hall of Tortured Souls"" [video]",https://www.youtube.com/watch?v=kK0M74E8PS4,debo_,1.0,1.0,2025-11-12 12:37:08+00:00,,neutral
+45899436,Firebase vs. Supabase vs. Appwrite: We Built the Same App Three Times,https://simpletechguides.com/comparisons/firebase-vs-supabase-vs-appwrite/,sixhobbits,1.0,0.0,2025-11-12 12:40:45+00:00,,neutral
+45899439,Sovereignty 2030: Nextcloud invests over €250M in digital sovereignty,https://nextcloud.com/blog/press_releases/nextcloud-invests-in-digital-sovereignty/,LukasReschke,1.0,0.0,2025-11-12 12:40:58+00:00,typescript,neutral
+45899442,How Open Source License Scanners Work,https://fossa.com/blog/how-open-source-license-scanners-work/,PaulHoule,2.0,0.0,2025-11-12 12:41:04+00:00,,neutral
+45899473,A WordPress plugin to apply Oxygen Builder styles to Gutenberg blocks,https://wordpress.org/plugins/levels-block-editor-styles-for-oxygen-builder/,drzivil,1.0,1.0,2025-11-12 12:46:00+00:00,,neutral
+45899478,Ask HN: Seeking advice on designing a personal document server,,tugcan,1.0,3.0,2025-11-12 12:46:26+00:00,,neutral
+45899484,"China's CO2 emissions haven't risen for 18 months, analysis finds",https://www.reuters.com/sustainability/climate-energy/chinas-co2-emissions-havent-risen-18-months-analysis-finds-2025-11-11/,giuliomagnifico,4.0,0.0,2025-11-12 12:47:13+00:00,,neutral
+45899491,Can you solve it? Two dead at the drink-off – who poisoned whom?,https://www.theguardian.com/science/2025/nov/10/can-you-solve-it-two-dead-at-the-drink-off-a-brilliant-new-lateral-thinking-puzzle,n1b0m,1.0,3.0,2025-11-12 12:47:58+00:00,,negative
+45899503,In-Depth iPhone Battery Experiment Pits Slow Charging Against Fast Charging,https://www.macrumors.com/2025/11/07/iphone-charging-battery-experiment/,akyuu,2.0,0.0,2025-11-12 12:49:29+00:00,typescript,negative
+45899510,Two meals for $1: Why China's youth are not spending,https://www.bbc.com/news/articles/cx2pvlvdve7o,nis0s,3.0,1.0,2025-11-12 12:50:18+00:00,,neutral
+45899543,"Show HN: Ketchup AI – Free AI image generator, no signup required",https://ketchup-ai.com/,harperhuang,1.0,0.0,2025-11-12 12:53:30+00:00,shell,positive
+45899555,Building a database design tool with Tambo and Gemini 2.5,,akinloluwami,1.0,0.0,2025-11-12 12:54:36+00:00,,neutral
+45899568,Write Cypress Tests in Natural Language with Cy.prompt(),https://www.cypress.io/blog/cy-prompt-experimental-launch,antiloper,3.0,1.0,2025-11-12 12:56:06+00:00,typescript,positive
+45899587,"Plan Slow, Act Fast",https://candost.blog/plan-slow-act-fast/,mooreds,1.0,0.0,2025-11-12 12:58:16+00:00,,negative
+45899591,Confronting the Bull in the Room,https://miakos.substack.com/p/confronting-the-bull-in-the-room,mooreds,1.0,0.0,2025-11-12 12:58:48+00:00,,neutral
+45899592,New study finds users are marrying and having virtual children with AI chatbots,https://www.psypost.org/new-study-finds-users-are-marrying-and-having-virtual-children-with-ai-chatbots/,giuliomagnifico,47.0,84.0,2025-11-12 12:58:59+00:00,,positive
+45899598,Social Contagion: How Others Control Your Behavior,https://www.psychologytoday.com/us/blog/cutting-edge-leadership/202209/social-contagion-how-others-secretly-control-your-behavior,RickJWagner,3.0,0.0,2025-11-12 12:59:28+00:00,,positive
+45899622,Secure Coding in JavaScript,https://stackoverflow.blog/2025/10/15/secure-coding-in-javascript/,mooreds,6.0,0.0,2025-11-12 13:01:50+00:00,javascript,positive
+45899654,Two popular gay dating platforms removed from Apple App Store in China,https://www.bbc.com/news/articles/c98n2kye01eo,iamnothere,3.0,4.0,2025-11-12 13:05:49+00:00,,positive
+45899667,Nameless Menu – Digital QR Menu Platform,https://www.namelessmenu.com/,angelmitrov,1.0,1.0,2025-11-12 13:06:56+00:00,,negative
+45899671,From Railway Madness to Digital Anxiety,https://worldhistory.substack.com/p/from-railway-madness-to-digital-anxiety,crescit_eundo,1.0,0.0,2025-11-12 13:07:04+00:00,,neutral
+45899682,Improving the UV-yeast experiment with sterile technique,https://chillphysicsenjoyer.substack.com/p/my-uv-experiment-worked,crescit_eundo,2.0,1.0,2025-11-12 13:08:11+00:00,,neutral
+45899718,.NET: Avoid Using Guid.CreateVersion7,https://gist.github.com/sdrapkin/03b13a9f7ba80afe62c3308b91c943ed,sdrapkin,2.0,1.0,2025-11-12 13:12:06+00:00,,neutral
+45899724,Show HN: Jsonl Viewer – Desktop app for 10M+ rows with nested flattening,https://iotdatasystems.gumroad.com/l/jsonlviewerpro_mac,hilti,1.0,1.0,2025-11-12 13:13:01+00:00,javascript,neutral
+45899732,"Z-machine coding problems, and what to automate",https://buttondown.com/entropicthoughts/archive/z-machine-coding-problems-and-what-to-automate/,crescit_eundo,1.0,0.0,2025-11-12 13:13:57+00:00,,neutral
+45899738,What balance bikes teach us about learning,https://saigaddam.medium.com/what-balance-bikes-teach-us-about-learning-33b6f6c87016,ChaitanyaSai,2.0,0.0,2025-11-12 13:14:32+00:00,,neutral
+45899741,New 'Lucifer' Bee with Devil-Like Horns Discovered in Australia,https://scienceclock.com/new-lucifer-bee-with-devil-like-horns-discovered-in-western-australia/,ashishgupta2209,1.0,2.0,2025-11-12 13:14:42+00:00,,positive
+45899757,Can Talking to an AI Version of a Loved One Help You Grieve?,https://www.scientificamerican.com/podcast/episode/can-talking-to-an-ai-version-of-a-loved-one-help-you-grieve/,quapster,1.0,0.0,2025-11-12 13:16:22+00:00,,positive
+45899758,iPhone Ethernet Bridge on RaspberryPi with Ubuntu Server,https://revontulet.dev/p/2025-iphone-ethernet-bridge-rpi-4-ubuntu/,rednafi,1.0,0.0,2025-11-12 13:16:30+00:00,,neutral
+45899760,"Star Wars Visions ""Black"" Shinya Ohira directed animation – the best new SW [video]",https://www.youtube.com/watch?v=_Y0i4Rb9nt8,Marshferm,1.0,0.0,2025-11-12 13:16:39+00:00,shell,positive
+45899762,RBI Keeps Repo Rate Unchanged: What It Means for Your Personal Loan Rates,https://www.smfgindiacredit.com/knowledge-center/rbi-leave-repo-rate-unchanged.aspx,saumyaraut11,1.0,0.0,2025-11-12 13:17:02+00:00,,neutral
+45899769,All schools in England to be given AI-generated pupil attendance targets,https://www.theguardian.com/education/2025/nov/12/all-schools-in-england-to-be-given-ai-generated-pupil-attendance-targets,nickcotter,1.0,1.0,2025-11-12 13:17:59+00:00,,neutral
+45899771,You're a computer science major. Don't panic,https://www.nytimes.com/2025/11/12/opinion/ai-coding-computer-science.html,azhenley,4.0,0.0,2025-11-12 13:18:18+00:00,,positive
+45899782,The second life of Japan's net cafes,https://www.japantimes.co.jp/business/2025/11/03/companies/internet-cafe-tokyo-kaikatsu-club/,PaulHoule,1.0,0.0,2025-11-12 13:19:24+00:00,,neutral
+45899788,In Support of Richard Stallman,https://stallmansupport.org,ekjhgkejhgk,12.0,9.0,2025-11-12 13:20:06+00:00,,neutral
+45899789,"Programming built the tower of Babel, AI destroyed it",https://video.ethz.ch/speakers/d-infk/2025/autumn/251-0100-00L/v/PIzwcVeB3rL,julkali,3.0,2.0,2025-11-12 13:20:07+00:00,,neutral
+45899809,Transforming AsyncStream with Swift Async Algorithms,https://tanaschita.com/swift-async-algorithms-asyncstream/,maguszin,2.0,0.0,2025-11-12 13:21:41+00:00,swift,neutral
+45899828,Open Source Admin Dashboard Template,https://shadcnstore.com/templates/dashboard/shadcn-dashboard-landing-template/,monavb,1.0,1.0,2025-11-12 13:23:33+00:00,shell,neutral
+45899831,How to Embrace Uncertainty While Building Conviction,https://secondvoice.substack.com/p/how-to-embrace-uncertainty-while,jger15,1.0,1.0,2025-11-12 13:23:59+00:00,,neutral
+45899836,CoMaps emerges as an Organic Maps fork,https://lwn.net/Articles/1024387/,altilunium,2.0,0.0,2025-11-12 13:24:58+00:00,,neutral
+45899838,Don't Overindex on Technical Skills,https://emeaentrepreneurs.com/anti/dont-overindex-on-technical-skills/,sixhobbits,4.0,0.0,2025-11-12 13:25:10+00:00,,neutral
+45899851,"Chart: Even Next to Nvidia, Tesla's Valuation Looks Ludicrous",https://www.statista.com/chart/34865/price-to-earnings-ratio-of-tesla-and-other-companies/,ZeljkoS,4.0,0.0,2025-11-12 13:26:33+00:00,,neutral
+45899857,Show HN: Developer-friendly bug reports without storing sensitive data,https://defect.report,qa-guy,2.0,0.0,2025-11-12 13:27:06+00:00,typescript,positive
+45899881,"Due to an unforeseen naming conflict, we are renaming Project AELLA to OSSAS",https://twitter.com/samhogan/status/1988448512137457767,mellosouls,1.0,1.0,2025-11-12 13:29:46+00:00,,negative
+45899897,[Video] Russia's AI robot falls seconds after being unveiled,https://www.bbc.co.uk/news/videos/crre8g5e45jo,martypitt,2.0,0.0,2025-11-12 13:31:05+00:00,,neutral
+45899900,USA Gives South Korea Green Light to Build Nuclear Submarines,https://www.navalnews.com/naval-news/2025/10/usa-gives-south-korea-green-light-to-build-nuclear-submarines/,mpweiher,3.0,0.0,2025-11-12 13:31:27+00:00,,positive
+45899914,SpaceX and Musk called on to rescue China's Shenzhou-20 crew,https://www.theregister.com/2025/11/10/chinas_shenzhou_problem_shows_a/,Bender,1.0,1.0,2025-11-12 13:32:43+00:00,shell,neutral
+45899916,A local VM Vagrant-based playground for Ansible and distributed loads,https://gitlab.com/franlego98/netlab,franlego98,1.0,0.0,2025-11-12 13:32:51+00:00,,neutral
+45899932,"The Download: how to survive a conspiracy theory, and moldy cities",https://www.technologyreview.com/2025/11/12/1127881/the-download-how-to-survive-a-conspiracy-theory-and-moldy-cities/,fleahunter,2.0,0.0,2025-11-12 13:34:12+00:00,,neutral
+45899952,Show HN: Solokit – Session-Driven Development Framework for Claude Code,https://www.getsolokit.com/,pless,1.0,1.0,2025-11-12 13:35:45+00:00,shell,neutral
+45899956,Market Winners and Losers from the 2025 U.S. Government Shutdown Ending,https://nxtribes.com/blog/market-winners-and-losers-from-the-2025-u-s-government-shutdown-ending,douglas5,5.0,2.0,2025-11-12 13:35:58+00:00,shell,negative
+45899972,SriLanka Census 2024 – Data Release,https://github.com/nuuuwan/lk_census_2024,nuuuwan,1.0,1.0,2025-11-12 13:36:43+00:00,,neutral
+45899996,Show HN: SkillGraph – Open-source agentic framework with skills instead of tools,https://github.com/tejassudsfp/skillgraph-backend,tejassuds,11.0,0.0,2025-11-12 13:38:46+00:00,shell,neutral
+45900028,G4 Severe Geomagnetic Storm Levels Reached,https://www.spaceweather.gov/news/g4-severe-storm-levels-reached,gametorch,1.0,0.0,2025-11-12 13:40:18+00:00,,neutral
+45900034,I left my Big Tech job at 50 to build a game,https://galantrix.com/blog/20251112/,gxd,5.0,0.0,2025-11-12 13:40:39+00:00,,negative
+45900043,What's New in C# 14,https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-14,DeathArrow,4.0,0.0,2025-11-12 13:41:09+00:00,c#,positive
+45900046,The Ethnic Phenomenon: groundbreaking Darwinian study of otherism & states [pdf],https://lesacreduprintemps19.wordpress.com/wp-content/uploads/2012/12/the-ethnic-phenomenon-1987-by-pierre-l-van-den-berghe.pdf,Marshferm,1.0,0.0,2025-11-12 13:41:29+00:00,,neutral
+45900053,Doom 3 BFG Technical Notes (2013) [pdf],https://mrelusive.com/publications/papers/DOOM-3-BFG-Technical-Note.pdf,klaussilveira,1.0,0.0,2025-11-12 13:41:59+00:00,,neutral
+45900091,New Epstein emails appear to reveal more Trump ties,https://www.npr.org/2025/11/12/nx-s1-5605582/epstein-files-release-trump-email-grijalva-massie,ChickeNES,29.0,0.0,2025-11-12 13:45:21+00:00,,positive
+45900095,Show HN: PageToChat – Use your own LLM account from any web page via right-click,https://pagetochat.com/,jviksne,1.0,0.0,2025-11-12 13:45:42+00:00,shell,positive
+45900102,Just Call Clone (Or Alias),https://smallcultfollowing.com/babysteps/blog/2025/11/10/just-call-clone/,birdculture,2.0,0.0,2025-11-12 13:46:01+00:00,,neutral
+45900103,Why Generative AI Struggles with Math (and How to Fix It),https://www.christopherspenn.com/2025/11/why-generative-ai-struggles-with-math-and-how-to-fix-it/,shlip,1.0,1.0,2025-11-12 13:46:02+00:00,,neutral
+45900108,Micro.blog launches new 'Studio' tier with video hosting,https://heydingus.net/blog/2025/11/micro-blog-offers-an-indie-alternative-to-youtube-with-its-studio-video-hosting-plan,justin-reeves,120.0,33.0,2025-11-12 13:46:28+00:00,,positive
+45900112,New Mini ITX Amiga 1200 PCB for 2025 – Building the Alicia [video],https://www.youtube.com/watch?v=8PMlUo1LGMU,onename,1.0,0.0,2025-11-12 13:47:09+00:00,,positive
+45900136,Postgres Internals Hiding in Plain Sight,https://www.crunchydata.com/blog/postgres-internals-hiding-in-plain-sight,plaur782,1.0,0.0,2025-11-12 13:48:58+00:00,,negative
+45900141,The Price of a Monkey,https://news.mongabay.com/short-article/2025/10/the-price-of-a-monkey/,PaulHoule,1.0,0.0,2025-11-12 13:49:40+00:00,,negative
+45900143,Show HN: Remember Your Accomplishments,https://accomplishments.app/,samteeeee,1.0,0.0,2025-11-12 13:49:51+00:00,shell,neutral
+45900159,The Geometry Behind Normal Maps,https://www.shlom.dev/articles/geometry-behind-normal-maps/,betamark,108.0,5.0,2025-11-12 13:50:47+00:00,,negative
+45900164,Microsoft Update Catalog: 2025-11 Dynamic Update for Windows 10 Version,https://www.catalog.update.microsoft.com/Search.aspx?q=Windows+10&scol=DateComputed&sdir=desc,TechTechTech,1.0,1.0,2025-11-12 13:51:00+00:00,,neutral
+45900177,Evidence from capuchin monkey trading behavior,https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=453add83319dba6c51520f7e07e0555229691633,ugur2nd,2.0,0.0,2025-11-12 13:52:01+00:00,,negative
+45900178,97% of people can't distinguish between AI-generated and human made music,https://newsroom-deezer.com/2025/11/deezer-ipsos-survey-97-of-people-cant-tell-the-difference-between-fully-ai-generated-and-human-made-music-clear-desire-for-transparency-and-fairness-for-artists/,s20n,2.0,3.0,2025-11-12 13:52:08+00:00,shell,neutral
+45900179,Long Hongqi bridge collapsed in southwest China,https://twitter.com/KCtoFL/status/1988272940782084129,begueradj,2.0,0.0,2025-11-12 13:52:12+00:00,,negative
+45900185,Fun-reliable side-channels for cross-container communication,https://h4x0r.org/funreliable/,viega,14.0,6.0,2025-11-12 13:52:35+00:00,,neutral
+45900189,Linguistic RL: 3B Models Exceed 100B Performance (86% vs. 81%),https://github.com/DRawson5570/linguistic-rl-scheduling,drawson5570,2.0,1.0,2025-11-12 13:53:28+00:00,,positive
+45900192,"I Wrote Task Manager – 30 Years Later, the Secrets You Never Knew [video]",https://www.youtube.com/watch?v=yQykvrAR_po,cstuder,1.0,0.0,2025-11-12 13:53:41+00:00,typescript,neutral
+45900193,First Isolation and Characterization of Bacteria from Operating Nuclear Reactors,https://pmc.ncbi.nlm.nih.gov/articles/PMC10456712/,keepamovin,3.0,0.0,2025-11-12 13:53:53+00:00,,positive
+45900209,GenAI meets Security – 5 15-min GenAI Videos,https://www.youtube.com/playlist?list=PLYGWJjYNEIt2b9pzSWTt-EbmL6A3b8VBj,raeroumeliotis,1.0,1.0,2025-11-12 13:55:11+00:00,typescript,neutral
+45900222,Solar-Powered Sea Slugs Shed Light on Search for Perpetual Green Energy (2018),https://www.rutgers.edu/news/solar-powered-sea-slugs-shed-light-search-perpetual-green-energy,speckx,2.0,0.0,2025-11-12 13:56:54+00:00,shell,positive
+45900238,Mysterious holes in the Andes may have been an ancient marketplace,https://www.sydney.edu.au/news-opinion/news/2025/11/10/mysterious-holes-in-the-andes-may-have-been-an-ancient-marketplace-new-research-suggests.html,gmays,2.0,0.0,2025-11-12 13:58:12+00:00,,neutral
+45900267,The Impact of Visual Generative AI on Advertising Effectiveness,https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5638311,ZeljkoS,1.0,0.0,2025-11-12 14:00:21+00:00,,neutral
+45900272,Character Input,https://www.practicepython.org/exercise/2014/01/29/01-character-input.html,ypond,1.0,0.0,2025-11-12 14:00:47+00:00,,neutral
+45900273,Ruby Symbols,https://tech.stonecharioteer.com/posts/2025/ruby-symbols/,stonecharioteer,2.0,0.0,2025-11-12 14:00:52+00:00,ruby,neutral
+45900274,"Australia at risk of 'high-impact sabotage' from China, says spy chief",https://www.bbc.com/news/articles/cg7n43emvejo,breve,5.0,0.0,2025-11-12 14:00:57+00:00,,neutral
+45900276,TorrentFreak Turns 20,https://torrentfreak.com/torrentfreak-turns-20-what-a-ride/,HieronymusBosch,25.0,0.0,2025-11-12 14:01:01+00:00,,neutral
+45900279,Preliminary patches posted to boot Pixel 10 hardware on mainline Linux kernel,https://lore.kernel.org/lkml/20251111192422.4180216-1-dianders@chromium.org/,gm678,1.0,0.0,2025-11-12 14:01:09+00:00,,neutral
+45900282,Character Input,,ypond,1.0,0.0,2025-11-12 14:01:29+00:00,,neutral
+45900283,Deriving Born's rule from Spacetime symmetries,https://zenodo.org/records/17580489,ned7,1.0,1.0,2025-11-12 14:01:30+00:00,,neutral
+45900289,"All-in-One Financial Data API: Stocks, Crypto, ETFs, Indices, Fundamentals",https://financialdata.net/stocks/AAPL,fdatanet,2.0,1.0,2025-11-12 14:02:07+00:00,,neutral
+45900307,Would You Wear a Period-Tracker Funded by Peter Thiel?,https://jessica.substack.com/p/period-tracker-peter-thiel,randycupertino,5.0,1.0,2025-11-12 14:03:53+00:00,,neutral
+45900318,Synthient Credential Stuffing Threat Data Breach,https://haveibeenpwned.com/Breach/SynthientCredentialStuffingThreatData,righthand,2.0,0.0,2025-11-12 14:04:32+00:00,,neutral
+45900326,Leland Stanford: Silicon Valley's Original Disruptor,https://stanfordmag.org/contents/leland-stanford-silicon-valley-s-original-disruptor,andsoitis,1.0,0.0,2025-11-12 14:05:17+00:00,,positive
+45900341,Defender of the Crown (Amiga),https://www.filfre.net/2015/04/defender-of-the-crown/,suioir,2.0,0.0,2025-11-12 14:06:27+00:00,,neutral
+45900352,Sentient: Transform Customer Feedback into Actionable Intelligence with AI,,iedayan03,1.0,0.0,2025-11-12 14:07:43+00:00,,neutral
+45900358,Preventing Python spaghetti with a few lines of code,https://seddonym.me/2025/11/12/six-lines-of-code/,seddonym,2.0,0.0,2025-11-12 14:08:00+00:00,python,negative
+45900370,Fighting the New York Times' invasion of user privacy,https://openai.com/index/fighting-nyt-user-privacy-invasion,meetpateltech,296.0,286.0,2025-11-12 14:08:28+00:00,,positive
+45900379,New UK laws to strengthen critical infrastructure cyber defenses,https://www.bleepingcomputer.com/news/security/new-uk-laws-to-strengthen-critical-infrastructure-cyber-defenses/,fleahunter,1.0,0.0,2025-11-12 14:09:17+00:00,,positive
+45900381,Show HN: Banana Prompts – Browse AI prompts and generate image,https://www.banana-prompts.org/,superstonne,2.0,0.0,2025-11-12 14:09:19+00:00,typescript,neutral
+45900392,Nonsurgical brain implant via cell–electronics hybrid for focal neuromodulation,https://www.nature.com/articles/s41587-025-02809-3,PaulHoule,1.0,0.0,2025-11-12 14:09:51+00:00,,neutral
+45900404,UCSD Faculty Sound Alarm on Declining Student Skills,https://marginalrevolution.com/marginalrevolution/2025/11/ucsd-faculty-sound-alarm-on-declining-student-skills.html,mhb,5.0,0.0,2025-11-12 14:10:43+00:00,,positive
+45900425,Show HN: I built a synth for my daughter,https://bitsnpieces.dev/posts/a-synth-for-my-daughter/,random_moonwalk,3.0,0.0,2025-11-12 14:12:13+00:00,shell,neutral
+45900474,Show HN: ContentKit Studio – Edit long videos fast with AI,,AhmedSlem,1.0,0.0,2025-11-12 14:16:42+00:00,shell,positive
+45900483,Apple helped kill netbooks. Will it bring them back?,https://www.theverge.com/tech/817277/apple-ipad-killed-the-netbook-cheap-macbook-is-bringing-them-back,pjmlp,2.0,5.0,2025-11-12 14:17:18+00:00,,neutral
+45900492,Coinbase and stablecoin startup BVNK call off $2B acquisition,https://fortune.com/2025/11/11/coinbase-bvnk-2-billion-deal-falls-through-stablecoins/,wslh,1.0,1.0,2025-11-12 14:18:13+00:00,,neutral
+45900516,Figma designs to code in minutes,,alielroby,1.0,0.0,2025-11-12 14:20:10+00:00,,neutral
+45900527,Metamaterials-Inspired Software Engineering,https://economyoftime.net/metamaterials-and-software-engineering-with-arrowspace-a13ab81540c9,tuned,1.0,0.0,2025-11-12 14:20:44+00:00,,neutral
+45900530,"Show HN: Ato – A thin ML layer. When results change, it tells you why",https://github.com/Dirac-Robot/ato,drbt,1.0,2.0,2025-11-12 14:20:51+00:00,typescript,negative
+45900569,Jellify – a FOSS music player for Jellyfin,https://github.com/Jellify-Music,xbmcuser,3.0,0.0,2025-11-12 14:23:57+00:00,,neutral
+45900578,The World Ahead 2026,https://www.economist.com/topics/the-world-ahead-2026,andsoitis,3.0,0.0,2025-11-12 14:24:39+00:00,,neutral
+45900596,"Visual Studio 2026 is here: faster, smarter, and a hit with early adopters",https://devblogs.microsoft.com/visualstudio/visual-studio-2026-is-here-faster-smarter-and-a-hit-with-early-adopters/,taubek,4.0,0.0,2025-11-12 14:25:51+00:00,,positive
+45900615,Sara2.io – AI Image and Video Generation Platform Using Nano Banana and Sora2,https://www.nanobana.net,amierhan,1.0,0.0,2025-11-12 14:27:19+00:00,,neutral
+45900640,My first Chrome Extension Transform everything into a text-only article,https://chromewebstore.google.com/detail/yumi-reader/mehgdiibdekeijgighimokcacadbeiof,uscnehn,2.0,0.0,2025-11-12 14:28:52+00:00,,positive
+45900659,Where did the 10k steps a day come from? (2018),https://www.theguardian.com/lifeandstyle/2018/sep/03/watch-your-step-why-the-10000-daily-goal-is-built-on-bad-science,rzk,4.0,2.0,2025-11-12 14:30:58+00:00,,neutral
+45900663,Backblaze Drive Stats for Q3 2025,https://www.backblaze.com/blog/backblaze-drive-stats-for-q3-2025/,woliveirajr,4.0,0.0,2025-11-12 14:31:08+00:00,typescript,neutral
+45900670,China's EV Market Is Imploding,https://www.theatlantic.com/international/2025/11/china-electric-cars-market/684887/,breve,5.0,1.0,2025-11-12 14:31:50+00:00,,neutral
+45900675,Bounding Speculative Execution of Atomic Regions to a Single Retry,https://dl.acm.org/doi/10.1145/3622781.3674176,blakepelton,2.0,1.0,2025-11-12 14:32:15+00:00,,negative
+45900677,Show HN: PixExact – text/image-to-image with exact pixel sizes (up to 4096px),https://www.pixexact.com,wismoy,1.0,0.0,2025-11-12 14:32:20+00:00,shell,positive
+45900686,Show HN: A tiny TypeScript library to guard against prompt injection,https://andersmyrmel.com/blog/a-lightweight-way-to-guard-against-prompt-injection/,andersmyrmel,1.0,0.0,2025-11-12 14:32:59+00:00,typescript,neutral
+45900701,Companies seeing real returns on agents,https://www.wsj.com/articles/companies-begin-to-see-a-return-on-ai-agents-671d830d,dschol,1.0,0.0,2025-11-12 14:34:08+00:00,,positive
+45900705,"MIT researchers propose a new model for legible, modular software",https://news.mit.edu/2025/mit-researchers-propose-new-model-for-legible-modular-software-1106,gadflyinyoureye,2.0,1.0,2025-11-12 14:34:21+00:00,,positive
+45900711,Show HN: Shopscan.io – Automated Shopify Store Audits for Agencies/Freelancers,https://shopscan.io?referer=hackernews&utm_source=hackernews,mrwangust,1.0,0.0,2025-11-12 14:34:50+00:00,typescript,neutral
+45900713,I'm a Psychoanalyst. This Is What Technology Is Doing to Us,https://www.nytimes.com/2025/11/11/opinion/iphone-therapy-meditation-mindfulness.html,bookofjoe,10.0,1.0,2025-11-12 14:34:56+00:00,,neutral
+45900718,"Wireless, energy-autonomous remote monitoring of bolted joints",https://www.lbf.fraunhofer.de/en/projects/energy-self-sufficient-remote-monitoring-screw-connection.html,o4c,2.0,0.0,2025-11-12 14:35:20+00:00,,negative
+45900745,"Wikipedia warns AI: Without human editors, machines risk collapse",https://onnetpulse.com/wikipedia-warns-ai-without-human-editors-machines-risk-collapse/,Contributor_G,3.0,0.0,2025-11-12 14:36:59+00:00,,neutral
+45900760,Confuse Some SSH Bots,https://mirror.newsdump.org/confuse-some-ssh-bots.html,Bender,2.0,1.0,2025-11-12 14:37:48+00:00,shell,neutral
+45900769,Did you know you can just buy blackbelts?,https://www.lesswrong.com/posts/XpfyNxH7sH7JCLhhA/did-you-know-you-can-just-buy-blackbelts,surprisetalk,1.0,3.0,2025-11-12 14:38:40+00:00,,neutral
+45900770,Posting Baby Pictures,https://justismills.substack.com/p/on-posting-baby-pictures,surprisetalk,2.0,0.0,2025-11-12 14:38:48+00:00,,neutral
+45900775,The Message in the Medium,https://asteriskmag.com/issues/12-books/the-message-in-the-medium,surprisetalk,3.0,0.0,2025-11-12 14:38:55+00:00,,neutral
+45900785,A new stream abstraction for rust,https://docs.rs/ufotofu/latest/ufotofu/,rklaehn,2.0,0.0,2025-11-12 14:39:17+00:00,rust,positive
+45900793,Virgin Media O2 seals deal with Elon Musk firm to boost UK rural mobile coverage,https://www.theguardian.com/business/2025/oct/30/virgin-media-o2-seals-deal-with-elon-musk-firm-to-boost-uk-rural-mobile-coverage,PaulHoule,1.0,0.0,2025-11-12 14:40:04+00:00,,negative
+45900802,Show HN: Visual Types – A humble set of animated TypeScript concepts,https://types.kitlangton.com,sparklyoldman,2.0,0.0,2025-11-12 14:40:46+00:00,typescript,negative
+45900844,Proving two ML models are equivalent using Z3 (with code),https://www.testingbranch.com/Z3-and-model-equivalence/,mpcsb,3.0,1.0,2025-11-12 14:44:10+00:00,,neutral
+45900846,Fei-Fei Li Says Spatial Intelligence Is AI's Next Frontier,https://www.theneuron.ai/explainer-articles/why-godmother-of-ai-dr-fei-fei-li-says-spatial-intelligence-is-ais-next-frontier,gmays,2.0,2.0,2025-11-12 14:44:14+00:00,,neutral
+45900876,The AI Mega Mesh: How to Connect 30 GPU Cloud Providers,https://netbird.io/knowledge-hub/multi-cloud-ai-mega-mesh,devildriver89,9.0,0.0,2025-11-12 14:46:24+00:00,shell,neutral
+45900920,AI Progress and Recommendations,https://openai.com/index/ai-progress-and-recommendations/,gmays,2.0,0.0,2025-11-12 14:49:22+00:00,,neutral
+45900922,When Your Husband Spends $300k on DraftKings,https://www.thecut.com/article/draftkings-sports-betting-gambling-addiction-relationships.html,randycupertino,5.0,3.0,2025-11-12 14:49:29+00:00,,neutral
+45900947,Denial of Fuzzing: Rust in the Windows Kernel,https://research.checkpoint.com/2025/denial-of-fuzzing-rust-in-the-windows-kernel/,ndiddy,2.0,0.0,2025-11-12 14:51:50+00:00,rust,neutral
+45900977,Show HN: Domain Is Yours – For a Day,https://popup.so,matthiasstiller,1.0,0.0,2025-11-12 14:54:25+00:00,shell,neutral
+45900978,Learn Prolog Now,https://lpn.swi-prolog.org/lpnpage.php?pageid=top,rramadass,255.0,175.0,2025-11-12 14:54:27+00:00,,neutral
+45900979,What Past Computing Breakthroughs Teach Us About AI – Communications of the ACM,https://cacm.acm.org/blogcacm/what-past-computing-breakthroughs-teach-us-about-ai/,rbanffy,3.0,0.0,2025-11-12 14:54:30+00:00,,negative
+45900993,Space forecasters say solar storms could hit Earth and trigger auroras,https://www.npr.org/2025/11/12/g-s1-97533/solar-storms-auroras,manveerc,3.0,0.0,2025-11-12 14:55:45+00:00,,neutral
+45901006,Show HN: GoViralPromo – Replace ads with performance-based contests (free beta),https://www.goviralpromo.com,Matthew25,1.0,1.0,2025-11-12 14:56:26+00:00,typescript,positive
+45901008,"Python for AI: Is it better, or was it just first?",,mrbbk,1.0,0.0,2025-11-12 14:56:42+00:00,python,positive
+45901021,"""Belief in the law of small numbers"" the continuing appeal of junk science",https://statmodeling.stat.columbia.edu/2025/11/12/belief-in-the-law-of-small-numbers-as-a-way-to-understand-the-replication-crisis-and-silly-researchers-who-continue-to-cite-discredited-behavioral-research/,nabla9,4.0,0.0,2025-11-12 14:57:26+00:00,,negative
+45901028,Bitcoin at Coinbase: A Report on Innovation and Growth,https://www.coinbase.com/blog/Bitcoin-at-Coinbase-A-Report-on-Innovation-and-Growth,dukebartnik,1.0,0.0,2025-11-12 14:57:40+00:00,,neutral
+45901030,Show HN: Built an AI assistant in MonkeyC for Garmin watches,https://untether.watch,msyea,1.0,0.0,2025-11-12 14:57:53+00:00,shell,neutral
+45901041,IndQA,https://openai.com/index/introducing-indqa/,manveerc,2.0,0.0,2025-11-12 14:58:50+00:00,,neutral
+45901052,Beyond the Spectacle,https://rodgercuddington.substack.com/p/beyond-the-spectacle,freespirt,3.0,1.0,2025-11-12 14:59:53+00:00,,neutral
+45901070,The developing world needs more roads,https://worksinprogress.co/issue/the-developing-world-needs-more-roads/,bensouthwood,1.0,0.0,2025-11-12 15:00:47+00:00,,positive
+45901072,The Complicated Reality of 3D Printed Prosthetics,https://spectrum.ieee.org/how-3d-printing-helping-prosthetics,quapster,3.0,1.0,2025-11-12 15:00:55+00:00,,negative
+45901077,AI-designed viruses raise fears over creating life,https://www.washingtonpost.com/science/2025/11/11/ai-designed-viruses-bacteria-life/,ojosilva,3.0,0.0,2025-11-12 15:01:16+00:00,,neutral
+45901086,Tech companies start to comply with Australia's teen social media ban,https://www.reuters.com/world/asia-pacific/big-tech-stops-complaining-starts-complying-with-australias-teen-social-media-2025-11-12/,m-hodges,4.0,0.0,2025-11-12 15:02:08+00:00,,positive
+45901088,The Platform Google Claims Is Behind a 'Staggering' Scam Text Operation,https://www.wired.com/story/lighthouse-google-lawsuit-scam-text-messages/,manveerc,6.0,0.0,2025-11-12 15:02:12+00:00,,negative
+45901103,Amazon's Antitrust Paradox,https://yalelawjournal.org/pdf/e.710.Khan.805_zuvfyyeh.pdf?,lt_snuffles,8.0,0.0,2025-11-12 15:03:39+00:00,rust,neutral
+45901120,"Optimal ""where"" on Tenstorrent",https://www.jasondavies.com/2025/tenstorrent-where/,jasondavies,1.0,0.0,2025-11-12 15:05:22+00:00,,neutral
+45901123,Tesla gets 14 times more labor productivity per dollar in China than the U.S.,https://twitter.com/RnaudBertrand/status/1988607558261608762,delichon,10.0,6.0,2025-11-12 15:05:32+00:00,typescript,positive
+45901149,Fungus in Chernobyl nuclear disaster zone has mutated to 'feed' on radiation (2024),https://www.unilad.com/news/world-news/fungus-chernobyl-mutated-feed-radiation-164735-20241217,thunderbong,84.0,70.0,2025-11-12 15:08:35+00:00,,neutral
+45901167,From Single-User to Multi-Party Conversational AI,https://gradion-ai.github.io/agents-nanny/2025/11/12/from-single-user-to-multi-party-conversational-ai/,cstub,9.0,1.0,2025-11-12 15:10:31+00:00,,neutral
+45901170,Show HN: CellARC: ARC-AGI style benchmark built on cellular automata,https://cellarc.mireklzicar.com/,mireklzicar,2.0,0.0,2025-11-12 15:10:41+00:00,shell,neutral
+45901179,Hardening the C++ Standard Library at scale,https://queue.acm.org/detail.cfm?id=3773097,magoghm,2.0,0.0,2025-11-12 15:11:37+00:00,c++,neutral
+45901190,I Built My Own Google Drive,https://lorbic.com/i-built-my-own-google-drive/,PaulHoule,1.0,0.0,2025-11-12 15:12:17+00:00,,positive
+45901194,"Show HN: BoumWave,a static blog generator that does what it needs to",https://github.com/CedricRaison/BoumWave,BoumTAC,2.0,0.0,2025-11-12 15:12:25+00:00,shell,positive
+45901213,Erase All Content and Settings does what it says,https://eclecticlight.co/2025/11/12/erase-all-content-and-settings-does-what-it-says/,zdw,2.0,0.0,2025-11-12 15:13:38+00:00,,neutral
+45901215,Ubuntu Server Security Suggestions,https://documentation.ubuntu.com/server/explanation/security/security_suggestions/,EPendragon,2.0,0.0,2025-11-12 15:13:45+00:00,,neutral
+45901219,Meet the 2025 US National Book Award Finalists,https://lithub.com/meet-the-2025-national-book-award-finalists/,zdw,1.0,0.0,2025-11-12 15:14:25+00:00,,neutral
+45901227,The Push to Get Invasive Crabs on the Menu,https://www.noemamag.com/the-push-to-get-invasive-crabs-on-the-menu-in-maine/,bookofjoe,2.0,0.0,2025-11-12 15:15:48+00:00,shell,neutral
+45901231,Toon for LLM,https://github.com/toon-format/toon,santa2025,1.0,0.0,2025-11-12 15:16:06+00:00,,neutral
+45901240,Apple Considers Adding Second Camera to Delayed iPhone Air 2,https://www.macrumors.com/2025/11/11/report-delayed-iphone-air-2-second-camera/,mgh2,1.0,0.0,2025-11-12 15:16:50+00:00,,neutral
+45901245,What Happened to 3Com?,https://dfarq.homeip.net/what-happened-to-3com/,wicket,6.0,0.0,2025-11-12 15:17:21+00:00,,neutral
+45901249,'Seven Sisters' Pleiades star cluster has stellar 'siblings',https://www.abc.net.au/news/science/2025-11-12/pleiades-seven-sisters-star-cluster-telescopes-astronomy/105993350,Brajeshwar,2.0,0.0,2025-11-12 15:17:41+00:00,,positive
+45901255,A scientific mistake from the 1970s derailed Mars exploration,https://bigthink.com/hard-science/how-a-scientific-mistake-from-the-1970s-derailed-mars-exploration/,Brajeshwar,3.0,0.0,2025-11-12 15:17:57+00:00,,neutral
+45901256,Ansible Release 12: The Windows Vista Moment,https://blog.ipspace.net/2025/11/ansible-12-different/,zdw,3.0,0.0,2025-11-12 15:17:57+00:00,,neutral
+45901257,Extreme Moon: The Major Lunar Standstill of 2024-2025,https://griffithobservatory.org/extreme-moon-the-major-lunar-standstills-of-2024-2025/,keepamovin,2.0,0.0,2025-11-12 15:18:05+00:00,,negative
+45901258,Ripples in the high atmosphere warned scientists of a tsunami in real time,https://www.bbc.com/future/article/20251111-how-nasa-spotted-a-tsunami-in-real-time,Brajeshwar,2.0,0.0,2025-11-12 15:18:08+00:00,typescript,positive
+45901261,Beyond Vibe Coding – A practical guide to AI-assisted development,https://beyond.addy.ie/,jhncls,1.0,0.0,2025-11-12 15:18:33+00:00,,neutral
+45901263,olshansk/rss-feeds: The missing RSS feed generator (GitHub),https://github.com/Olshansk/rss-feeds,Olshansky,1.0,0.0,2025-11-12 15:18:53+00:00,shell,negative
+45901268,ICE's plan to monitor social media 24/7 threatens privacy,https://theconversation.com/always-watching-how-ices-plan-to-monitor-social-media-24-7-threatens-privacy-and-civic-participation-268175,eustoria,15.0,1.0,2025-11-12 15:19:07+00:00,,positive
+45901271,Chatbot Jesus: Churches tap AI to save souls – and time,https://www.axios.com/2025/11/12/christian-ai-chatbot-jesus-god-satan-churches,ryan_j_naughton,2.0,0.0,2025-11-12 15:19:36+00:00,,neutral
+45901274,"Testing out Crush, a TUI based coding agent",https://grahamhelton.com/blog/crushing-it,eustoria,8.0,2.0,2025-11-12 15:20:08+00:00,shell,neutral
+45901289,The Math of Ocean Waves,https://www.wired.com/story/the-hidden-math-of-ocean-waves-crashes-into-view/,Anon84,2.0,0.0,2025-11-12 15:20:58+00:00,,neutral
+45901290,"Show HN: SpendScope – Track AI Costs Across OpenAI, Anthropic, Google AI",https://spendscope.ai,zvivier,1.0,0.0,2025-11-12 15:21:01+00:00,typescript,neutral
+45901294,"Instant Parameter Selection for Modular Systems (b, p, t, r)",,Patternician,2.0,0.0,2025-11-12 15:21:22+00:00,r,neutral
+45901300,Firefox's sudden weird font choice and fixing it,https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxSuddenWeirdFontChoice,zdw,15.0,1.0,2025-11-12 15:21:55+00:00,,negative
+45901330,War Is Peace. Freedom Is Slavery. Grocery Prices Are Way Down,https://paulkrugman.substack.com/p/war-is-peace-freedom-is-slavery-grocery,rbanffy,17.0,0.0,2025-11-12 15:25:16+00:00,,negative
+45901333,"Do One Thing, Stupid",http://doonethingstupid.com/,georgestrakhov,3.0,0.0,2025-11-12 15:25:32+00:00,,negative
+45901379,"""One Student One Chip"" Course Homepage",https://ysyx.oscc.cc/docs/en/,camel-cdr,2.0,0.0,2025-11-12 15:28:54+00:00,,neutral
+45901381,Show HN: Better GitHub Language Stats,https://github.com/marketplace/actions/github-profile-language-analytics,stefvuck,2.0,0.0,2025-11-12 15:28:57+00:00,shell,positive
+45901396,Show HN: Free Mac app graphically creates 'Rails New' options and saves presets,https://apps.apple.com/us/app/rails-new/id6755117526?mt=12,piratebroadcast,2.0,0.0,2025-11-12 15:30:25+00:00,shell,positive
+45901406,Don't Fight the Weights: Learn to Spot Contexts That Go Against Training,https://www.dbreunig.com/2025/11/11/don-t-fight-the-weights.html,dbreunig,2.0,0.0,2025-11-12 15:31:26+00:00,go,neutral
+45901436,Generative AI in Data Analytics,https://www.exasol.com/blog/generative-ai-in-data-analytics/,one-random-geek,1.0,0.0,2025-11-12 15:33:32+00:00,,neutral
+45901450,The Psychology of Queuing (2020),https://www.researchgate.net/publication/340275142_The_Psychology_of_Queuing,wslh,3.0,0.0,2025-11-12 15:35:57+00:00,,neutral
+45901455,Depolymerization Etching of Polymerization-Induced Microphase Separations,https://pubs.acs.org/doi/10.1021/acscentsci.5c01313,PaulHoule,2.0,0.0,2025-11-12 15:36:28+00:00,,neutral
+45901458,Gita Gopinath on the crash that could torch $35T of wealth,https://www.economist.com/by-invitation/2025/10/15/gita-gopinath-on-the-crash-that-could-torch-35trn-of-wealth,jcartw,6.0,0.0,2025-11-12 15:37:03+00:00,shell,neutral
+45901462,Adaptive Batching – 5x throughput on your data pipelines,https://cocoindex.io/blogs/batching,badmonster,1.0,0.0,2025-11-12 15:37:20+00:00,,neutral
+45901464,Two women had a business meeting. AI called it childcare,https://medium.com/hold-my-juice/two-women-had-a-business-meeting-ai-called-it-childcare-6b09f5952940,sophiabk,21.0,30.0,2025-11-12 15:37:22+00:00,,neutral
+45901483,Chat with your X (not your Ex),https://app.formulabot.com/x-posts/,dabressler,1.0,1.0,2025-11-12 15:39:29+00:00,,neutral
+45901499,Shop Sans is a typeface for curved text paths,https://www.futurefonts.com/hex/shop-sans,tobr,2.0,0.0,2025-11-12 15:40:11+00:00,shell,neutral
+45901521,I Gave Our Employees the Same Stock Structure I Got as Founder,https://blog.matterbeam.com/i-gave-our-first-employees-the-same-stock-structure-i-got-as-founder/,mikepk,1.0,1.0,2025-11-12 15:41:15+00:00,,neutral
+45901524,Coinbase moves incorporation to Texas from Delaware,https://www.cnbc.com/2025/11/12/coinbase-moves-incorporation-to-texas-from-delaware-following-tesla.html,mfiguiere,5.0,0.0,2025-11-12 15:41:17+00:00,,neutral
+45901525,Why AI code fails differently: What I learned talking to 200 engineering teams,,pomarie,7.0,3.0,2025-11-12 15:41:17+00:00,,negative
+45901533,Stroustrup says subscripts and sizes should be signed [pdf],https://open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1428r0.pdf,fanf2,1.0,1.0,2025-11-12 15:42:04+00:00,typescript,neutral
+45901538,Casio WQV-1 Photos,https://www.flickr.com/photos/placenamehere/albums/72157622456390779/,dgroshev,2.0,1.0,2025-11-12 15:42:22+00:00,,neutral
+45901543,Anthropic invests $50B in US AI infrastructure,https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure,asciimike,101.0,102.0,2025-11-12 15:42:35+00:00,typescript,neutral
+45901550,Thorsten Ball – How to Demo,https://thorstenball.com/how-to-demo/,Destiner,2.0,0.0,2025-11-12 15:42:58+00:00,,neutral
+45901553,Mark Zuckerberg Is Picking Groupthink over an AI Godfather,https://www.bloomberg.com/opinion/articles/2025-11-12/yann-lecun-meta-and-mark-zuckerberg-pick-groupthink-over-ai-godfather,wslh,2.0,1.0,2025-11-12 15:43:12+00:00,,neutral
+45901555,Text on a Curve,https://www.flickr.com/groups/textonacurve/pool/with/54721405449?rb=1,tobr,1.0,0.0,2025-11-12 15:43:25+00:00,,neutral
+45901560,Insects on the Space Menu,https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Insects_on_the_space_menu,ohjeez,3.0,0.0,2025-11-12 15:44:03+00:00,typescript,neutral
+45901575,Stateless Intelligence Is Not Safe Intelligence,https://medium.com/@ben.havis1/stateless-intelligence-is-not-safe-intelligence-29a6a4f48f66,BenHavis,1.0,3.0,2025-11-12 15:45:35+00:00,,negative
+45901587,James Webb Telescope may have found the universe's first generation of stars,https://www.livescience.com/space/cosmology/james-webb-telescope-may-have-found-the-universes-first-generation-of-stars,Brajeshwar,6.0,0.0,2025-11-12 15:47:09+00:00,,positive
+45901590,Falling asleep isn't a gradual process – it happens all of a sudden,https://www.newscientist.com/article/2503413-falling-asleep-isnt-a-gradual-process-it-happens-all-of-a-sudden/,Brajeshwar,4.0,0.0,2025-11-12 15:47:17+00:00,,neutral
+45901593,The computers that run on human brain cells,https://www.nature.com/articles/d41586-025-03633-0,Brajeshwar,2.0,0.0,2025-11-12 15:47:26+00:00,,neutral
+45901607,"Stop context-switching, connect your dev tools with code",https://tooljump.dev/,mi-c-hn,1.0,1.0,2025-11-12 15:48:39+00:00,,neutral
+45901615,List of All CSS Properties,https://nikolai-shabalin.github.io/css-properties/en/,gajus,2.0,0.0,2025-11-12 15:49:03+00:00,,neutral
+45901625,F1 Announces Punishment for Max Verstappen for Engine Rule Violation,https://athlonsports.com/racing/f1/f1-announces-punishment-for-max-verstappen-for-engine-rule-violation,wslh,3.0,0.0,2025-11-12 15:49:31+00:00,shell,neutral
+45901638,Gene-Edited Crops Grow Faster with a Little Help from Bacteria,https://www.the-scientist.com/gene-edited-crops-grow-faster-with-a-little-help-from-bacteria-73708,gmays,3.0,0.0,2025-11-12 15:50:39+00:00,,negative
+45901665,"Show HN: Where is ""mass replacement""? Toy to estimate AI exposure in your org",https://automationrisk.app,robkop,2.0,1.0,2025-11-12 15:52:59+00:00,shell,neutral
+45901666,Want a WhatsApp Emacs client? Will you fund it?,https://xenodium.com/want-a-whatsapp-emacs-client,xenodium,2.0,0.0,2025-11-12 15:53:05+00:00,,neutral
+45901669,Hotspot: A Go CLI that uses Git history to assess org risk and tech debt,https://github.com/huangsam/hotspot,sambyte,2.0,1.0,2025-11-12 15:53:17+00:00,go,neutral
+45901682,SoftBank's $5.8B Nvidia stake sale stirs fresh AI bubble fears,https://www.reuters.com/business/media-telecom/softbanks-58-billion-nvidia-stake-sale-stirs-fresh-ai-bubble-fears-2025-11-11,yangikan,2.0,0.0,2025-11-12 15:54:10+00:00,shell,positive
+45901713,Keynote: A Survival Guide for the AI Age – Josh Price – Code Beam Europe 2025,https://erlangforums.com/t/keynote-a-survival-guide-for-the-ai-age-josh-price-code-beam-europe-2025/5228,unripe_syntax,1.0,0.0,2025-11-12 15:56:41+00:00,shell,neutral
+45901721,Circle Reports $214M Q3 Profit as USDC Circulation Surges 108% to $73.7B,https://cryptonews.com/news/circle-reports-214m-q3-profit-as-usdc-circulation-surges-108-to-73-7b/,wslh,3.0,0.0,2025-11-12 15:57:20+00:00,typescript,neutral
+45901735,Show HN: Made a system tray calendar that syncs all your calendars,https://www.calendar0.app,alessandro-a,2.0,0.0,2025-11-12 15:58:09+00:00,shell,neutral
+45901748,"Wastrel, a Profligate Implementation of WebAssembly",https://wingolog.org/archives/2025/10/30/wastrel-a-profligate-implementation-of-webassembly,PaulHoule,2.0,0.0,2025-11-12 15:58:38+00:00,,neutral
+45901751,The Duties of John von Neumann's Assistant in the 1930s (2020),https://www.cantorsparadise.com/the-duties-of-john-von-neumanns-assistant-in-the-1930s-8d08e538fe2b,gone35,19.0,1.0,2025-11-12 15:58:54+00:00,,neutral
+45901768,Show HN: Morphex.ai – Marketplace for Specialized AI Agents,https://www.morphex.ai/,legitcoders,1.0,0.0,2025-11-12 16:00:32+00:00,shell,neutral
+45901770,First transatlantic thrombectomy heralds new era of stroke treatment,https://www.dundee.ac.uk/stories/worlds-first-transatlantic-thrombectomy-heralds-new-era-stroke-treatment,gmays,2.0,0.0,2025-11-12 16:00:36+00:00,,positive
+45901782,The Perplexing Appeal of the Telepathy Tapes,https://asteriskmag.substack.com/p/the-perplexing-appeal-of-the-telepathy,bcohen123,2.0,0.0,2025-11-12 16:01:06+00:00,,neutral
+45901784,"Show HN: Open-Source LaTeX OCR, Alternative to Mathpix/SimpleTex",https://texocr.netlify.app/,alephpi,2.0,0.0,2025-11-12 16:01:07+00:00,shell,neutral
+45901788,"Liquid Auth: Decentralized, passwordless Web3 authentication",https://algorand.co/blog/introducing-liquid-auth-in-pera-decentralized-passwordless-web3-authentication-for-user-owned-identity,wslh,2.0,0.0,2025-11-12 16:01:20+00:00,,neutral
+45901810,Show HN: JavaScript Engines Zoo,https://github.com/ivankra/javascript-zoo,ivankra,2.0,0.0,2025-11-12 16:02:52+00:00,javascript,neutral
+45901814,Trump on H-1B visas: US lacks enough 'talented people',https://thehill.com/homenews/administration/5601588-trump-h1b-visas-talent/,hypeatei,17.0,14.0,2025-11-12 16:03:08+00:00,,positive
+45901820,Matchbox Educable Noughts and Crosses Engine,https://en.wikipedia.org/wiki/Matchbox_Educable_Noughts_and_Crosses_Engine,satiated_grue,1.0,1.0,2025-11-12 16:03:38+00:00,typescript,neutral
+45901831,Seeking feedback on charity redirecting opposing donations to GiveWell,https://forum.effectivealtruism.org/posts/wp9bDr2vXkNHs7WLF/seeking-feedback-on-charity-redirecting-opposing-donations,duelgood,1.0,0.0,2025-11-12 16:04:28+00:00,,neutral
+45901834,RubberDuckGPT – An AI that forces you to think,https://rubber-duck-gpt.com,tompccs,3.0,0.0,2025-11-12 16:04:49+00:00,,neutral
+45901846,Hybrid Hash Join – breaking the memory wall of streams join,https://www.timeplus.com/post/hybrid-hash-join,tingfirst,2.0,1.0,2025-11-12 16:05:54+00:00,shell,neutral
+45901855,"Waymo robotaxis are now giving rides on freeways in LA, SF and Phoenix",https://techcrunch.com/2025/11/12/waymo-robotaxis-are-now-giving-rides-on-freeways-in-these-3-cities/,nharada,309.0,381.0,2025-11-12 16:06:29+00:00,,neutral
+45901858,The Danger of Lunar Micrometeoroid Storms,https://www.universetoday.com/articles/the-hidden-danger-of-lunar-micrometeoroid-storms,belter,3.0,0.0,2025-11-12 16:06:52+00:00,,neutral
+45901869,Kubernetes Is Your Private Cloud,https://oneuptime.com/blog/post/2025-11-12-kubernetes-is-your-private-cloud/view,ndhandala,44.0,82.0,2025-11-12 16:07:30+00:00,,neutral
+45901895,Lumen charge governs gated ion transport in β-barrel nanopores,https://www.nature.com/articles/s41565-025-02052-6,bookofjoe,2.0,0.0,2025-11-12 16:09:46+00:00,,neutral
+45901901,What it's like to be in the middle of a conspiracy theory,https://www.technologyreview.com/2025/10/30/1126712/what-its-like-to-be-in-the-middle-of-a-conspiracy-theory-according-to-a-conspiracy-theory-expert/,arunc,2.0,0.0,2025-11-12 16:10:09+00:00,,neutral
+45901904,The last-ever penny will be minted today in Philadelphia,https://www.cnn.com/2025/11/12/business/last-penny-minted,andrewl,605.0,787.0,2025-11-12 16:10:13+00:00,,neutral
+45901905,"Taking riders further, safely with freeways",https://waymo.com/blog/2025/11/taking-riders-further-safely-with-freeways,ra7,6.0,2.0,2025-11-12 16:10:20+00:00,,positive
+45901935,Show HN: Flamehaven FileSearch – Self-Hosted RAG Semantic Search,https://github.com/flamehaven01/Flamehaven-Filesearch,Flamehaven,1.0,0.0,2025-11-12 16:12:48+00:00,shell,neutral
+45901953,Don't Start Writing,https://lukakopajtic.com/dont-start-writing/,lukakopajtic,3.0,0.0,2025-11-12 16:14:27+00:00,,neutral
+45901962,"Show HN: Turn Notion pages into clean, paste-ready email blocks",https://notionto.email/,sangkwun,1.0,0.0,2025-11-12 16:15:09+00:00,shell,positive
+45901972,Gemini: Private AI Compute advances AI privacy,https://blog.google/technology/ai/google-private-ai-compute/,tosh,2.0,0.0,2025-11-12 16:15:57+00:00,,neutral
+45901981,New law to tackle AI child abuse images at source as reports more than double,https://www.gov.uk/government/news/new-law-to-tackle-ai-child-abuse-images-at-source-as-reports-more-than-double,sc970,2.0,1.0,2025-11-12 16:16:54+00:00,typescript,positive
+45901996,The PowerPC Has Still Got It (Llama on G4 Laptop),https://www.hackster.io/news/the-powerpc-has-still-got-it-c4348bd7a88c,stmw,50.0,18.0,2025-11-12 16:17:58+00:00,,neutral
+45902010,"Tiny Model, Big Logic: Large-Model Reasoning Ability in VibeThinker-1.5B",https://arxiv.org/abs/2511.06221,trott,2.0,0.0,2025-11-12 16:19:30+00:00,,neutral
+45902029,"Show HN: Ory Kratos, an open source Auth0 / Clerk alternative",https://github.com/ory/kratos/releases/tag/v25.4.0,vwpolo3,2.0,0.0,2025-11-12 16:20:38+00:00,shell,neutral
+45902037,Dimension-traveling fermions might explain dark mayter,https://www.popularmechanics.com/science/a69295572/fermion-particle-fifth-dimension-portal/,Jeff_Brown,2.0,0.0,2025-11-12 16:21:05+00:00,,negative
+45902038,Baidu releases open-source multimodal AI that it claims beats GPT-5 and Gemini,https://venturebeat.com/ai/baidu-just-dropped-an-open-source-multimodal-ai-that-it-claims-beats-gpt-5,teleforce,7.0,6.0,2025-11-12 16:21:05+00:00,typescript,neutral
+45902044,Agent Control via Time‑Travel Checkpoints,https://leslieo2.github.io/posts/agent-control-via-timetravel-checkpoints/,mjakl,1.0,0.0,2025-11-12 16:21:31+00:00,,neutral
+45902049,Apple-Commissioned Study: EU's Digital Markets Act Failed to Lower App Prices,https://www.macrumors.com/2025/11/12/dma-no-lower-fees-study/,bangonkeyboard,3.0,0.0,2025-11-12 16:21:45+00:00,typescript,negative
+45902050,Skills as Object-Oriented Programming for LLMs,https://bit.kevinslin.com/p/skills-as-object-oriented-programming,kevinslin,1.0,0.0,2025-11-12 16:21:48+00:00,,neutral
+45902059,Spectral shaper sculpts 10k laser comb lines for exoplanet detection,https://phys.org/news/2025-10-spectral-shaper-sculpts-laser-lines.html,PaulHoule,2.0,0.0,2025-11-12 16:22:51+00:00,typescript,neutral
+45902080,The Test Automation Crisis,https://titusfortner.com/2025/11/11/automation-crisis.html,rosiesherry,1.0,0.0,2025-11-12 16:24:50+00:00,,neutral
+45902086,Fine Tune Model for Entrepreneurs and Students,https://rom.base44.app/,desadas,2.0,0.0,2025-11-12 16:26:00+00:00,,positive
+45902095,Just Use Postgres,https://www.manning.com/books/just-use-postgres,teleforce,2.0,0.0,2025-11-12 16:26:20+00:00,,neutral
+45902106,Resurgence of an old-timey film format is creating headaches on movie sets,https://www.wsj.com/arts-culture/film/the-biggest-diva-in-hollywood-is-a-camera-3adec350,fortran77,2.0,1.0,2025-11-12 16:27:09+00:00,,neutral
+45902116,Hallucinated Gods,https://www.theseedsofscience.pub/p/hallucinated-gods,pablasso,4.0,2.0,2025-11-12 16:28:23+00:00,,neutral
+45902122,Olympiad-level formal mathematical reasoning with reinforcement learning,https://www.nature.com/articles/s41586-025-09833-y,mauricioc,3.0,0.0,2025-11-12 16:28:59+00:00,,neutral
+45902123,New Nikodym set constructions over finite fields,https://terrytao.wordpress.com/2025/11/12/new-nikodym-set-constructions-over-finite-fields/,jjgreen,2.0,0.0,2025-11-12 16:29:00+00:00,,positive
+45902128,Show HN: Early access to Google's Nanobanana – most advanced image model,https://nanobanana2pro.com,yestwind,2.0,1.0,2025-11-12 16:29:36+00:00,shell,positive
+45902140,"Sorry, Sundar. We Weren't Familiar with Your Game",https://saanyaojha.substack.com/p/sorry-sundar-we-werent-familiar-with,throwaway0223,1.0,0.0,2025-11-12 16:30:19+00:00,,negative
+45902146,Mathematicians put AI model AlphaProof to the test,https://www.nature.com/articles/d41586-025-03585-5,mauricioc,3.0,1.0,2025-11-12 16:30:44+00:00,,neutral
+45902148,What Does Bad Code Mean to Developers,https://blog.jetbrains.com/qodana/2025/11/what-is-bad-code/,mikece,2.0,0.0,2025-11-12 16:30:58+00:00,,negative
+45902155,Apple launches Digital ID feature in Wallet using your passport,https://9to5mac.com/2025/11/12/apple-launches-digital-id-wallet-passport-support/,mikece,1.0,1.0,2025-11-12 16:31:27+00:00,,neutral
+45902161,NOAA cuts back on seismic data used for West Coast tsunami alerts,https://www.seattletimes.com/seattle-news/environment/noaa-cuts-back-on-seismic-data-used-for-west-coast-tsunami-alerts/,petethomas,10.0,1.0,2025-11-12 16:31:39+00:00,typescript,neutral
+45902180,"All of My Employees Are AI Agents, and So Are My Executives",https://www.wired.com/story/all-my-employees-are-ai-agents-so-are-my-executives/,geox,4.0,0.0,2025-11-12 16:32:42+00:00,,neutral
+45902185,Show HN: SQL++ – 5x faster than Prisma (Rust),https://github.com/sinisterMage/sqlpp,SinisterMage2,2.0,2.0,2025-11-12 16:33:06+00:00,rust,neutral
+45902189,Building SqURL: A Human's and an AI's Perspective,https://ronforrester.substack.com/p/building-squrl,chb,2.0,0.0,2025-11-12 16:33:21+00:00,,neutral
+45902201,"Show HN: I built Duolingo but for your life – people asked for web, so I made it",https://three-cells.com/web,maghfoor,2.0,0.0,2025-11-12 16:34:56+00:00,go,neutral
+45902204,Is Linux Still Happening (For Supernote eInk Tablet)?,https://old.reddit.com/r/Supernote/comments/1ooyn25/is_linux_still_happening_our_journey_of/,yencabulator,1.0,0.0,2025-11-12 16:35:10+00:00,,neutral
+45902212,DanaBot malware is back to infecting Windows after 6-month break,https://www.bleepingcomputer.com/news/security/danabot-malware-is-back-to-infecting-windows-after-6-month-break/,fleahunter,3.0,0.0,2025-11-12 16:35:49+00:00,,neutral
+45902216,The next iPhone Air has reportedly been delayed,https://www.theverge.com/news/817908/apple-iphone-air-second-generation-delayed,gmays,1.0,0.0,2025-11-12 16:35:55+00:00,,neutral
+45902227,Understand the Temporary Allocator; Understand Arenas,https://zylinski.se/posts/temporary-allocator-your-first-arena/,enz,2.0,0.0,2025-11-12 16:36:44+00:00,,neutral
+45902242,Show HN: I built an AI that writes your portfolio's React code – and made it OSS,https://the-chat-portfolio.vercel.app,fudailzafar,2.0,1.0,2025-11-12 16:37:57+00:00,shell,neutral
+45902246,How Much OpenAI Spends on Inference and Its Revenue Share with Microsoft,https://www.wheresyoured.at/oai_docs/,ani17,50.0,16.0,2025-11-12 16:38:15+00:00,typescript,positive
+45902273,Apple Introduced Digital ID in Apple Wallet,https://www.apple.com/newsroom/2025/11/apple-introduces-digital-id-a-new-way-to-create-and-present-an-id-in-apple-wallet/,meetpateltech,69.0,107.0,2025-11-12 16:40:17+00:00,,neutral
+45902276,Of course you can build dynamic AI agents with Temporal,https://temporal.io/blog/of-course-you-can-build-dynamic-ai-agents-with-temporal,mmegger,2.0,0.0,2025-11-12 16:40:35+00:00,typescript,neutral
+45902301,Profiting from Pollution (2023),https://www.yalejreg.com/bulletin/profiting-from-pollution/,bariumbitmap,2.0,1.0,2025-11-12 16:42:06+00:00,,neutral
+45902305,"China builds advanced pulsed power supply for particle beam, other space weapons",https://www.scmp.com/news/china/science/article/3331752/china-builds-advanced-satellite-power-system-particle-beam-and-other-space-weapons,CGMthrowaway,7.0,0.0,2025-11-12 16:42:26+00:00,,positive
+45902310,Show HN: Heliosinger – The Sun Sings Real-Time Space Weather,https://heliosinger.pages.dev,hunterbown,3.0,0.0,2025-11-12 16:42:45+00:00,shell,neutral
+45902329,What Happens to App Prices When Developers Pay Lower Commission Fees? [pdf],https://developer.apple.com/download/files/DMA-Study-Nov-2025.pdf,ericmay,2.0,0.0,2025-11-12 16:44:00+00:00,,neutral
+45902343,Fear and loathing on the merger trail (1998),https://www-archive.mozilla.org/fear.html,bariumbitmap,2.0,0.0,2025-11-12 16:44:54+00:00,,neutral
+45902350,Show HN: Unisondb A open source streaming multimodal database for Edge Computing,https://github.com/ankur-anand/unisondb,ankuranand,1.0,0.0,2025-11-12 16:45:23+00:00,shell,neutral
+45902361,Show HN: A job board for people who HATE job boards,https://gigdig.org/,webguyio,1.0,2.0,2025-11-12 16:45:58+00:00,shell,negative
+45902367,EDG C++ front end to become open-source in 2026,https://herbsutter.com/2025/11/10/trip-report-november-2025-iso-c-standards-meeting-kona-usa/,gdevillers,3.0,0.0,2025-11-12 16:46:30+00:00,c++,neutral
+45902398,Google to invest $6.4B in cloud infra in Germany,https://www.reuters.com/sustainability/boards-policy-regulation/google-invest-mid-single-digit-billion-amount-germany-says-industry-source-2025-11-11/,newsuser,5.0,0.0,2025-11-12 16:48:43+00:00,,neutral
+45902403,We Built a Free Tool to Show You What's Wrong with Your Content,https://themeisle.com/blog/introducing-freshrank-ai/,ionut123,1.0,0.0,2025-11-12 16:48:53+00:00,shell,negative
+45902406,Kaspersky Brings Its Anti-Virus Software to Linux for Home Users,https://www.phoronix.com/news/Kaspersky-Linux-AV-Home-Users,Qem,1.0,0.0,2025-11-12 16:49:02+00:00,typescript,neutral
+45902407,Challenging the Fastest OSS Workflow Engine,https://obeli.sk/blog/challenging-fastest-workflow-engine/,PaulHoule,1.0,0.0,2025-11-12 16:49:03+00:00,,positive
+45902415,What Happened to SF Homelessness?,https://www.astralcodexten.com/p/what-happened-to-sf-homelessness,toomuchtodo,5.0,4.0,2025-11-12 16:49:45+00:00,,neutral
+45902456,New treatment for vertebral fractures using adipose-derived stem cell spheroids,https://boneandjoint.org.uk/Article/10.1302/2046-3758.1410.BJR-2025-0092.R1,bookofjoe,2.0,0.0,2025-11-12 16:53:00+00:00,,positive
+45902464,Politics in the US Workplace – research project on politics in the workplace,https://politicsatwork.org,alphabetatango,2.0,0.0,2025-11-12 16:53:27+00:00,,neutral
+45902492,A1: Agent-to-Code JIT Compiler,https://github.com/stanford-mast/a1,calebhwin,2.0,0.0,2025-11-12 16:55:14+00:00,,neutral
+45902510,Deconstructing bubble machine – X current and new recommendation engine Phoenix,https://starwatcher.substack.com/p/deconstructing-bubble-machine,ernests,2.0,0.0,2025-11-12 16:56:32+00:00,,positive
+45902516,AEMO turns to battery inverters to run big grids with no synchronous generation,https://reneweconomy.com.au/aemo-turns-to-battery-inverters-for-world-first-trial-of-running-big-grids-with-no-synchronous-generation/,ViewTrick1002,2.0,1.0,2025-11-12 16:56:45+00:00,,neutral
+45902521,Vera-MH: open-source eval for chatbot safety in mental health,https://github.com/SpringCare/VERA-MH,__lucab,1.0,0.0,2025-11-12 16:57:01+00:00,,negative
+45902538,Bitwise Consistent On-Policy Reinforcement Learning with VLLM and TorchTitan,https://blog.vllm.ai/2025/11/10/bitwise-consistent-train-inference.html,brrrrrm,1.0,0.0,2025-11-12 16:58:01+00:00,,positive
+45902540,VLC's keeper of the cone nets European free software gong,https://www.theregister.com/2025/11/12/vlc_guru_gong/,jjgreen,4.0,0.0,2025-11-12 16:58:07+00:00,typescript,positive
+45902550,DSearch: .NET IQueryable Dynamic Search Library,https://www.nuget.org/packages/DSearch,samuelhenshaw,1.0,0.0,2025-11-12 16:59:00+00:00,,neutral
+45902573,Extracting Playable Instrument Models from Short Audio Examples,https://blog.cochlea.xyz/resonancemodel.html,cochlear,2.0,0.0,2025-11-12 17:00:22+00:00,shell,neutral
+45902574,Show HN: AI music discovery for super nerds (Now on iOS AND macOS),https://back2back.ai,pj4533,1.0,0.0,2025-11-12 17:00:23+00:00,shell,positive
+45902590,Show HN: Cancer diagnosis makes for an interesting RL environment for LLMs,,dchu17,37.0,18.0,2025-11-12 17:01:42+00:00,shell,positive
+45902604,Helm v4.0.0,https://github.com/helm/helm/releases/tag/v4.0.0,todsacerdoti,39.0,55.0,2025-11-12 17:02:38+00:00,,neutral
+45902609,Google launches a lawsuit targeting text message scammers,https://www.npr.org/2025/11/12/nx-s1-5604857/google-lawsuit-phishing-text-message-scammers,speckx,10.0,0.0,2025-11-12 17:03:03+00:00,,neutral
+45902618,LAION Dataset Explorer,https://aella.inference.net,surprisetalk,2.0,0.0,2025-11-12 17:03:47+00:00,,neutral
+45902623,Project OSSAS: Custom LLMs to Process 100M Research Papers,https://inference.net/blog/project-aella,surprisetalk,1.0,0.0,2025-11-12 17:04:13+00:00,,neutral
+45902631,The Al Bubble Is Worse Than You Think [video],https://www.youtube.com/watch?v=-cdJQ8UyVLA,EPendragon,2.0,0.0,2025-11-12 17:04:47+00:00,,negative
+45902652,"Haiku Activity and Contract Report, October 2025",https://www.haiku-os.org/blog/waddlesplash/2025-11-11-haiku_activity_contract_report_october_2025,todsacerdoti,5.0,0.0,2025-11-12 17:06:43+00:00,,neutral
+45902678,Arch-delta Saves 80% Of Bandwidth On Upgrades,https://djugei.github.io/how-arch-delta-works/,birdculture,21.0,1.0,2025-11-12 17:09:05+00:00,,neutral
+45902695,Planchón-Peteroa volcano enters new eruptive phase,https://watchers.news/2025/11/11/planchon-peteroa-volcano-enters-new-eruptive-phase-chile-argentina-border/,wslh,2.0,0.0,2025-11-12 17:10:25+00:00,,positive
+45902696,Teradar raises $150M for a sensor it says beats lidar and radar,https://techcrunch.com/2025/11/12/teradar-exits-stealth-with-an-all-weather-sensor-for-autonomy-and-150m-in-funding/,aganders3,3.0,0.0,2025-11-12 17:10:31+00:00,typescript,neutral
+45902701,Northern Lights Dazzle U.S. Skies After Powerful Solar Storm,https://www.scientificamerican.com/article/northern-lights-dazzle-u-s-skies-after-powerful-solar-storm/,quapster,5.0,1.0,2025-11-12 17:10:47+00:00,typescript,positive
+45902727,10× Faster Log Processing at Scale: Beating Logstash Bottlenecks with Timeplus,https://www.timeplus.com/post/beating-logstash-bottlenecks,gangtao,1.0,0.0,2025-11-12 17:13:05+00:00,shell,neutral
+45902732,Marble by World Labs: Multimodal world model to create and edit 3D worlds,http://marble.worldlabs.ai/,dmarcos,42.0,17.0,2025-11-12 17:13:30+00:00,,neutral
+45902747,Convex raises $24M to reinvent back ends,https://news.convex.dev/convex-raises-24m/,janpio,5.0,2.0,2025-11-12 17:14:26+00:00,,positive
+45902758,Python Strftime Cheatsheet,https://strftime.org/,data_ase,2.0,0.0,2025-11-12 17:15:01+00:00,python,neutral
+45902767,"We analyzed 47,000 ChatGPT conversations. Here's what people use it for",https://www.washingtonpost.com/technology/2025/11/12/how-people-use-chatgpt-data,pseudolus,7.0,3.0,2025-11-12 17:15:25+00:00,,neutral
+45902774,Veilid: Distributed Decentralized Framework (From CultoftheDeadCow),https://veilid.com/,0xbadcafebee,2.0,0.0,2025-11-12 17:16:00+00:00,,neutral
+45902776,NLnet's €21.6M fund for open-source internet projects,https://nlnet.nl/commonsfund/,handystudio,7.0,1.0,2025-11-12 17:16:05+00:00,,neutral
+45902795,The Duchess Who Invented Science Fiction,https://compellingsciencefiction.com/posts/the-duchess-who-invented-science-fiction.html,davnicwil,4.0,1.0,2025-11-12 17:18:04+00:00,,neutral
+45902812,"Astringent flavanol fires locus-noradrenergic system, regulates autonomic nerves",https://www.sciencedirect.com/science/article/pii/S2665927125002266,PaulHoule,2.0,0.0,2025-11-12 17:19:16+00:00,,neutral
+45902833,Renowned exoplanet researcher is bringing quest to find explanets back Canada,https://www.cbc.ca/news/science/sara-seager-uoft-exoplanet-research-9.6971176,Teever,3.0,1.0,2025-11-12 17:21:03+00:00,typescript,neutral
+45902835,New Glenn Mission NG-2,https://www.blueorigin.com/missions/ng-2,JPLeRouzic,2.0,0.0,2025-11-12 17:21:05+00:00,,positive
+45902837,GoDaddy is auctioning a 15-year-old .org from an FOSS volunteer group – help?,http://somosazucar.org/,icarito,5.0,3.0,2025-11-12 17:21:09+00:00,,neutral
+45902854,"Vortex – An extensible, state of the art columnar file format",https://github.com/vortex-data/vortex,rickette,4.0,1.0,2025-11-12 17:21:59+00:00,,neutral
+45902868,Let the Mind-Control Games Begin,https://www.nytimes.com/2025/11/12/science/brain-implants-technology-disability.html,pretext,2.0,0.0,2025-11-12 17:23:14+00:00,,neutral
+45902879,Prebake: A Straightforward Developer Platform for Kubernetes,https://github.com/prebake/prebake,ryan0x44,1.0,1.0,2025-11-12 17:24:12+00:00,,positive
+45902898,Project Euler,https://projecteuler.net,swatson741,372.0,87.0,2025-11-12 17:24:54+00:00,,neutral
+45902927,Show HN: Conversational AI for customer feedback,https://diaform.io,vdszds,2.0,0.0,2025-11-12 17:26:34+00:00,shell,neutral
+45902928,A House of Dynamite is good on nuclear threat – and great on smartphone reliance,https://www.theguardian.com/film/2025/nov/10/house-of-dynamite-nuclear-warfare-smartphone-addiction,edward,2.0,0.0,2025-11-12 17:26:42+00:00,,positive
+45902932,Pioneer Anomaly,https://en.wikipedia.org/wiki/Pioneer_anomaly,ugur2nd,6.0,1.0,2025-11-12 17:27:06+00:00,,neutral
+45902934,Why China's central bank is quietly leading the world on climate action,https://www.manchester.ac.uk/about/news/chinas-central-bank-is-quietly-leading-the-world-on-climate-action/,gnufx,1.0,0.0,2025-11-12 17:27:13+00:00,,positive
+45902937,Kaspersky Antivirus Is Now Available for Linux. Will You Use It?,https://itsfoss.com/news/kaspersky-for-linux/,speckx,2.0,1.0,2025-11-12 17:27:22+00:00,,positive
+45902949,Show HN: Rando – Random photo picker/slideshow for local drives (100% private),http://randopicker.com,interapp,2.0,2.0,2025-11-12 17:28:19+00:00,shell,negative
+45902952,EU readies fresh investigation into Google over news publisher rankings,https://www.ft.com/content/644edfe6-ccba-466a-bc93-e82f59e124df,donohoe,2.0,0.0,2025-11-12 17:28:50+00:00,shell,positive
+45902955,Read the Jeffrey Epstein Emails That Mention Trump,https://www.nytimes.com/interactive/2025/11/12/us/epstein-emails.html,ceejayoz,18.0,0.0,2025-11-12 17:29:05+00:00,,neutral
+45902988,SaaS Black Friday Deals,https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday,m_0_r_g_a_n_,1.0,0.0,2025-11-12 17:30:56+00:00,,negative
+45902991,Satya Nadella – How Microsoft Is Preparing for AGI,https://www.dwarkesh.com/p/satya-nadella-2,ctoth,3.0,1.0,2025-11-12 17:31:04+00:00,,neutral
+45903003,Enshittification and the Rot Economy: Cory Doctorow and Ed Zitron [video],https://www.youtube.com/watch?v=Tz71pIWbFyc,laserlight,3.0,0.0,2025-11-12 17:31:52+00:00,shell,neutral
+45903007,SARS-CoV-2 mRNA vaccines sensitize tumours to immune checkpoint blockade,https://www.nature.com/articles/s41586-025-09655-y,doener,3.0,0.0,2025-11-12 17:32:13+00:00,,neutral
+45903028,Odds of asteroid 2024 YR4 hitting the moon may rise to 30 per cent,https://www.newscientist.com/article/2503607-odds-of-asteroid-2024-yr4-hitting-the-moon-may-rise-to-30-per-cent/,belter,10.0,6.0,2025-11-12 17:33:33+00:00,,neutral
+45903031,.NET 10 File Based Apps Demonstration (C# Scripting),https://www.appsoftware.com/blog/net-10-file-based-apps-demonstration-c-scripting,appsoftware,1.0,0.0,2025-11-12 17:33:51+00:00,c#,neutral
+45903043,"U of T hires three top U.S. scholars, announces $24M recruitment plan",https://www.theglobeandmail.com/canada/education/article-u-of-t-hires-three-top-us-scholars-plans-for-100-new-postdocs/,Teever,1.0,0.0,2025-11-12 17:34:42+00:00,,positive
+45903046,Discovering orphaned binaries in /usr/sbin on Fedora 42,https://utcc.utoronto.ca/~cks/space/blog/linux/Fedora42OrphanUsrSbinBinaries,speckx,1.0,0.0,2025-11-12 17:34:51+00:00,,neutral
+45903065,Show HN: Replace Your macOS Dock,https://www.flowylabs.ai,talksik,3.0,1.0,2025-11-12 17:36:22+00:00,shell,neutral
+45903083,Show HN: FPGA Based IBM-PC-XT,https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/,bit-hack,3.0,1.0,2025-11-12 17:37:52+00:00,shell,neutral
+45903122,Were URLs a Bad Idea?,https://neilmadden.blog/2025/11/12/were-urls-a-bad-idea/,speckx,2.0,0.0,2025-11-12 17:40:40+00:00,,negative
+45903136,TuneIn sold to Canadian media group Stingray,https://radiotoday.co.uk/2025/11/tunein-sold-to-canadian-media-group-stingray/,vool,2.0,1.0,2025-11-12 17:41:25+00:00,,neutral
+45903140,Beads: A coding agent memory system,https://steve-yegge.medium.com/introducing-beads-a-coding-agent-memory-system-637d7d92514a,mooreds,1.0,0.0,2025-11-12 17:42:01+00:00,,neutral
+45903153,Redditor Convicted of Sharing Nude Shots in Danish 'Moral Rights' Copyright Case,https://torrentfreak.com/redditor-convicted-for-sharing-nude-scenes-in-landmark-moral-rights-copyright-case/,embedding-shape,2.0,0.0,2025-11-12 17:42:56+00:00,typescript,neutral
+45903161,Launch HN: JSX Tool (YC F25) – A Browser Dev-Panel IDE for React,,jsunderland323,89.0,66.0,2025-11-12 17:43:42+00:00,javascript,neutral
+45903171,What's New for C++ Developers in Visual Studio 2026,https://devblogs.microsoft.com/cppblog/whats-new-for-cpp-developers-in-visual-studio-2026-version-18-0/,mariuz,1.0,0.0,2025-11-12 17:44:52+00:00,c++,positive
+45903181,'Initial Interest Confusion' Is More of a Vibe Than a Credible Legal Doctrine,https://blog.ericgoldman.org/archives/2025/11/initial-interest-confusion-is-more-of-a-vibe-than-a-credible-legal-doctrine-penn-state-v-vintage-brand.htm,hn_acker,1.0,1.0,2025-11-12 17:45:26+00:00,,positive
+45903189,OLAP migration complexity is the cost of fast reads,https://www.fiveonefour.com/blog/olap-migration-complexity,oatsandsugar,1.0,0.0,2025-11-12 17:45:46+00:00,,positive
+45903216,Ask HN: Did you notice any change in DDG's search quality over the last years?,,basilikum,3.0,1.0,2025-11-12 17:47:42+00:00,,neutral
+45903237,"Court: Colorado's Mandatory Social Media ""Warning Labels"" Are Unconstitutional",https://blog.ericgoldman.org/archives/2025/11/colorados-mandatory-social-media-warning-labels-are-unconstitutional-netchoice-v-weiser.htm,hn_acker,1.0,1.0,2025-11-12 17:49:01+00:00,,positive
+45903241,Bottlenecks in AI-Assisted Product Development,https://nahurst.substack.com/p/bottlenecks-in-ai-assisted-product,nathanh,1.0,0.0,2025-11-12 17:49:09+00:00,,neutral
+45903249,What's Next in Agentic Coding,https://seconds0.substack.com/p/heres-whats-next-in-agentic-coding,gmays,1.0,0.0,2025-11-12 17:50:00+00:00,,neutral
+45903269,Directory of Turing Tests,https://turingtest.tech/,smooke,1.0,0.0,2025-11-12 17:50:38+00:00,,neutral
+45903273,How to Identify a Prime Number Without a Computer,https://www.scientificamerican.com/article/how-to-identify-a-prime-number-without-a-computer/,beardyw,4.0,0.0,2025-11-12 17:50:54+00:00,,neutral
+45903274,Show HN: Comprehensive Chicago area golf resource,https://www.golfscout.net,golfer,2.0,0.0,2025-11-12 17:51:04+00:00,go,neutral
+45903285,Applying to Zapier? Here's why you might meet an AI recruiter,https://zapier.com/blog/zapier-ai-recruiters/,mooreds,2.0,1.0,2025-11-12 17:51:30+00:00,,neutral
+45903286,Ancient enzyme structure reveals new path to sustainable ethylene production,https://phys.org/news/2025-10-ancient-enzyme-reveals-path-sustainable.html,PaulHoule,3.0,0.0,2025-11-12 17:51:33+00:00,,positive
+45903292,The FusionAuth MCP Server,https://fusionauth.io/blog/fusionauth-mcp-server,mooreds,2.0,0.0,2025-11-12 17:51:58+00:00,,neutral
+45903299,A tale of three customer service chatbots,https://pluralistic.net/2025/11/11/sorry-to-bother-you/,hn_acker,4.0,0.0,2025-11-12 17:52:24+00:00,,neutral
+45903325,Steam Frame,https://store.steampowered.com/sale/steamframe,Philpax,1074.0,395.0,2025-11-12 17:54:58+00:00,,neutral
+45903327,Show HN: Opensource.Builders 2.0 – find and build open source alternatives,https://opensource.builders,theturtletalks,3.0,0.0,2025-11-12 17:55:02+00:00,shell,neutral
+45903343,"""Slippery Zips and Sticky Tar-Pits"" from Python's Security Dev Seth Larson [pdf]",https://alpha-omega.dev/wp-content/uploads/sites/22/2025/10/ao_wp_102725a.pdf,AlSweigart,2.0,1.0,2025-11-12 17:56:12+00:00,python,neutral
+45903347,Need free help on an Industry Project?,,sfromana,2.0,0.0,2025-11-12 17:56:23+00:00,,positive
+45903351,Elevator Saga – the elevator programming game,https://play.elevatorsaga.com/,pavel_lishin,2.0,0.0,2025-11-12 17:56:38+00:00,,negative
+45903358,Show HN: Fivefold – a logic puzzle where the rules change every day,https://fivefold.ca,MattRix,2.0,0.0,2025-11-12 17:57:02+00:00,shell,neutral
+45903367,I deleted ChatGPT (and most of my other apps),https://www.dtlarson.com/feed-the-beast,ajflores1604,4.0,1.0,2025-11-12 17:57:21+00:00,,positive
+45903398,Corals survived past climate changes by retreating to the deeps,https://arstechnica.com/science/2025/11/corals-survived-past-climate-changes-by-retreating-to-the-deeps/,Bender,3.0,0.0,2025-11-12 17:59:28+00:00,,negative
+45903404,Steam Machine,https://store.steampowered.com/sale/steammachine,davikr,1495.0,737.0,2025-11-12 17:59:43+00:00,,neutral
+45903416,Whisper Leak side-channel attack bad actors access sensitive LLM conversations,https://www.scworld.com/news/whisper-leak-side-channel-attack-lets-bad-actors-access-sensitive-llm-conversations,Bender,3.0,0.0,2025-11-12 18:00:38+00:00,,negative
+45903419,Steam Machine,https://store.steampowered.com/sale/hardware,HeliumHydride,6.0,1.0,2025-11-12 18:00:53+00:00,,neutral
+45903424,"Red Hat's RHEL 10.1 Released Systemd Soft-Reboots, Easier AI Accelerator Drivers",https://www.phoronix.com/news/Red-Hat-Enterprise-Linux-10.1,Bender,3.0,0.0,2025-11-12 18:01:42+00:00,,neutral
+45903452,US saw vivid northern lights as far south as Florida and more could be coming,https://www.npr.org/2025/11/12/nx-s1-5274739/northern-lights-aurora-borealis-solar-storms,ck2,12.0,2.0,2025-11-12 18:03:48+00:00,typescript,positive
+45903478,PassMan: A Secure and Open Source CLI Password Manager Using SQLCipher (v1.0.0),https://github.com/bsamarji/PassMan,bsamarji,2.0,1.0,2025-11-12 18:05:30+00:00,sql,positive
+45903485,Control LLM Spend and Access with any-LLM-gateway,https://blog.mozilla.ai/control-llm-spend-and-access-with-any-llm-gateway/,aittalam,3.0,0.0,2025-11-12 18:06:02+00:00,,neutral
+45903510,UK pauses intelligence-sharing with US on suspected drug vessels in Caribbean,https://www.theguardian.com/uk-news/2025/nov/11/uk-suspends-intelligence-sharing-with-us-amid-airstikes-in-the-caribbean,beardyw,111.0,54.0,2025-11-12 18:07:27+00:00,shell,neutral
+45903534,Every Other VR Headset Is Obsolete Now – Steam Frame First Look [video],https://www.youtube.com/watch?v=dU3ru09HTng,lordleft,4.0,1.0,2025-11-12 18:09:09+00:00,,positive
+45903567,"Claude Code Is a Platform, Not an App",https://egghead.io/claude-code-is-a-platform-not-an-app~vlf9f,adocomplete,2.0,0.0,2025-11-12 18:11:10+00:00,,neutral
+45903568,What are your takes on Worldcoin?,,TsaniGr,4.0,5.0,2025-11-12 18:11:11+00:00,,neutral
+45903585,Val Town 2023-2025 Retrospective,https://macwright.com/2025/11/11/val-town,janpio,3.0,0.0,2025-11-12 18:12:28+00:00,,neutral
+45903586,Async and Finaliser Deadlocks,https://tratt.net/laurie/blog/2025/async_and_finaliser_deadlocks.html,emailed,54.0,19.0,2025-11-12 18:12:29+00:00,,neutral
+45903595,Predatory Opt-Outs: The Speculators Come for the Anthropic Copyright Settlement,https://writerbeware.blog/2025/11/07/predatory-opt-outs-the-speculators-come-for-the-anthropic-copyright-settlement/,ilamont,4.0,0.0,2025-11-12 18:12:54+00:00,,neutral
+45903598,Users Stuck in YubiKey Re-Enrollment Loop on X (Twitter),https://twitter.com/softminus/status/1988667569059017045,nake13,54.0,71.0,2025-11-12 18:13:06+00:00,,neutral
+45903600,Nvidia Nemotron Is Now Available in Puter.js,https://developer.puter.com/blog/puter-js-nvidia-nemotron/,ent101,2.0,0.0,2025-11-12 18:13:19+00:00,javascript,positive
+45903619,Gossip: A Web-Based Interface for Concise and Impressive Presentations,https://medium.com/@subairui/gossip-a-web-based-interface-for-concise-and-impressive-presentations-fa7dccd79614,subairui,2.0,0.0,2025-11-12 18:14:15+00:00,,positive
+45903626,Valve releases new hardware [video],https://www.youtube.com/watch?v=OmKrKTwtukE,Jotalea,8.0,1.0,2025-11-12 18:14:44+00:00,,positive
+45903634,Electric fields steered nanoparticles through a liquid-filled maze,https://theconversation.com/electric-fields-steered-nanoparticles-through-a-liquid-filled-maze-this-new-method-could-improve-drug-delivery-and-purification-systems-268553,gmays,2.0,0.0,2025-11-12 18:15:28+00:00,,neutral
+45903647,Zen Adventure – The Number Garden Project (Menu Screen),https://number-garden-menu-link.netlify.app/,cpuXguy,2.0,0.0,2025-11-12 18:15:53+00:00,,neutral
+45903660,Ask HN: When should you quit your job for a side project?,,Nair0,3.0,2.0,2025-11-12 18:16:16+00:00,shell,neutral
+45903668,Comparing Integers and Doubles,http://databasearchitects.blogspot.com/2025/11/comparing-integers-and-doubles.html,pfent,2.0,1.0,2025-11-12 18:16:52+00:00,,neutral
+45903670,I Worked All over Silicon Valley. This Is How It Lost Its Spine,https://www.nytimes.com/2025/11/12/opinion/silicon-valley-meta-apple-trump.html,SLHamlet,5.0,0.0,2025-11-12 18:16:57+00:00,typescript,neutral
+45903672,LeJEPA: Provable and Scalable Self-Supervised Learning Without the Heuristics,https://arxiv.org/abs/2511.08544,XTXinverseXTY,3.0,2.0,2025-11-12 18:17:05+00:00,scala,neutral
+45903678,OpenAI fights order to turn over millions of ChatGPT conversations,https://www.reuters.com/business/media-telecom/openai-fights-order-turn-over-millions-chatgpt-conversations-2025-11-12/,geox,5.0,0.0,2025-11-12 18:17:23+00:00,typescript,neutral
+45903688,Reduced aerosol pollution diminished cloud reflectivity,https://www.nature.com/articles/s41467-025-65127-x,PaulHoule,3.0,0.0,2025-11-12 18:17:45+00:00,shell,neutral
+45903708,Show HN: Tuisic v2 – Now with visualizer and AI (MCP server) support,https://github.com/Dark-Kernel/tuisic,dark-kernel,2.0,0.0,2025-11-12 18:18:38+00:00,shell,neutral
+45903712,One Weird Hashing Trick,https://notes.hella.cheap/one-weird-hashing-trick.html,todsacerdoti,4.0,0.0,2025-11-12 18:18:51+00:00,shell,negative
+45903742,I Found (and Fixed) a 14x Cost Bug in Airbyte's S3 Connector,https://wozz.io/airbyte-story.html,rokumar510,2.0,1.0,2025-11-12 18:20:32+00:00,,positive
+45903747,Spiral-Obsessed AI 'Cult' Spreads Mystical Delusions Through Chatbots,https://www.rollingstone.com/culture/culture-features/spiralist-cult-ai-chatbot-1235463175/,d_silin,8.0,2.0,2025-11-12 18:20:58+00:00,,neutral
+45903748,Satya Nadella – How Microsoft is preparing for AGI [video],https://www.youtube.com/watch?v=8-boBsWcr5A,cjbarber,4.0,0.0,2025-11-12 18:21:04+00:00,,neutral
+45903756,"Intel Releases New CPU Microcode, Publishes 30 New Security Advisories",https://www.phoronix.com/news/Intel-Patch-Tuesday-Nov-2025,Bender,33.0,0.0,2025-11-12 18:21:35+00:00,shell,positive
+45903761,First stellar Coronal Mass Ejection detected beyond our Sun,https://www.theregister.com/2025/11/12/scientists_spot_a_huge_explosion/,Bender,5.0,0.0,2025-11-12 18:21:50+00:00,,positive
+45903767,AI-Designed Antibodies Achieve Atomic Precision to Enhance Drug Discovery,https://www.genengnews.com/topics/artificial-intelligence/ai-designed-antibodies-achieve-atomic-precision-to-enhance-drug-discovery/,lc0_stein,2.0,0.0,2025-11-12 18:22:01+00:00,,neutral
+45903790,A structural pattern for Legible Modular software,https://arxiv.org/abs/2508.14511,vjdingdong,1.0,0.0,2025-11-12 18:23:46+00:00,,positive
+45903798,Decorating with Information Density,https://www.nytimes.com/2025/11/08/t-magazine/peter-ayers-tarantino-apartment.html,paulpauper,2.0,0.0,2025-11-12 18:24:06+00:00,,neutral
+45903813,"AI-powered nimbyism could grind UK planning system to a halt, experts warn",https://www.theguardian.com/politics/2025/nov/09/ai-powered-nimbyism-could-grind-uk-planning-system-to-a-halt-experts-warn,paulpauper,1.0,0.0,2025-11-12 18:24:53+00:00,typescript,neutral
+45903814,Apple reserves over 50% of TSMC 2nm capacity for 2026,https://dataconomy.com/2025/11/12/apple-reserves-over-50-of-tsmc-2nm-capacity-for-2026/,giuliomagnifico,3.0,1.0,2025-11-12 18:24:58+00:00,,neutral
+45903822,"Attackers turned Citrix, Cisco 0-day exploits into custom-malware hellscape",https://www.theregister.com/2025/11/12/amazon_cisco_citrix_0day_exploits/,Bender,1.0,0.0,2025-11-12 18:25:15+00:00,typescript,neutral
+45903824,The Young Women Grappling with an 'Old Man's Disease',https://www.nytimes.com/2025/11/11/health/als-young-women.html,paulpauper,2.0,0.0,2025-11-12 18:25:17+00:00,,positive
+45903829,Electronics Boutique: We Byte the Bullet – By Paul Lefebvre,https://www.goto10retro.com/p/electronics-boutique-we-byte-the,rbanffy,2.0,0.0,2025-11-12 18:25:58+00:00,,neutral
+45903831,Image-to-Text Contextmenu (Chrome Browser Extension),https://devpost.com/software/image-to-text-contextmenu-chrome-browser-extension,mooreds,1.0,0.0,2025-11-12 18:26:02+00:00,,neutral
+45903840,"Valve Announces New Steam Machine, Steam Controller and Steam Frame",https://www.phoronix.com/news/Steam-Machines-Frame-2026,doener,383.0,121.0,2025-11-12 18:26:25+00:00,,positive
+45903846,Sound familiar? Matching voices boost trust in self-driving cars,https://news.umich.edu/sound-familiar-matching-voices-boost-trust-in-self-driving-cars/,mooreds,1.0,0.0,2025-11-12 18:26:53+00:00,rust,positive
+45903850,Luck Is a Harsh Mistress,https://keygen.sh/blog/luck-is-a-harsh-mistress/,ezekg,3.0,0.0,2025-11-12 18:27:09+00:00,shell,negative
+45903858,"Valve Announces Steam Frame, a ""Streaming-First"" Standalone VR Headset",https://www.uploadvr.com/valve-steam-frame-official-announcement-features-details/,fidotron,4.0,1.0,2025-11-12 18:27:43+00:00,,neutral
+45903862,Debating Modern Postgres Architectures: Shared Nothing vs. Shared Everything,,saisrirampur,2.0,0.0,2025-11-12 18:27:47+00:00,shell,positive
+45903871,Understanding Customer Demand: A Series,https://commoncog.com/understanding-customer-demand-series/,mooreds,2.0,0.0,2025-11-12 18:28:24+00:00,,neutral
+45903874,Cyberspace.online Social media de-imagined. A quiet corner of the internet,https://cyberspace.online/,def076,3.0,1.0,2025-11-12 18:28:48+00:00,,positive
+45903888,Maestro Technology Sells Used SSD Drives as New,https://kozubik.com/items/MaestroTechnology/,walterbell,165.0,73.0,2025-11-12 18:29:18+00:00,,positive
+45903891,Claude Code Custom Commands: 3 Practical Examples,https://www.aiengineering.report/p/claude-code-custom-commands-3-practical,moonlighthacker,1.0,0.0,2025-11-12 18:29:23+00:00,,positive
+45903909,I'm taking a three-week LLM fast,https://cekrem.github.io/posts/im-taking-a-three-week-llm-fast/,freediver,3.0,0.0,2025-11-12 18:30:04+00:00,,positive
+45903912,Valve Enters the Console Wars,https://www.theverge.com/games/818622/valve-console-wars-price-sony-microsoft-nintendo-windows,aaronbrethorst,5.0,2.0,2025-11-12 18:30:21+00:00,,neutral
+45903927,Ask HN: What's your way to deploy ComfyUI to production?,,sprocketus,2.0,0.0,2025-11-12 18:31:08+00:00,,neutral
+45903939,Weighting an Average to Minimize Variance,https://www.johndcook.com/blog/2025/11/12/minimum-variance/,azhenley,2.0,0.0,2025-11-12 18:32:31+00:00,,negative
+45903944,Free email template builder for HTML Emails,https://mailui.co/blog/best-email-template-builders-2,sifulweb,1.0,0.0,2025-11-12 18:32:47+00:00,,positive
+45903948,Anthropic invests $50B in American AI infrastructure,https://www.diffusemind.com/group/8a325136-480b-4e75-a40c-a5d254051109/index.html,karmsingh,3.0,2.0,2025-11-12 18:33:00+00:00,typescript,neutral
+45903957,Valve's New Steam Machine,https://www.pcgamer.com/hardware/gaming-pcs/steam-machine-specs-availability/,evanjrowley,2.0,1.0,2025-11-12 18:33:31+00:00,,positive
+45903965,Rendering Samples with Showcase for Ruby on Rails,https://blog.appsignal.com/2025/11/12/rendering-samples-with-showcase-for-ruby-on-rails.html,unripe_syntax,1.0,0.0,2025-11-12 18:34:15+00:00,ruby,neutral
+45903976,"Valve's new Steam Frame headset – Arm-powered, new translation layer for x86",https://www.tomshardware.com/peripherals/gaming-headsets/hands-on-with-valves-new-steam-frame-headset-arm-powered-mixed-mode-device-uses-new-fex-translation-layer-for-traditional-x86-games,T-A,1.0,1.0,2025-11-12 18:34:46+00:00,,positive
+45903992,Show HN: HMPL-DOM – Direct Replacement for Htmx,https://github.com/hmpl-language/hmpl-dom,aanthonymax,2.0,0.0,2025-11-12 18:35:47+00:00,shell,positive
+45903993,Novel textile can adjust its aerodynamic properties on demand,https://techxplore.com/news/2025-10-textile-adjust-aerodynamic-properties-demand.html,PaulHoule,1.0,0.0,2025-11-12 18:35:54+00:00,typescript,neutral
+45903995,How Tube Amplifiers Work,https://robrobinette.com/How_Amps_Work.htm,gokhan,81.0,43.0,2025-11-12 18:35:59+00:00,,neutral
+45904006,11foot8.com: Trucks and Bridges,https://11foot8.com/,busymom0,1.0,0.0,2025-11-12 18:37:14+00:00,,neutral
+45904023,States Accidentally Hand over Residents' Data to ICE,https://www.documentcloud.org/documents/26223081-congressional-dmv-ice-letter-to-dem-governors/,c420,3.0,0.0,2025-11-12 18:38:34+00:00,,neutral
+45904025,"Nolan Williams, Who Stimulated the Brain to Treat Depression, Dies at 43",https://www.nytimes.com/2025/11/11/health/nolan-williams-dead.html,carabiner,2.0,1.0,2025-11-12 18:38:40+00:00,,neutral
+45904031,Show HN: Agentic AIs – Virtual Power Plant Simulation,https://www.virtualpowerplantsim.com/,CaptP,3.0,0.0,2025-11-12 18:38:58+00:00,shell,neutral
+45904035,Android computers appear to be on the way,https://twitter.com/Jukanlosreve/status/1988193107339337826,thunderbong,2.0,1.0,2025-11-12 18:39:07+00:00,,neutral
+45904055,Walter Isaacson's 'Steve Jobs' (2012),https://daringfireball.net/2012/02/walter_isaacson_steve_jobs,tosh,1.0,0.0,2025-11-12 18:40:31+00:00,,neutral
+45904082,`Indexer` and `Int` vs. `UInt` in the Mojo Programming Language,https://forum.modular.com/t/indexer-and-int-vs-uint/2210,fanf2,1.0,0.0,2025-11-12 18:42:03+00:00,,neutral
+45904091,Have American Institutions Become Overly Feminized?,https://www.thefp.com/p/have-american-institutions-become-overly-feminized,srid,2.0,1.0,2025-11-12 18:42:43+00:00,,neutral
+45904103,Jelly's back Here are three worth making – and three that should wobble off,https://www.theguardian.com/food/2025/nov/12/my-jelly-hell-slowly-the-whole-thing-collapsed-before-me,Freak_NL,3.0,0.0,2025-11-12 18:43:24+00:00,shell,positive
+45904150,The One Who Kept VLC Free,https://www.welcometothejungle.com/en/articles/video/kempf-interview-vlc-videolan,rolph,3.0,0.0,2025-11-12 18:46:11+00:00,,positive
+45904161,Blasting Yeast with UV Light,https://chillphysicsenjoyer.substack.com/p/results-from-blasting-yeast-with,Gormisdomai,71.0,16.0,2025-11-12 18:46:40+00:00,,positive
+45904171,Creating prototypes constrained by the medium not our skills or understanding,https://grillopress.github.io/2025/10/27/prototypes-that-arent-limited-by-your-skills.html,angrymouse,1.0,0.0,2025-11-12 18:47:03+00:00,,neutral
+45904176,What websites are worth visiting daily?,https://tosny.medium.com/7-websites-i-visit-every-day-in-2025-ef54332a2003,Isa-514,1.0,0.0,2025-11-12 18:47:12+00:00,,positive
+45904178,Why CUDA translation wont unlock AMD,https://eliovp.com/why-cuda-translation-wont-unlock-amds-real-potential/,JonChesterfield,2.0,0.0,2025-11-12 18:47:15+00:00,,neutral
+45904200,"Coinbase to reincorporate in Texas, exit Delaware",https://www.reuters.com/business/coinbase-set-reincorporate-texas-2025-11-12/,WA9ACE,7.0,0.0,2025-11-12 18:49:07+00:00,,neutral
+45904204,AI World Clocks,https://clocks.brianmoore.com,giraffe_lady,1.0,0.0,2025-11-12 18:49:19+00:00,,neutral
+45904206,Show HN: Vibemail – AI-powered MJML email editor that runs in the browser,https://vibemail-beta.vercel.app/,elliotbnvl,1.0,0.0,2025-11-12 18:49:25+00:00,shell,neutral
+45904214,New bridge in south-west China collapses into mountainside,https://www.theguardian.com/world/2025/nov/12/new-hongqi-bridge-in-south-west-china-collapses-into-mountainside,tosh,7.0,0.0,2025-11-12 18:49:35+00:00,,positive
+45904228,A Reversal of Cosmic Expansion?,https://www.centauri-dreams.org/2025/11/12/a-reversal-of-cosmic-expansion/,JPLeRouzic,3.0,0.0,2025-11-12 18:50:20+00:00,,neutral
+45904244,"EU's ""Chat Control 2.0"" Sparks Fierce Privacy Backlash",https://reclaimthenet.org/the-disguised-return-of-the-eus-private-message-scanning-plot,mikece,3.0,0.0,2025-11-12 18:51:05+00:00,shell,neutral
+45904246,Ford CEO shocked taking apart Tesla and Chinese EVs,https://www.businessinsider.com/ford-ceo-taking-apart-tesla-chinese-evs-jim-farley-2025-11,testing22321,3.0,5.0,2025-11-12 18:51:11+00:00,shell,negative
+45904252,Transform campaign and asset development with Creative Agent,https://advertising.amazon.com/resources/whats-new/unboxed-2025-creative-agent,malshe,1.0,0.0,2025-11-12 18:51:42+00:00,,positive
+45904295,Backblaze Cloud Provider Performance Stats for Q3 2025,https://www.backblaze.com/blog/backblaze-performance-stats-for-q3-2025/,dabinat,3.0,0.0,2025-11-12 18:54:11+00:00,typescript,neutral
+45904306,Backyard Apt: A Raccoon Story,https://engseclabs.com/blog/raccoon-diaries/,alexsmolen,3.0,1.0,2025-11-12 18:54:46+00:00,,positive
+45904358,What Should I Work on Next? A Framework for High-Impact Security Work,https://engseclabs.com/blog/what-should-i-work-on-next/,alexsmolen,2.0,0.0,2025-11-12 18:56:51+00:00,shell,neutral
+45904398,Synthetic Genomics is a BOOM in waiting,https://supernaturalselection.substack.com/p/life-is-a-program-that-continuously,ahessel,2.0,0.0,2025-11-12 18:58:48+00:00,,neutral
+45904407,Windows president says platform is evolving into an agentic OS,https://www.windowscentral.com/microsoft/windows-11/windows-president-confirms-os-will-become-ai-agentic-generates-push-back-online,ryandrake,4.0,4.0,2025-11-12 18:59:04+00:00,,neutral
+45904420,Infinite scale: The architecture behind the Azure AI superfactory,https://blogs.microsoft.com/blog/2025/11/12/infinite-scale-the-architecture-behind-the-azure-ai-superfactory/,aprdm,1.0,0.0,2025-11-12 18:59:26+00:00,,negative
+45904460,A tiny probabilistic programming language in Gleam,https://a5s.eu/blog/gleam-ppl/,crowdhailer,1.0,0.0,2025-11-12 19:00:58+00:00,,neutral
+45904472,Research on AI Mental Health,https://www.talktoash.com/posts/connection-hope-and-real-progress-findings-from-our-first-real-world-study,neilparikh11,1.0,1.0,2025-11-12 19:01:37+00:00,,negative
+45904486,Soft Exosuit Based on Fabric Muscle to Assist Shoulder Joint Movements,https://ieeexplore.ieee.org/document/11177570,PaulHoule,3.0,0.0,2025-11-12 19:02:06+00:00,shell,positive
+45904513,"A Domain for the Queer Community, by the Queer Community",https://www.dotmeow.org/en/what,birdculture,1.0,1.0,2025-11-12 19:03:30+00:00,,neutral
+45904522,X goes down with a security 'Yubikey' error affecting Twitter users,https://www.windowscentral.com/software-apps/live/x-goes-down-hard-with-a-security-yubikey-error-affecting-millions-of-twitter-users,mfiguiere,22.0,0.0,2025-11-12 19:03:53+00:00,,negative
+45904544,Show HN: HumaLab – The Intelligence Validation Platform,https://humalab.ai/,juhgiyo,4.0,0.0,2025-11-12 19:05:17+00:00,shell,neutral
+45904551,"GPT-5.1: A smarter, more conversational ChatGPT",https://openai.com/index/gpt-5-1/,tedsanders,230.0,249.0,2025-11-12 19:05:41+00:00,,positive
+45904555,"More Synthetic, Functional Phages",https://www.pnas.org/doi/10.1073/pnas.2523871122,ahessel,1.0,1.0,2025-11-12 19:05:54+00:00,,positive
+45904559,The Marines and Tet: The Battle That Changed the Vietnam War,https://newseumed.org/tools/artifact/marines-and-tet-battle-changed-vietnam-war,gmays,1.0,0.0,2025-11-12 19:06:01+00:00,,neutral
+45904562,Show HN: ShellDash – Browser server dashboard with SSH and globe monitoring,https://shelldash.com,mannders,2.0,0.0,2025-11-12 19:06:07+00:00,shell,neutral
+45904566,"Our first look at the Steam Machine, Valve's ambitious new game console",https://www.theverge.com/tech/818111/valve-steam-machine-hands-on-preview-specs-announcement,DavideNL,2.0,1.0,2025-11-12 19:06:13+00:00,,positive
+45904583,From ExoPlayer2 to Media3: Lessons from a Full Playback Rewrite,https://www.patreon.com/posts/from-exoplayer2-to-media3-143429708,patreon-eng,1.0,1.0,2025-11-12 19:07:26+00:00,,positive
+45904592,Reproachfully Presenting Resilient Recursive Descent Parsing,https://thunderseethe.dev/posts/parser-base/,adamch,3.0,0.0,2025-11-12 19:07:53+00:00,,neutral
+45904640,You won't believe the excuses lawyers have after getting busted for using AI,https://arstechnica.com/tech-policy/2025/11/lawyers-keep-giving-weak-sauce-excuses-for-fake-ai-citations-in-court-docs/,sipofwater,10.0,2.0,2025-11-12 19:09:59+00:00,,neutral
+45904707,I Sued my landlord and maybe you should too,https://medium.com/@brendan.salisbury/i-sued-my-landlord-maybe-you-should-too-af7fc938c530,hprotagonist,4.0,3.0,2025-11-12 19:13:20+00:00,shell,neutral
+45904730,Looking for Hidden Gems in Scientific Literature,https://elicit.com/blog/literature-based-discovery,ravenical,2.0,0.0,2025-11-12 19:14:41+00:00,,negative
+45904773,How Should Shareholders Vote?,https://www.bloomberg.com/opinion/newsletters/2025-11-12/how-should-shareholders-vote,ioblomov,1.0,2.0,2025-11-12 19:16:30+00:00,shell,neutral
+45904778,Understanding high-entropy random number generation,http://memosisland.blogspot.com/2025/11/leymosun-high-entropy-randomness.html,northlondoner,2.0,1.0,2025-11-12 19:16:44+00:00,,negative
+45904796,Bark Air FAQ,https://air.bark.co/pages/faq,mooreds,1.0,0.0,2025-11-12 19:17:48+00:00,,neutral
+45904844,When Builders Became Bullies,https://blog.con.rs/2025/11/12/when-builders-became-bullies.html,conrs,1.0,1.0,2025-11-12 19:20:32+00:00,,neutral
+45904846,Train On Your Groupchat: LoRA and in-browser inference to fine-tune your friends,https://www.brimtown.com/train-on-your-groupchat,brimtown,1.0,0.0,2025-11-12 19:20:34+00:00,,neutral
+45904850,Ryanair tries forcing app downloads by eliminating paper boarding passes,https://arstechnica.com/gadgets/2025/11/ryanair-tries-forcing-app-downloads-by-eliminating-paper-boarding-passes/,sipofwater,33.0,18.0,2025-11-12 19:20:43+00:00,,negative
+45904860,Is your electric bill going up? AI is partly to blame,https://www.npr.org/2025/11/06/nx-s1-5597971/electricity-bills-utilities-ai,ilamont,54.0,66.0,2025-11-12 19:21:09+00:00,,neutral
+45904873,"As 'Dorian Gray' ages, its relevance only grows",https://www.washingtonpost.com/books/2025/11/08/dorian-gray-oscar-wilde-history/,apollinaire,4.0,0.0,2025-11-12 19:21:37+00:00,typescript,neutral
+45904892,The Overly Humble Programmer,https://jimmyhmiller.com/overly-humble-programmer,tobr,3.0,0.0,2025-11-12 19:22:57+00:00,,negative
+45904918,Valve Announces Steam Machine,https://store.steampowered.com/hardware/steammachine,metayrnc,2.0,1.0,2025-11-12 19:24:14+00:00,,neutral
+45904921,Ask HN: Typical tech job interview in late 2025?,,dakiol,2.0,2.0,2025-11-12 19:24:24+00:00,,negative
+45905023,Show HN: Agent-to-Code JIT Compiler,https://docs.a1project.org,calebhwin,1.0,0.0,2025-11-12 19:29:28+00:00,shell,neutral
+45905056,"CC can't help my AI research exp – so I open-source this ""AI research skills""",https://github.com/zechenzhangAGI/claude-ai-research-skills,amberjcjj,1.0,1.0,2025-11-12 19:31:13+00:00,,neutral
+45905067,The Rise of Parasitic AI,https://www.lesswrong.com/posts/6ZnznCaTcbGYsCmqu/the-rise-of-parasitic-ai,d_silin,4.0,0.0,2025-11-12 19:31:43+00:00,,neutral
+45905069,Mystery 90s Industrial/goth/rap Demo Tape found while thrifting in Portland,https://old.reddit.com/r/Portland/comments/1ovdpaw/mystery_90s_industrialgothrap_demo_tape_found/,pavel_lishin,8.0,0.0,2025-11-12 19:31:44+00:00,,neutral
+45905073,FEX: Emulate x86 Programs on ARM64,https://github.com/FEX-Emu/FEX,doruk101,2.0,0.0,2025-11-12 19:32:01+00:00,,neutral
+45905100,Show HN: Scribe v2 Realtime – new SOTA real-time speech to text model,https://elevenlabs.io/realtime-speech-to-text,lharries,4.0,0.0,2025-11-12 19:33:24+00:00,shell,positive
+45905129,Weakly-supervised object detection with attention maps and SAM,https://github.com/punnerud/attention_with_dataset,punnerud,1.0,0.0,2025-11-12 19:35:00+00:00,,neutral
+45905152,GPU Benchmarks – Animation Error Methodology White Paper,https://gamersnexus.net/gpus-gn-extras-cpus/problem-gpu-benchmarks-reality-vs-numbers-animation-error-methodology-white,Akronymus,1.0,1.0,2025-11-12 19:36:06+00:00,,neutral
+45905157,RF Multifunctional Components with Integrated Filtering Characteristics,https://www.mdpi.com/3042-5697/1/3/11,PaulHoule,3.0,0.0,2025-11-12 19:36:20+00:00,typescript,neutral
+45905207,The Most Fascinating Machines: When Technology Transforms Everyday Life,https://guildnet.blogspot.com/2025/11/the-most-fascinating-machines-when.html,TraumenMaster,2.0,1.0,2025-11-12 19:39:24+00:00,,positive
+45905254,How high are OpenAI's compute costs? Possibly a lot higher than we thought,https://www.ft.com/content/fce77ba4-6231-4920-9e99-693a6c38e7d5,thereitgoes456,33.0,6.0,2025-11-12 19:41:35+00:00,,positive
+45905329,Critical RCE patched in Imunify360 affects up to 50M+ websites,https://patchstack.com/articles/remote-code-execution-vulnerability-found-in-imunify360/,oliversild,4.0,0.0,2025-11-12 19:45:39+00:00,typescript,neutral
+45905342,Parrot – A C++ library for fused array operations using CUDA/Thrust,https://nvlabs.github.io/parrot/,operator-name,13.0,0.0,2025-11-12 19:46:22+00:00,c++,neutral
+45905359,"Phantom claims to be worlds first transparent monitor,5000nits of HDR brightness",https://www.tomshardware.com/monitors/the-phantom-claims-to-be-the-worlds-first-transparent-computer-monitor-touts-5-000-nits-of-hdr-brightness-24-inch-4k-panel-from-virtual-instruments-launches-q4,thelastgallon,4.0,0.0,2025-11-12 19:47:44+00:00,typescript,positive
+45905367,Hyperlink: On-device AI agent that searches and summarizes all your local files,https://hyperlink.nexa.ai/,alanzhuly,2.0,0.0,2025-11-12 19:47:55+00:00,perl,neutral
+45905408,GLP-1 drugs linked to lower death rates in colon cancer patients,https://today.ucsd.edu/story/glp-1-drugs-linked-to-dramatically-lower-death-rates-in-colon-cancer-patients,gmays,88.0,95.0,2025-11-12 19:50:32+00:00,,neutral
+45905421,Ingress Nginx Retirement: What You Need to Know,https://www.kubernetes.dev/blog/2025/11/12/ingress-nginx-retirement/,gjvc,7.0,2.0,2025-11-12 19:51:24+00:00,,neutral
+45905435,The Risky Movement to Make America Nuclear Again,https://www.bloomberg.com/news/features/2025-10-30/silicon-valley-s-risky-plan-to-revive-nuclear-power-in-america,dgroshev,6.0,2.0,2025-11-12 19:52:35+00:00,,neutral
+45905441,"Despite my love-hate relationship with Motorola, I have to stick with it.",https://old.reddit.com/r/motorola/comments/1ova6vp/despite_my_lovehate_relationship_with_motorola_i/,sipofwater,3.0,0.0,2025-11-12 19:52:51+00:00,shell,neutral
+45905451,LLM Output Drift in Financial Workflows: Validation and Mitigation (arXiv),https://arxiv.org/abs/2511.07585,raffisk,22.0,23.0,2025-11-12 19:53:25+00:00,,neutral
+45905455,Press reviews for the new Framework Laptop 16,https://frame.work/blog/press-reviews-for-the-new-framework-laptop-16-are-live,thenobsta,2.0,1.0,2025-11-12 19:53:38+00:00,,positive
+45905465,Dying Shopping Malls Are the Roman Ruins of Our Civilization,https://www.nytimes.com/2025/11/11/magazine/dying-mall-beauty.html,ChrisArchitect,7.0,6.0,2025-11-12 19:54:13+00:00,shell,negative
+45905493,CLI command history tracker – never forget a command again,https://crates.io/crates/omniscient/1.0.2,danebalia,13.0,5.0,2025-11-12 19:55:47+00:00,,neutral
+45905503,The innovator's dilemma disolves when truth is boss,https://omarreid.co.uk/posts/the-selfless-innovator/,oreid52,2.0,1.0,2025-11-12 19:56:18+00:00,,neutral
+45905505,We're Trying to Solve Vibe-Coded PRs,https://idiallo.com/blog/how-we-are-solving-vibe-coded-prs,firefoxd,4.0,0.0,2025-11-12 19:56:25+00:00,,neutral
+45905555,RDF Support Is Now Available in G.V(),https://gdotv.com/blog/gdotv-rdf-triplestore-support-announcement/,bwmerklsasaki,3.0,0.0,2025-11-12 19:59:20+00:00,,positive
+45905620,Making the Clang AST Leaner and Faster,"https://cppalliance.org/mizvekov,/clang/2025/10/20/Making-Clang-AST-Leaner-Faster.html",vitaut,33.0,8.0,2025-11-12 20:02:58+00:00,,neutral
+45905629,Moving beyond one-size-fits-all,https://fidjisimo.substack.com/p/moving-beyond-one-size-fits-all,twapi,1.0,0.0,2025-11-12 20:03:21+00:00,,neutral
+45905703,Steam Controller,https://store.steampowered.com/sale/steamcontroller,tart-lemonade,24.0,9.0,2025-11-12 20:07:55+00:00,,neutral
+45905716,Detection of two anomalies behind the Eastern face of the Menkaure Pyramid,https://www.sciencedirect.com/science/article/pii/S096386952500012X,miramba,3.0,0.0,2025-11-12 20:08:20+00:00,,negative
+45905728,Show HN: Hathora Models – Voice Model Marketplace,https://models.hathora.dev/,hpx7,6.0,1.0,2025-11-12 20:08:56+00:00,shell,neutral
+45905734,Enlightened library to convert HTML and CSS to SVG,https://github.com/vercel/satori,sadeshmukh,2.0,0.0,2025-11-12 20:09:12+00:00,,neutral
+45905775,Are We Doomed?,https://www.lrb.co.uk/the-paper/v47/n21/david-runciman/are-we-doomed,pepys,29.0,8.0,2025-11-12 20:11:19+00:00,,neutral
+45905793,How to Sync Customer.io Data into PostHog,https://hoghelper.com/blog/how-to-sync-customer-io-data-into-posthog,BertramsL,1.0,0.0,2025-11-12 20:12:09+00:00,,neutral
+45905802,Camunda Health Monitor – Real-time monitoring dashboard for Camunda BPM clusters,,champabpmn,1.0,0.0,2025-11-12 20:12:27+00:00,shell,neutral
+45905850,FEX-emu – run x86 applications on ARM64 Linux devices,https://fex-emu.com/,open-paren,6.0,1.0,2025-11-12 20:15:51+00:00,,neutral
+45905852,Fireside Chat IWAI 2025: Profs. Gary Marcus and Karl Friston [video],https://www.youtube.com/watch?v=cSYOiJh0384,measurablefunc,1.0,0.0,2025-11-12 20:15:51+00:00,,neutral
+45905867,"Show HN: Reezu – Send large videos instantly, stream before download",https://reezu.com/,jobi110,1.0,1.0,2025-11-12 20:16:39+00:00,shell,positive
+45905897,Rethinking ChatGPT UI: From Linear Chats to Knowledge Maps [video],https://www.youtube.com/watch?v=ldJTjwhqKy4,gnarlouse,1.0,0.0,2025-11-12 20:18:05+00:00,typescript,neutral
+45905906,Denmark inaugurates rare low-carbon hydrogen plant,https://www.france24.com/en/live-news/20251103-denmark-inaugurates-rare-low-carbon-hydrogen-plant,PaulHoule,3.0,0.0,2025-11-12 20:18:37+00:00,,positive
+45905912,Trump urges Israel's president to pardon Benjamin Netanyahu,https://www.bbc.com/news/live/c2dr3z9egljt,onemoresoop,13.0,1.0,2025-11-12 20:19:00+00:00,,neutral
+45905948,Even G2 – Smartglasses,https://www.evenrealities.com/smart-glasses,ricokatayama,3.0,1.0,2025-11-12 20:21:49+00:00,,neutral
+45905963,YouTube T Transcript,https://chromewebstore.google.com/detail/youtube-to-transcript/jjffnakjflkafmfmoaeodnfnoohlmecn,prius-lab,1.0,1.0,2025-11-12 20:22:21+00:00,,neutral
+45905983,Show HN: Built a tiny interpreter from scratch in C to understand how they work,https://github.com/renvins/toyforth-interpreter,renvins,4.0,0.0,2025-11-12 20:23:21+00:00,c,neutral
+45905992,Show HN: SlugMatch – Match Students to Residential Colleges,https://www.slugmatch.com/,ivankuria,1.0,0.0,2025-11-12 20:23:49+00:00,typescript,neutral
+45905999,I Canceled My Family's Health Insurance (and Joined CrowdHealth),https://blog.nateliason.com/p/crowdhealth,bilsbie,3.0,2.0,2025-11-12 20:24:15+00:00,,neutral
+45906015,'I'm so excited': Jesse Eisenberg is donating a kidney to a stranger,https://www.theguardian.com/film/2025/nov/03/im-so-excited-jesse-eisenberg-is-donating-a-kidney-to-a-stranger,geox,2.0,0.0,2025-11-12 20:25:06+00:00,,positive
+45906057,Show HN: Get an email when your favorite director releases a movie,https://www.premierepal.com/,samteeeee,2.0,0.0,2025-11-12 20:27:04+00:00,shell,positive
+45906148,MS Task Manager creator reveals how a 'Unixy impulse' endured in Windows,https://forums.theregister.com/forum/all/2025/11/12/thirty_years_of_task_manager/,Logans_Run,4.0,1.0,2025-11-12 20:31:26+00:00,,neutral
+45906161,The option premium view of bubbles: why we need our speculative manias,https://jamesthomason.com/the-option-premium-view-of-bubbles/,dollar,2.0,0.0,2025-11-12 20:32:24+00:00,,neutral
+45906178,"October jobs data may never be released, White House says",https://www.politico.com/news/2025/11/12/white-house-shutdown-october-jobs-report-bls-00648420,ChadNauseam,5.0,0.0,2025-11-12 20:33:07+00:00,,neutral
+45906208,Hogwarts School of Software Engineering,https://www.embedded.com/hogwarts-school-of-software-engineering/,ohjeez,1.0,0.0,2025-11-12 20:34:48+00:00,typescript,neutral
+45906223,Show HN: I built a platform where audiences fund debates between public thinkers,https://logosive.com,mcastle,27.0,30.0,2025-11-12 20:35:22+00:00,shell,neutral
+45906226,Iceland deems possible Atlantic current collapse a security risk,https://www.reuters.com/sustainability/cop/iceland-sees-security-risk-existential-threat-atlantic-ocean-currents-possible-2025-11-12/,bikenaga,39.0,3.0,2025-11-12 20:35:29+00:00,,neutral
+45906228,Why They Mask,https://www.theatlantic.com/politics/2025/11/ice-immigration-masks/684868/,breve,4.0,2.0,2025-11-12 20:35:35+00:00,,neutral
+45906239,The Scope Creep: An interactive narrative nightmare,https://scope-creep.xyz/,ohjeez,1.0,0.0,2025-11-12 20:36:19+00:00,,neutral
+45906286,Video Codec Comparison: AV1 vs. H.265,https://www.red5.net/blog/av1-vs-h265/,mondainx,3.0,1.0,2025-11-12 20:38:38+00:00,,neutral
+45906311,There is no 3x growth investment,https://parthchopra.substack.com/p/there-is-no-3x-growth-investment,probe,1.0,0.0,2025-11-12 20:40:29+00:00,,neutral
+45906329,AI will slash headcount by two-thirds – retail boss,https://www.bbc.com/news/articles/c98n28k9nz1o,jethronethro,4.0,1.0,2025-11-12 20:41:10+00:00,shell,neutral
+45906348,What's New in F# 10,https://learn.microsoft.com/en-us/dotnet/fsharp/whats-new/fsharp-10,aryonoco,44.0,1.0,2025-11-12 20:42:34+00:00,,positive
+45906373,Show HN: ReWave (beta) research papers as podcasts (iOS),https://testflight.apple.com/join/w8MmunnC,bjar2,1.0,0.0,2025-11-12 20:43:55+00:00,typescript,neutral
+45906431,The Roman Empire's 'road map' is twice as extensive as previously thought,https://english.elpais.com/science-tech/2025-11-06/the-roman-empires-road-map-is-twice-as-extensive-as-previously-thought.html,bookofjoe,3.0,0.0,2025-11-12 20:48:25+00:00,,negative
+45906446,Microsoft releases update-fixing update for update-eligible Windows 10 PCs,https://arstechnica.com/gadgets/2025/11/microsoft-releases-update-fixing-update-for-update-eligible-windows-10-pcs/,Bender,2.0,0.0,2025-11-12 20:49:27+00:00,,neutral
+45906454,A 'cannibal storm' from the sun triggered auroras. Another round is on its way,https://www.cnn.com/2025/11/12/science/solar-storm-northern-lights-forecast,Bender,2.0,0.0,2025-11-12 20:49:49+00:00,typescript,negative
+45906472,An oral history of Bank Python (2021),https://calpaterson.com/bank-python.html,ruuda,2.0,0.0,2025-11-12 20:51:12+00:00,python,neutral
+45906516,"Google Paid Out $458,000 at Live Hacking Event",https://www.securityweek.com/google-paid-out-458000-at-live-hacking-event/,Bender,1.0,0.0,2025-11-12 20:54:23+00:00,,positive
+45906557,Which Sam Altman era are you building your AI startup in?,,Loki4794,1.0,1.0,2025-11-12 20:57:34+00:00,,neutral
+45906566,StutterZero: Speech Conversion for Stuttering Transcription and Correction,https://arxiv.org/abs/2510.18938,e_iris,1.0,0.0,2025-11-12 20:58:19+00:00,,neutral
+45906589,Show HN: ChatExport Structurer – parse ChatGPT/Claude exports into queryable SQL,https://github.com/1ch1n/chat-export-structurer,chan1,2.0,0.0,2025-11-12 20:59:56+00:00,typescript,neutral
+45906594,Error,https://www.theguardian.com/australia-news/2025/oct/02/at-least-29-americans-have-sought-asylum-in-australia-since-second-trump-presidency-began,KnuthIsGod,1.0,0.0,2025-11-12 21:00:27+00:00,,neutral
+45906611,Announcing Dart 3.10,https://blog.dart.dev/announcing-dart-3-10-ea8b952b6088,mdhb,2.0,0.0,2025-11-12 21:01:11+00:00,dart,neutral
+45906618,Ask HN: Wouldn't it be much easier if you compress all env vars into one?,,crowdyriver,2.0,1.0,2025-11-12 21:02:01+00:00,,positive
+45906623,What I learned about work and life from distance running,https://the-nerve-blog.ghost.io/learning-from-running/,mprast,2.0,0.0,2025-11-12 21:02:20+00:00,,neutral
+45906625,What's New in Flutter 3.38,https://blog.flutter.dev/whats-new-in-flutter-3-38-3f7b258f7228,mdhb,14.0,0.0,2025-11-12 21:02:25+00:00,,positive
+45906633,Miro: MultI-Reward cOnditioned pretraining improves T2I quality and efficiency,https://arxiv.org/abs/2510.25897,PaulHoule,1.0,0.0,2025-11-12 21:02:53+00:00,,neutral
+45906685,How many of you have lost money due to choosing the wrong AI model?,https://architectgbt.com,pbopps,2.0,2.0,2025-11-12 21:06:50+00:00,,negative
+45906729,A Carnivorous 'Death Ball' Has Emerged from the Deep,https://www.popularmechanics.com/science/animals/a69234817/carnivorous-death-ball/,Amorymeltzer,4.0,0.0,2025-11-12 21:09:04+00:00,,neutral
+45906744,"Pool tables in NYC – every spot, mapped",https://pooltables.nyc/,Amorymeltzer,2.0,0.0,2025-11-12 21:10:14+00:00,,neutral
+45906754,Nextcloud to invest €250M euros until 2030,https://nextcloud.com/blog/nextcloud-community-sovereignty-for-everyone/,doener,2.0,0.0,2025-11-12 21:10:58+00:00,,neutral
+45906762,Show HN: SecurVO – Compliance management for service businesses,https://securVO.com,AaronKushner,1.0,0.0,2025-11-12 21:11:29+00:00,shell,neutral
+45906766,Toyota opens the doors to its first EV battery plant in the US,https://electrek.co/2025/11/12/toyota-opens-first-ev-battery-plant-in-the-us/,breve,3.0,0.0,2025-11-12 21:12:00+00:00,typescript,positive
+45906801,Zen and the Art of Motorcycle Maintenance and Generative AI,https://bersas.substack.com/p/zen-and-the-dance-of-generative-ai,elog08,1.0,0.0,2025-11-12 21:14:22+00:00,,neutral
+45906833,Sass: The CSS Preprocessor That Survived the Apocalypse,https://en.andros.dev/blog/e9ded1a5/sass-the-css-preprocessor-that-survived-the-apocalypse/,ibobev,1.0,0.0,2025-11-12 21:16:23+00:00,,neutral
+45906835,Common Ground Between AI 2027 and AI as Normal Technology,https://asteriskmag.substack.com/p/common-ground-between-ai-2027-and,cjbarber,1.0,0.0,2025-11-12 21:16:27+00:00,,negative
+45906839,Building Feature Flags System: From Simple Toggles to Complex Rules,https://skoredin.pro/blog/golang/feature-flags-system,ibobev,1.0,0.0,2025-11-12 21:16:44+00:00,,negative
+45906838,How much does it cost to make a video game?,https://hushcrasher.substack.com/p/how-much-does-it-cost-to-make-a-video,superMayo,2.0,0.0,2025-11-12 21:16:44+00:00,,negative
+45906842,Could the internet go offline? The fragile system holding the world together,https://www.theguardian.com/technology/2025/oct/26/internet-infrastructure-fragile-system-holding-modern-world-together,edward,3.0,0.0,2025-11-12 21:16:50+00:00,go,neutral
+45906849,"Ditch your (mut)ex, you deserve better",https://chrispenner.ca/posts/mutexes,ibobev,9.0,1.0,2025-11-12 21:17:23+00:00,,positive
+45906852,Android Developer Verification Discourse,https://gist.github.com/agnostic-apollo/b8d8daa24cbdd216687a6bef53d417a6,flykespice,1.0,0.0,2025-11-12 21:17:37+00:00,,neutral
+45906855,Tickets to Commits: What IT Work Taught Me About Writing Code,https://spin.atomicobject.com/it-work-writing-code/,philk10,1.0,0.0,2025-11-12 21:17:49+00:00,typescript,neutral
+45906857,Ask HN: Would you use an app that lets you sell/delegate your shareholder votes?,,vinny380,1.0,2.0,2025-11-12 21:18:05+00:00,typescript,neutral
+45906858,Sudo-Rs Affected by Multiple Security Vulnerabilities,https://www.phoronix.com/news/sudo-rs-security-ubuntu-25.10,wahern,8.0,3.0,2025-11-12 21:18:06+00:00,,neutral
+45906878,Trump in Epstein meltdown as controversial GOP lawmaker rushed to Situation Room,https://www.dailymail.co.uk/news/article-15285297/Trump-Epstein-meltdown-glamorous-GOP-lawmaker-rushed-Situation-Room-summit.html,Bender,14.0,0.0,2025-11-12 21:19:29+00:00,shell,positive
+45906894,I built a compute cluster managed from a single Git repository,https://blog.haschek.at/2025/ultimate-raspberry-pi-gitops-cluster.html,geek_at,1.0,0.0,2025-11-12 21:20:47+00:00,,negative
+45906912,House Democrats release new Epstein emails referencing Trump,https://abcnews.go.com/Politics/house-democrats-release-new-epstein-emails-referencing-trump/story?id=127435983,surprisetalk,20.0,3.0,2025-11-12 21:22:19+00:00,typescript,positive
+45906914,Show HN: KV Marketplace – share LLM attention caches across GPUs like memcached,https://github.com/neelsomani/kv-marketplace,nsomani,2.0,1.0,2025-11-12 21:22:37+00:00,shell,neutral
+45906919,Kaarya AI: Run Your Business on Autopilot,https://www.kaaryaai.com/,vishvendra,1.0,1.0,2025-11-12 21:22:58+00:00,,neutral
+45906925,OpenAI's viability called into question by reported spending with Microsoft,https://www.theregister.com/2025/11/12/openai_spending_report/,beardyw,22.0,1.0,2025-11-12 21:23:40+00:00,,neutral
+45906964,Elon Musk Unveiled – The Tesla Experiment (Trailer),https://variety.com/2025/film/global/elon-musk-unveiled-documentary-trailer-whistleblowers-1236574785/,kejaed,1.0,0.0,2025-11-12 21:26:20+00:00,,neutral
+45906984,GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum,https://openai.com/index/gpt-5-system-card-addendum-gpt-5-1/,wertyk,2.0,0.0,2025-11-12 21:27:44+00:00,,neutral
+45907040,I replaced Mathematica with this free and open-source alternative,https://www.howtogeek.com/i-replaced-mathematica-with-this-free-and-open-source-alternative/,mkoeppe,3.0,0.0,2025-11-12 21:32:25+00:00,,positive
+45907069,Linux Process Priorities Demystified,https://sigma-star.at/blog/2022/02/linux-proc-prios/,Deeg9rie9usi,6.0,0.0,2025-11-12 21:34:11+00:00,,neutral
+45907126,"Weibo launch open source AI, VibeThinker-1.5B",https://huggingface.co/WeiboAI/VibeThinker-1.5B,salkahfi,5.0,0.0,2025-11-12 21:39:04+00:00,,neutral
+45907134,We Still Need a HyperCard for the AI Era,https://rogerwong.me/2025/09/why-we-still-need-a-hypercard-for-the-ai-era/,simquat,4.0,0.0,2025-11-12 21:39:58+00:00,,neutral
+45907141,Firefox 145 to replace its Windows Desktop shortcut with .exe launcher app,https://firefox-source-docs.mozilla.org/browser/desktop-launcher/index.html,tech234a,10.0,0.0,2025-11-12 21:40:30+00:00,typescript,neutral
+45907148,Muscle tissue from a 3D printer–produced in zero gravity,https://phys.org/news/2025-10-muscle-tissue-3d-printer-gravity.html,PaulHoule,3.0,0.0,2025-11-12 21:41:09+00:00,,neutral
+45907157,"Coinbase to Leave Delaware, Reincorporate in Texas",https://www.wsj.com/tech/coinbase-to-leave-delaware-reincorporate-in-texas-19e24c5e,SerCe,4.0,0.0,2025-11-12 21:41:29+00:00,,neutral
+45907161,Eight Months of NixOS,https://catgirl.ai/log/nixos-experience/,fanf2,6.0,1.0,2025-11-12 21:42:02+00:00,,neutral
+45907169,Discord Growth List on GitHub,https://github.com/CommunityOne-io/awesome-discord-growth,pokercow,2.0,0.0,2025-11-12 21:42:37+00:00,,neutral
+45907200,Webb-Site Database Continued,https://webb-database.com/dbpub/,sequant,1.0,0.0,2025-11-12 21:44:59+00:00,,neutral
+45907208,Parakaryon,https://en.wikipedia.org/wiki/Parakaryon,tonyonodi,9.0,0.0,2025-11-12 21:45:24+00:00,,neutral
+45907209,Reddit no longer allows API access without an approval process,https://old.reddit.com/r/redditdev/comments/1oug31u/introducing_the_responsible_builder_policy_new/,busymom0,12.0,3.0,2025-11-12 21:45:25+00:00,,neutral
+45907251,Rapidly build data science apps with code gen,https://blog.engora.com/2025/11/how-to-rapidly-build-and-deploy-data.html,Vermin2000,1.0,1.0,2025-11-12 21:49:23+00:00,,neutral
+45907259,Homebrew no longer allows bypassing Gatekeeper for unsigned/unnotarized software,https://github.com/Homebrew/brew/issues/20755,firexcy,162.0,134.0,2025-11-12 21:50:14+00:00,,neutral
+45907264,Valve is helping Arm get a foothold in PC gaming with its latest work,https://www.pcgamer.com/hardware/vr-hardware/steamos-launching-for-arm-fex-translation-layer/,Intralexical,5.0,3.0,2025-11-12 21:50:40+00:00,typescript,positive
+45907280,Experience the Complete Codemasters Legacy,https://thecodemastersarchive.co.uk/playonline/,xd,1.0,0.0,2025-11-12 21:51:36+00:00,,positive
+45907295,"Problem, 7 Libraries (on the GPU) [video]",https://www.youtube.com/watch?v=EEwREnUdbFs,todsacerdoti,1.0,0.0,2025-11-12 21:52:36+00:00,,neutral
+45907314,Gift List Planner and Tracker,https://apps.apple.com/us/app/gift-list-planner-tracker/id6754363807,MarcoAtPixolini,1.0,0.0,2025-11-12 21:54:53+00:00,,neutral
+45907364,An explosion 92M miles away just grounded Jeff Bezos' New Glenn rocket,https://arstechnica.com/space/2025/11/an-explosion-92-million-miles-away-just-grounded-jeff-bezos-new-glenn-rocket/,pseudolus,3.0,0.0,2025-11-12 21:57:45+00:00,,positive
+45907372,Making .NET Serialization Gadgets by Hand,https://www.vulncheck.com/blog/making-dotnet-gadgets,albinol0bster,2.0,0.0,2025-11-12 21:58:13+00:00,typescript,neutral
+45907389,Russia's AI robot falls seconds after being unveiled,https://www.bbc.com/news/videos/crre8g5e45jo,onemoresoop,6.0,2.0,2025-11-12 21:59:28+00:00,,neutral
+45907408,OneUptime – Complete open-source monitoring and observability platform,https://github.com/OneUptime/oneuptime,ndhandala,3.0,0.0,2025-11-12 22:01:13+00:00,,positive
+45907476,Andrej Karpathy reviews latest wide-release Tesla FSD version,https://twitter.com/karpathy/status/1988705360723763242,Rover222,8.0,1.0,2025-11-12 22:06:15+00:00,,positive
+45907541,Marble: A Multimodal World Model,https://www.worldlabs.ai/blog/marble-world-model,meetpateltech,139.0,28.0,2025-11-12 22:11:14+00:00,,neutral
+45907612,Jim Sanborn open letter to Kryptos community,https://www.documentcloud.org/documents/26229389-adobe-scan-nov-12-2025/,elahieh,2.0,1.0,2025-11-12 22:17:16+00:00,,neutral
+45907616,Halting problem in neural networks: Some AI Systems are Impossible to Compute,https://spectrum.ieee.org/deep-neural-network,orbitalremnant,5.0,1.0,2025-11-12 22:17:25+00:00,,negative
+45907628,Ask HN: Realistic prospects of getting back to management later,,throwaway123198,3.0,1.0,2025-11-12 22:18:11+00:00,typescript,positive
+45907630,Show HN: The Prompt Engineering Bible – Complete Guide to AI Communication,https://dimitriosmitsos.gumroad.com/l/prompt-engineering-bible,Cranot,2.0,0.0,2025-11-12 22:18:13+00:00,shell,positive
+45907650,SBoM Diffing: Next Frontier for Supply Chain Security,https://worklifenotes.com/2025/11/12/sbom-diffing-next-frontier-for-supply-chain-security/,taleodor,1.0,0.0,2025-11-12 22:20:34+00:00,,neutral
+45907668,GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum [pdf],https://cdn.openai.com/pdf/4173ec8d-1229-47db-96de-06d87147e07e/5_1_system_card.pdf,mnemonet,3.0,0.0,2025-11-12 22:21:45+00:00,,neutral
+45907718,Restructuring Vector Quantization with the Rotation Trick,https://arxiv.org/abs/2410.06424,fzliu,1.0,0.0,2025-11-12 22:25:25+00:00,,neutral
+45907723,Ask HN: AI video models are good at nude body movement => porn in training data?,,sendos,1.0,2.0,2025-11-12 22:25:40+00:00,,positive
+45907730,The Selfish (AI) Model,https://crocccante-engineering.vercel.app/doc,olirex99,1.0,0.0,2025-11-12 22:26:43+00:00,shell,negative
+45907731,Can AI tell when someone's lying? MSU study says not yet,https://msutoday.msu.edu/news/2025/11/can-ai-tell-when-someones-lying-msu-study-says-not-yet,rmason,2.0,0.0,2025-11-12 22:26:44+00:00,,neutral
+45907796,AI Codes Electronics with Tscircuit,https://tscircuit.com,cat-whisperer,1.0,0.0,2025-11-12 22:31:55+00:00,,neutral
+45907811,Release Notes for Safari Technology Preview 232,https://webkit.org/blog/17601/release-notes-for-safari-technology-preview-232/,feross,1.0,0.0,2025-11-12 22:33:07+00:00,,neutral
+45907839,"Jasmine: A Simple, Performant and Scalable Jax-Based World Modeling Codebase",https://arxiv.org/abs/2510.27002,PaulHoule,19.0,1.0,2025-11-12 22:35:29+00:00,scala,neutral
+45907886,Fei-Fei Li's World Labs speeds up the world model race with Marble,https://techcrunch.com/2025/11/12/fei-fei-lis-world-labs-speeds-up-the-world-model-race-with-marble-its-first-commercial-product/,cl42,2.0,0.0,2025-11-12 22:40:30+00:00,,neutral
+45907888,Star Wars Q&A: Computers (1983),https://www.flickr.com/photos/paxtonholley/albums/72157627392602868/,phil-pickering,1.0,0.0,2025-11-12 22:40:40+00:00,,neutral
+45907919,Outpost Mono – a futuristic monospaced font designed for Martian outposts,https://github.com/ursooperduper/outpost-mono,yoz,2.0,1.0,2025-11-12 22:43:03+00:00,,neutral
+45907922,/R/datahoarder/ tapes preserved. 2004~2009 CNN/MSNBC/FOX News,https://old.reddit.com/r/DataHoarder/comments/1ouprgf/free_thousands_of_tapes_preserved_20042009/,Teever,6.0,0.0,2025-11-12 22:43:15+00:00,r,neutral
+45907925,Multi-tenant AI chat for databases (dialektai.com),https://dialektai.com/,edihasaj,1.0,0.0,2025-11-12 22:43:27+00:00,,neutral
+45907986,Parallel raises $100M Series A to build web infrastructure for agents,https://parallel.ai/blog/series-a,mnemonet,2.0,0.0,2025-11-12 22:48:46+00:00,,neutral
+45908081,Making a Living as an Artist,https://essays.fnnch.com/make-a-living,wdaher,3.0,0.0,2025-11-12 22:57:10+00:00,,neutral
+45908086,OpenAI releases GPT-5.1 alongside eight new ChatGPT personality styles,https://arstechnica.com/ai/2025/11/openai-walks-a-tricky-tightrope-with-gpt-5-1s-eight-new-personalities/,moelf,3.0,1.0,2025-11-12 22:57:26+00:00,,positive
+45908100,"I Wrote Task Manager – 30 Years Later, the Secrets You Never Knew [video]",https://www.youtube.com/watch?v=yQykvrAR_po,slazien,3.0,0.0,2025-11-12 22:58:13+00:00,typescript,neutral
+45908104,"Open-source AI browser. Switch between ChatGPT, Claude, Gemini, or local LLMs",https://github.com/aiexperti/atlaswebx,Atlasweb,2.0,1.0,2025-11-12 22:58:21+00:00,,neutral
+45908123,"Malicious Chrome Extension Exfiltrates Seed Phrases, Enabling Wallet Takeover",https://socket.dev/blog/malicious-chrome-extension-exfiltrates-seed-phrases,feross,1.0,0.0,2025-11-12 23:00:52+00:00,,neutral
+45908125,"Cows, Jamaica, & Solar – Winning the Clean Energy Revolution",https://cleantechnica.com/2025/11/11/cows-jamaica-solar-winning-the-clean-energy-revolution/,debo_,2.0,0.0,2025-11-12 23:01:12+00:00,,positive
+45908149,What Happens When You Turn 20,https://freakonomics.com/podcast/what-happens-when-you-turn-20/,impish9208,2.0,1.0,2025-11-12 23:03:40+00:00,,neutral
+45908172,Altman and Masa Back a 27-Year-Old's Plan to Build a New Bell Labs Ultra,https://www.corememory.com/p/exclusive-altman-and-masa-back-episteme-louis-andre,slackpad,4.0,0.0,2025-11-12 23:05:43+00:00,,positive
+45908176,Upbeat moves from sensor tech to MCU to 'secret weapon' compute-in-memory,https://www.fiercesensors.com/sensors/upbeat-moves-sensor-tech-mcu-secret-weapon-compute-memory,initramfs,1.0,0.0,2025-11-12 23:06:15+00:00,,negative
+45908177,Comparing the Best AI Upscalers for Video and Images,https://blog.fal.ai/comparing-the-best-ai-upscalers-for-video-and-images/,Skopimus,1.0,1.0,2025-11-12 23:06:18+00:00,,positive
+45908180,Oversight Committee Releases Additional Epstein Estate Documents,https://oversight.house.gov/release/oversight-committee-releases-additional-epstein-estate-documents/,latexr,7.0,4.0,2025-11-12 23:06:59+00:00,,neutral
+45908188,A Peek into Tesla's Autonomous Future by VP Ashok Elluswamy at ICCV25 [video],https://www.youtube.com/watch?v=IRu-cPkpiFk,tristanz,1.0,0.0,2025-11-12 23:08:00+00:00,shell,positive
+45908238,Demo: Vague AI coding prompts can lead to disastrous outcomes,https://www.youtube.com/playlist?list=PLYGWJjYNEIt2b9pzSWTt-EbmL6A3b8VBj,raeroumeliotis,1.0,1.0,2025-11-12 23:13:16+00:00,typescript,negative
+45908240,The Knight Capital Disaster: losing 440M in 45 minutes (2023),https://specbranch.com/posts/knight-capital/,datadrivenangel,7.0,1.0,2025-11-12 23:13:21+00:00,,neutral
+45908303,Show HN: Fibre Splice in React,https://react-networks-lib.rackout.net/fibre,matt-p,1.0,0.0,2025-11-12 23:19:59+00:00,shell,neutral
+45908308,The worlds first automated survey-based market research tool,https://smartformai.vercel.app/,ReinwatashiDev,1.0,1.0,2025-11-12 23:20:20+00:00,,positive
+45908311,The Rough Magic of Porto,https://www.ft.com/content/b5eb148f-4f0b-4a75-85e8-2c3243122791,Anon84,2.0,0.0,2025-11-12 23:20:28+00:00,,positive
+45908316,Scale AI Open Sourced Agentex,https://github.com/scaleapi/scale-agentex,shoggoth-ai,1.0,0.0,2025-11-12 23:20:48+00:00,,neutral
+45908341,What's in a Benchmark? Quantifying AI Systems for Rapid Iteration and Evaluation,https://www.withemissary.com/resources/23,tanmayc98,1.0,0.0,2025-11-12 23:23:39+00:00,,neutral
+45908354,Tokenize Airbnb rental equity. RWA options?,,harishmaiyags,1.0,2.0,2025-11-12 23:25:07+00:00,,neutral
+45908365,Silverbullet: Personal productivity platform built with Markdown and Lua,https://github.com/silverbulletmd/silverbullet,nateb2022,1.0,0.0,2025-11-12 23:26:12+00:00,,neutral
+45908384,Agentic systems are just query engines for unstructured data,https://www.daft.ai/blog/agentic-systems-are-just-query-engines-for-unstructured-data,DISCURSIVE,2.0,0.0,2025-11-12 23:28:05+00:00,,neutral
+45908427,Blockchain Applications Transforming Banking and Finance in 2025,https://intelligentfuturetech.com/blog/blockchain-banking-applications-2025/,ift,1.0,1.0,2025-11-12 23:32:12+00:00,,neutral
+45908447,Biomedical Model Context Protocol servers for composable agentic systems,https://biocontext.ai/,salkahfi,1.0,0.0,2025-11-12 23:33:31+00:00,,neutral
+45908450,PFAS may be eliminated from the body faster with certain medicines,https://medicalxpress.com/news/2025-11-pfas-body-faster-medicines.html,PaulHoule,3.0,0.0,2025-11-12 23:33:50+00:00,,positive
+45908455,Audience Capture,https://en.wikipedia.org/wiki/Audience_capture,softwaredoug,2.0,0.0,2025-11-12 23:34:49+00:00,,neutral
+45908464,Valve is about to win the console generation,https://xeiaso.net/blog/2025/valve-is-about-to-win-the-console-generation/,moonleay,102.0,107.0,2025-11-12 23:35:41+00:00,,positive
+45908483,Voyager 1 is a light-day away by November 2026,https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432,Neuronaut,138.0,44.0,2025-11-12 23:38:56+00:00,,neutral
+45908492,"Show HN: Invisitris a Tetris-like game, where the placed pieces become invisible",https://invisitris.bitechunk.com/,eddguzzo,2.0,1.0,2025-11-12 23:39:57+00:00,shell,negative
+45908498,"Eleven Labs Debuts ""Iconic Marketplace"" Feat Michael Caine, Judy Garland, Others",https://elevenlabs.io/iconic-marketplace,obiefernandez,9.0,5.0,2025-11-12 23:40:54+00:00,typescript,positive
+45908499,ArXiv Labs is pausing new proposals,https://blog.arxiv.org/2025/11/12/attention-arxiv-users-arxiv-labs-is-pausing-new-proposals/,gslin,5.0,0.0,2025-11-12 23:40:57+00:00,,positive
+45908511,"Risk of AI-driven, overbuilt energy infrastructure is real",https://ieefa.org/resources/risk-ai-driven-overbuilt-infrastructure-real,gdevillers,1.0,0.0,2025-11-12 23:42:23+00:00,,positive
+45908518,Computational process could condense decades of biology research into days,https://news.nd.edu/news/new-computational-process-could-help-condense-decades-of-disease-biology-research-into-days/,geox,4.0,0.0,2025-11-12 23:43:27+00:00,,neutral
+45908672,"Chat Control is close to being adopted, and its worse",https://mastodon.social/@chatcontrol/115539210365913782,latexr,18.0,3.0,2025-11-13 00:01:05+00:00,typescript,negative
+45908680,Louisiana Took Months to Sound Alarm Amid Whooping Cough Outbreak,https://undark.org/2025/11/11/louisiana-whooping-cough-slow/,EA-3167,73.0,33.0,2025-11-13 00:01:55+00:00,,positive
+45908709,Michael Caine and Matthew McConaughey Partner with ElevenLabs for AI Voice Clone,https://apnews.com/article/ai-voice-clones-michael-caine-matthew-mcconaughey-elevenlabs-a906f912c4500bfea35b53f4ad07e846,gnabgib,3.0,0.0,2025-11-13 00:05:51+00:00,,neutral
+45908753,This To That,https://www.thistothat.com/,someotherperson,3.0,1.0,2025-11-13 00:12:57+00:00,,neutral
+45908763,Hippocampal encoding of memories in human infants,https://www.science.org/doi/10.1126/science.adt7570,QueensGambit,4.0,0.0,2025-11-13 00:14:50+00:00,,neutral
+45908778,"China Targets Tax Dodges by Sellers on Amazon, E-Commerce Sites",https://www.bloomberg.com/news/articles/2025-11-12/china-targets-tax-dodges-by-sellers-on-amazon-e-commerce-sites,petethomas,4.0,0.0,2025-11-13 00:15:52+00:00,typescript,neutral
+45908801,New Proofs Probe Soap-Film Singularities,https://www.quantamagazine.org/new-proofs-probe-soap-film-singularities-20251112/,pseudolus,3.0,0.0,2025-11-13 00:18:21+00:00,,positive
+45908806,Sora MCP Server on Mcpbundles.com,https://www.mcpbundles.com/blog/sora-video-generation-bundle,tonyl,1.0,0.0,2025-11-13 00:18:49+00:00,,neutral
+45908812,Servo: A new web engine written in Rust,https://blogs.igalia.com/mrego/servo-a-new-web-engine-written-in-rust/,birdculture,2.0,0.0,2025-11-13 00:19:33+00:00,rust,positive
+45908813,Open-source Live2D avatar pipeline – 80-95% cost reduction using Gemini,https://gist.github.com/Felo-Sparticle/acf535487a5b57fa49896b715827b4a8,jinfeng79,1.0,1.0,2025-11-13 00:19:36+00:00,,neutral
+45908818,"Show HN: Some states love naming streets after themselves. WI leads, ND has zero",https://dactile.net/p/state-street-names/article.html,dactile,1.0,4.0,2025-11-13 00:19:59+00:00,typescript,positive
+45908851,Building an autograd engine in pure Rust,https://www.evis.dev/posts/nanograd,ringstar,3.0,1.0,2025-11-13 00:23:02+00:00,rust,positive
+45908869,Exploring WordPress Blogs as a Series of Trails: Bloghiking.com,https://www.calishat.com/2025/11/11/exploring-wordpress-blogs-as-a-series-of-trails-bloghiking-com/,gnabgib,1.0,0.0,2025-11-13 00:24:40+00:00,,neutral
+45908887,"Airbnb rival Sonder abruptly shuts down, orders guests to leave",https://www.cbsnews.com/news/sonder-marriott-bonvoy-partnership-guests-24-hours-vacate-rooms/,pseudolus,9.0,0.0,2025-11-13 00:27:02+00:00,typescript,negative
+45908898,Tensorflow Wins (2016),https://medium.com/@mjhirn/tensorflow-wins-89b78b29aafb,qchris,1.0,0.0,2025-11-13 00:28:15+00:00,,positive
+45908930,Google is easing up on Android's new sideloading restrictions,https://www.androidauthority.com/android-power-users-install-unverified-apps-3615310/,thewebguyd,5.0,1.0,2025-11-13 00:32:30+00:00,,positive
+45908938,Google will allow users to sideload Android apps without verification,https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html,erohead,397.0,144.0,2025-11-13 00:33:25+00:00,,neutral
+45908940,Benchmarking my Redis clone in Zig (a web dev learning systems),https://charlesfonseca.substack.com/p/building-a-redis-clone-in-zigpart-51d,barddoo,3.0,1.0,2025-11-13 00:33:30+00:00,,neutral
+45908974,Man's Best Friend: Franz Kafka and His Dog,https://www.thenation.com/article/culture/kafka-and-his-dog/,petethomas,2.0,0.0,2025-11-13 00:37:03+00:00,,positive
+45908985,The Mess at the BBC Will Never End,https://www.newyorker.com/news/letter-from-the-uk/the-mess-at-the-bbc-will-never-end,petethomas,3.0,0.0,2025-11-13 00:39:04+00:00,,negative
+45909015,"Japan's famous Suica Penguin JR train pass card mascot is ""graduating""",https://soranews24.com/2025/11/13/japans-famous-suica-penguin-jr-train-pass-card-mascot-is-graduating-being-laid-off/,aoki,2.0,0.0,2025-11-13 00:42:45+00:00,,positive
+45909045,"'Colorado sober' movement ditches alcohol for cannabis, psychedelics",https://www.baltimoresun.com/2025/11/03/colorado-sober-movement-ditches-alcohol-for-cannabis-psychedelics-is-it-for-real/,PaulHoule,3.0,0.0,2025-11-13 00:46:16+00:00,,positive
+45909048,Solo: The Responsive Coding Agent,https://www.trae.ai/solo,elashri,2.0,0.0,2025-11-13 00:47:26+00:00,,neutral
+45909050,Android will let 'experienced users' sideload unverified apps,https://9to5google.com/2025/11/12/android-sideload-unverified-apps/,xnx,2.0,1.0,2025-11-13 00:47:31+00:00,,positive
+45909055,"Linux 6.18 Merges Fix for ""Catastrophic Performance Issue"" on 64-Bit ARM",https://www.phoronix.com/news/Linux-6.18-ARM64-Atomics-Issue,kristianp,1.0,0.0,2025-11-13 00:48:19+00:00,,neutral
+45909059,Human Fovea Detector,https://www.shadertoy.com/view/4dsXzM,AbuAssar,47.0,10.0,2025-11-13 00:48:45+00:00,,neutral
+45909062,Proxy Advisers ISS and Glass Lewis Are Facing Antitrust Probes,https://www.wsj.com/finance/regulation/proxy-advisers-iss-and-glass-lewis-are-facing-antitrust-probes-22f0ff38,mudil,1.0,0.0,2025-11-13 00:49:28+00:00,rust,neutral
+45909066,The chess federation accuses a former champion of harassing a rival who died,https://www.npr.org/2025/11/12/g-s1-97572/chess-federation-vladimir-kramnik-daniel-naroditsky-harassment-cheating-death,pseudolus,2.0,0.0,2025-11-13 00:50:15+00:00,,neutral
+45909074,The Seal Show of Irkutsk,https://www.gregkogan.com/journal/russia-trans-siberian-railway-irkutsk/,gk1,3.0,0.0,2025-11-13 00:51:16+00:00,shell,neutral
+45909094,Kezar Life Sciences to lay off 70% of workforce as dispute with FDA continues,https://www.bizjournals.com/sanfrancisco/news/2025/11/10/layoffs-kezar-life-sciences-aih-fda-zetomipzomib.html,randycupertino,3.0,2.0,2025-11-13 00:54:55+00:00,,neutral
+45909103,Improving front end design through Skills,https://www.claude.com/blog/improving-frontend-design-through-skills,gmays,1.0,0.0,2025-11-13 00:57:25+00:00,,neutral
+45909108,Title Arbitrage as Status Engineering,https://humaninvariant.substack.com/p/title-arbitrage-as-status-engineering,surprisetalk,2.0,0.0,2025-11-13 00:57:49+00:00,,neutral
+45909110,Nova [video],https://www.youtube.com/watch?v=Um_LXirqW1k,surprisetalk,1.0,0.0,2025-11-13 00:57:56+00:00,,neutral
+45909111,Why schools are the last to adopt modern values [video],https://www.youtube.com/watch?v=t0NZjsVfzt0,surprisetalk,1.0,0.0,2025-11-13 00:58:06+00:00,,positive
+45909113,Show HN: Give your coding agent production bug context,https://sonarly.dev/,Dimittri,5.0,0.0,2025-11-13 00:58:19+00:00,shell,neutral
+45909128,Enhancing User Experience: Best Practices for Modern Web Development,https://www.tagheuerreplica.io,lethanhdung,1.0,1.0,2025-11-13 01:00:14+00:00,,positive
+45909138,Show HN: I Turned My iPhone into a Night-Vision Device,https://apps.apple.com/us/app/night-vision-lidar-camera/id1668629667,darkce,1.0,0.0,2025-11-13 01:01:37+00:00,shell,neutral
+45909175,Next.js 16's Turbopack breaks NPM link,https://www.steveharrison.dev/next-js-16s-turbopack-breaks-npm-link/,steveharrison,1.0,0.0,2025-11-13 01:07:41+00:00,javascript,neutral
+45909190,Panic Arcade: Political Humor Retro Arcade Games,https://www.panicarcade.com/,vel_cirapt_r,1.0,1.0,2025-11-13 01:10:21+00:00,,neutral
+45909192,"Security Toolkit, a comprehensive collection of security tools and resources",https://www.securitytoolkits.com/,salkahfi,1.0,0.0,2025-11-13 01:10:33+00:00,,neutral
+45909206,AI Models Struggle with Reading Analog Clock,https://spectrum.ieee.org/large-language-models-reading-clocks,Brajeshwar,3.0,1.0,2025-11-13 01:12:27+00:00,,neutral
+45909207,"Strongest solar flare of 2025, sparking radio blackouts across Africa and Europe",https://www.space.com/astronomy/sun/sun-unleashes-strongest-solar-flare-of-2025-sparking-radio-blackouts-across-africa-and-europe,Brajeshwar,3.0,1.0,2025-11-13 01:12:51+00:00,typescript,neutral
+45909249,Show HN: Guardian for Wild Mushroom Safety,https://mushroomcheck.com,kakco-AI,3.0,6.0,2025-11-13 01:18:54+00:00,shell,positive
+45909258,£220 'for a cut-up sock' — Apples's new iPhone Pocket ridiculed online,https://www.bbc.com/news/articles/cn97ndgpnq7o,Lyngbakr,61.0,51.0,2025-11-13 01:20:12+00:00,,positive
+45909275,LA might use sortition for its charter reform process,https://www.rewritela.org,maaaaxaxa,2.0,1.0,2025-11-13 01:22:54+00:00,typescript,neutral
+45909280,Helios: A 98-qubit trapped-ion quantum computer,https://arxiv.org/abs/2511.05465,EvgeniyZh,1.0,0.0,2025-11-13 01:23:22+00:00,,neutral
+45909297,Show HN: Made MadLibs-style game to play with my kids,https://www.storygaps.org/,ronbenton,2.0,0.0,2025-11-13 01:26:41+00:00,shell,negative
+45909319,Ivory Coast response to YouTuber,https://twitter.com/Alainlobog/status/1985407337239330876,andy99,2.0,0.0,2025-11-13 01:29:37+00:00,,neutral
+45909339,"I tried to pay for Grok, but was told to ""wait 2 weeks for Black Friday.""",,ssssj,3.0,3.0,2025-11-13 01:32:17+00:00,,negative
+45909359,Cloud Native Heroku Magic,https://www.heroku.com/blog/heroku-cloud-native-buildpacks/,runesoerensen,2.0,0.0,2025-11-13 01:35:06+00:00,,positive
+45909390,The Murchison Murders,https://en.wikipedia.org/wiki/Murchison_Murders,sans_souse,1.0,0.0,2025-11-13 01:38:47+00:00,,neutral
+45909399,Provide Ukrainian Defense Forces with Drones,https://www.sternenkofund.org/en,doener,1.0,0.0,2025-11-13 01:39:52+00:00,,neutral
+45909425,Sprayable RNA pesticide works best when potato beetles are small,https://phys.org/news/2025-10-sprayable-rna-pesticide-potato-beetles.html,PaulHoule,2.0,0.0,2025-11-13 01:42:38+00:00,,positive
+45909431,US House approves bill to end longest government shutdown in history,https://www.npr.org/2025/11/12/g-s1-97607/house-vote-shutdown-end,elinear,9.0,13.0,2025-11-13 01:43:59+00:00,shell,neutral
+45909477,Russian Humanoid Robot Falls on Its Face in Hyped Debut,https://www.nytimes.com/2025/11/12/technology/ai-robot-russia-falls.html,boarsofcanada,4.0,1.0,2025-11-13 01:49:11+00:00,typescript,neutral
+45909495,Sovereignty 2030: Nextcloud invests over €250M in digital sovereignty,https://nextcloud.com/blog/press_releases/nextcloud-invests-in-digital-sovereignty/,doener,2.0,0.0,2025-11-13 01:53:10+00:00,typescript,neutral
+45909500,"The Consistency Functional K: Variational Unification of QM, Thermodynamics, GR",https://zenodo.org/records/17411038,westurner,1.0,2.0,2025-11-13 01:53:40+00:00,,neutral
+45909525,Temporal Dithering of NeoPixels on an ATtiny412,http://sarah.alroe.dk/2025/NeoInf/,radeeyate,1.0,0.0,2025-11-13 01:57:11+00:00,,neutral
+45909561,Research team finds zero-click RCE vulnerability in Minecraft: Bedrock Edition,https://twitter.com/osec_io/status/1988681993568362946,mudkipdev,1.0,0.0,2025-11-13 02:01:16+00:00,,neutral
+45909567,Smarter Adaptive Graph Sampling for More Accurate Graph Learning,https://kumo.ai/research/adaptive-graph-sampling/,gk1,2.0,0.0,2025-11-13 02:02:53+00:00,,positive
+45909569,Big Tech and the AI investment boom in underwater cables,https://www.cnbc.com/2025/11/08/big-tech-ai-underwater-cables.html,gmays,2.0,0.0,2025-11-13 02:03:17+00:00,,neutral
+45909595,Tell HN: PSA/reminder AI Apps have access to your clipboard,,ddxv,1.0,1.0,2025-11-13 02:06:25+00:00,,neutral
+45909597,ParaRNN [from Apple Research],https://github.com/apple/ml-pararnn,atrudeau,2.0,0.0,2025-11-13 02:06:32+00:00,,neutral
+45909608,Show HN: LimiX-2M – The super-light foundation model redefining tabular learning,,cedge,1.0,0.0,2025-11-13 02:08:09+00:00,shell,neutral
+45909654,PGM Format Specification,https://netpbm.sourceforge.net/doc/pgm.html,grep_it,1.0,0.0,2025-11-13 02:16:01+00:00,,neutral
+45909667,"My dad could still be alive, but he's not",https://www.jenn.site/my-dad-could-still-be-alive-but-hes-not/,DustinEchoes,242.0,123.0,2025-11-13 02:17:30+00:00,,positive
+45909683,Continuous Autoregressive Language Models,https://arxiv.org/abs/2510.27688,badmonster,2.0,0.0,2025-11-13 02:19:10+00:00,,neutral
+45909685,Wall Street Speeds Up India Expansion After Trump's Visa Curbs,https://www.bloomberg.com/news/articles/2025-11-11/trump-visa-crackdown-pushes-more-high-skilled-wall-street-jobs-to-india,alephnerd,5.0,2.0,2025-11-13 02:19:37+00:00,,neutral
+45909718,"[Android App Store] A Road Behind, a Road Ahead",https://blog.accrescent.app/posts/road-behind-road-ahead/,securitybrahh,1.0,0.0,2025-11-13 02:23:31+00:00,,negative
+45909737,WhatsApp lets you message people on other apps,https://www.androidpolice.com/whatsapp-support-for-third-party-apps/,raybb,1.0,0.0,2025-11-13 02:25:19+00:00,typescript,negative
+45909748,Yyyyyyy.info,https://www.yyyyyyy.info,sans_souse,1.0,0.0,2025-11-13 02:26:31+00:00,,neutral
+45909761,HelloTriangle: An easy-to-use platform for advanced 3D modeling,https://www.hellotriangle.io,sntran,1.0,1.0,2025-11-13 02:28:28+00:00,,positive
+45909763,Embulk into the Maintenance Mode,https://www.embulk.org/articles/2025/11/10/embulk-into-the-maintenance-mode.html,yohamta,1.0,0.0,2025-11-13 02:28:30+00:00,,neutral
+45909768,Our health care system has become utterly insane,https://yourlocalepidemiologist.substack.com/p/aca-health-care-insurance-us-jetelina,toomuchtodo,4.0,1.0,2025-11-13 02:29:04+00:00,,negative
+45909780,Ask HN: Help me understand Signal communication blurb,,ajr0,2.0,0.0,2025-11-13 02:30:38+00:00,,neutral
+45909781,Canadian Lawmaker Testifies Chinese Students Were Bused in to Elect Him (2024),https://www.nytimes.com/2024/04/02/world/canada/canada-election-china-han-dong.html,DustinEchoes,3.0,2.0,2025-11-13 02:31:00+00:00,typescript,positive
+45909809,Aurora Australis puts on dazzling display,https://www.abc.net.au/news/2025-11-13/aurora-australis-in-photos-november-2025/106003620,langfo,1.0,0.0,2025-11-13 02:35:45+00:00,typescript,positive
+45909810,Every AI app startup is likely to be crushed by the foundational model providers,https://twitter.com/yishan/status/1987787127204249824,ilmoi,4.0,0.0,2025-11-13 02:35:51+00:00,shell,negative
+45909832,Toronto's snow-clearing contracts don't cover removal,https://www.cbc.ca/news/canada/toronto/city-budget-no-room-for-snow-removal-9.6966799,geox,2.0,1.0,2025-11-13 02:38:48+00:00,typescript,neutral
+45909885,Sorry to My PR Reviewers,https://ajkueterman.com/posts/sorry-pr-reviewers/,robotsquidward,1.0,2.0,2025-11-13 02:45:51+00:00,,negative
+45909894,Why Don't People Return Shopping Carts? A (Somewhat) Scientific Investigation,https://behavioralscientist.org/why-dont-people-return-their-shopping-carts-a-somewhat-scientific-investigation/,derbOac,3.0,2.0,2025-11-13 02:47:03+00:00,shell,neutral
+45909924,Show HN: Chime – Full-screen meeting alerts for time blindess (macOS),https://www.usechime.app/,tsormed,1.0,0.0,2025-11-13 02:51:00+00:00,typescript,neutral
+45909925,The art of (VM) firmware logging,https://www.kraxel.org/blog/2025/10/firmware-logging/,todsacerdoti,1.0,0.0,2025-11-13 02:51:02+00:00,,neutral
+45909935,The Witchcraft Compiler Collection,https://github.com/endrazine/wcc,colonCapitalDee,1.0,0.0,2025-11-13 02:52:21+00:00,,neutral
+45909940,AI's true impact will become apparent in the coming year,https://www.economist.com/the-world-ahead/2025/11/10/ais-true-impact-will-become-apparent-in-the-coming-year,andsoitis,2.0,0.0,2025-11-13 02:52:37+00:00,,positive
+45909972,Show HN: I made an open-source Rust program for memory-efficient genomics,https://github.com/logannye/rosalind,logannyeMD,1.0,0.0,2025-11-13 02:56:50+00:00,rust,neutral
+45909979,Show HN: My Tattoo Ideas – AI tattoo generator with body placement previews,https://mytattooideas.ai/,RichardFu,1.0,0.0,2025-11-13 02:58:03+00:00,shell,neutral
+45909983,'Chad: The Brainrot IDE' is a YC-backed product people thought was fake,https://techcrunch.com/2025/11/12/chad-the-brainrot-ide-is-a-new-y-combinator-backed-product-so-wild-people-thought-it-was-fake/,wrayjustin,2.0,1.0,2025-11-13 02:58:43+00:00,,negative
+45909985,Show HN: Chess960v2 – Over 200 Rounds Played,https://chess960v2.com/en,lavren1974,1.0,0.0,2025-11-13 02:59:03+00:00,shell,neutral
+45910006,Live Coding Trance Music,https://www.instagram.com/reel/DQ4B7DNjeCt/,suioir,3.0,1.0,2025-11-13 03:01:42+00:00,,positive
+45910009,A Commentary on the Sixth Edition Unix Operating System,https://warsus.github.io/lions-/,o4c,3.0,0.0,2025-11-13 03:01:47+00:00,,neutral
+45910063,Private aviation has boomed during the government shutdown,https://www.nytimes.com/2025/11/11/travel/shutdown-private-air-travel.html,bookofjoe,1.0,1.0,2025-11-13 03:10:01+00:00,shell,neutral
+45910107,Saturn's Moon Enceladus Signals Organic Molecules Key to Life's Chemistry,https://scienceclock.com/saturns-moon-enceladus-signals-organic-molecules-key-to-lifes-chemistry/,ashishgupta2209,1.0,0.0,2025-11-13 03:15:24+00:00,,neutral
+45910136,What Is Your Brain Doing on Psychedelics?,https://nautil.us/what-is-your-brain-doing-on-psychedelics-1242605/,boarsofcanada,1.0,0.0,2025-11-13 03:18:44+00:00,,neutral
+45910142,"Marion County agrees to pay out $3M for newspaper raid, expresses regret",https://kansasreflector.com/2025/11/11/marion-county-agrees-to-pay-out-3m-for-newspaper-raid-express-regret/,harmmonica,14.0,2.0,2025-11-13 03:19:28+00:00,,neutral
+45910143,PgFirstAid-The PostgreSQL Health Check,https://github.com/randoneering/pgFirstAid,todsacerdoti,1.0,0.0,2025-11-13 03:19:32+00:00,sql,neutral
+45910235,Sparrow – Raku based automation framework,https://github.com/melezhik/Sparrow6,indigodaddy,1.0,0.0,2025-11-13 03:31:15+00:00,,neutral
+45910244,"On USB HID, Keyboard LEDs, and device emulation (2024)",https://epsilon537.github.io/boxlambda/usb-hid/,transpute,2.0,0.0,2025-11-13 03:32:24+00:00,,neutral
+45910246,State of Private Voting 2026,https://pse.dev/blog/state-of-private-voting-2026,badcryptobitch,1.0,0.0,2025-11-13 03:32:30+00:00,,neutral
+45910257,Claude Code Introduces Off-by-One Errors,https://github.com/anthropics/claude-code/issues/11506,rrwright,3.0,2.0,2025-11-13 03:34:02+00:00,,neutral
+45910292,How Zillow Cashes in on the American Home Buying Dream [video],https://www.youtube.com/watch?v=xpCnW0gf-6M,mgh2,1.0,0.0,2025-11-13 03:38:12+00:00,shell,neutral
+45910305,Bitcoin's big secret: How cryptocurrency became law enforcement's secret weapon,https://bitwarden.com/blog/how-cryptocurrency-became-law-enforcements-secret-weapon/,LopRabbit,4.0,0.0,2025-11-13 03:39:56+00:00,,negative
+45910315,"CyberSlop – meet the new threat actor, MIT and Safe Security",https://doublepulsar.com/cyberslop-meet-the-new-threat-actor-mit-and-safe-security-d250d19d02a4,pkaeding,1.0,0.0,2025-11-13 03:40:56+00:00,,positive
+45910320,Optimizing RocksDB in TiKV (Part 1) – The Battle Against the DB Mutex,https://medium.com/@siddontang/how-we-optimize-rocksdb-in-tikv-part-1-the-battle-against-the-db-mutex-5c4f12c02c01,jinqueeny,1.0,0.0,2025-11-13 03:41:09+00:00,,neutral
+45910327,"The fantastical roots of ""scientific racism""",https://www.theatlantic.com/ideas/2025/11/dungeons-and-dragons-elon-musk/684828/,pseudolus,1.0,1.0,2025-11-13 03:41:56+00:00,typescript,neutral
+45910347,Meta replaces WhatsApp for Windows with web wrapper that uses 1 GB RAM when idle,https://www.windowslatest.com/2025/11/12/meta-just-killed-native-whatsapp-on-windows-11-now-it-opens-webview-uses-1gb-ram-all-the-time/,DearAll,2.0,0.0,2025-11-13 03:44:37+00:00,,neutral
+45910370,A67z,https://www.a67z.com/,dvrp,5.0,1.0,2025-11-13 03:48:15+00:00,,neutral
+45910375,AI Kissing Generator: Create Kissing Videos Free Online,https://aikissfiy.com,Lisheng,1.0,3.0,2025-11-13 03:48:57+00:00,,positive
+45910381,"Google open-sources Android 16 QPR1, two months late",https://grapheneos.social/@GrapheneOS/115533432439509433,uneven9434,3.0,0.0,2025-11-13 03:49:23+00:00,,negative
+45910388,In Praise of Useless Robots,https://thereader.mitpress.mit.edu/in-praise-of-useless-robots/,pseudolus,1.0,0.0,2025-11-13 03:50:11+00:00,,negative
+45910410,VibeThinker-1.5B,https://github.com/WeiboAI/VibeThinker,tamnd,2.0,0.0,2025-11-13 03:52:42+00:00,,neutral
+45910436,Avalonia Partnering with Google's Flutter to Bring Impeller Rendering to .NET,https://avaloniaui.net/blog/avalonia-partners-with-google-s-flutter-t-eam-to-bring-impeller-rendering-to-net,satvikpendem,1.0,0.0,2025-11-13 03:56:38+00:00,,neutral
+45910442,The PUMP.NETWORK experiment: using gambling to calculate trust,,nthglsn,1.0,0.0,2025-11-13 03:58:03+00:00,rust,neutral
+45910447,Google sues cybercriminal group behind text phishing scams,https://www.cnbc.com/2025/11/12/google-e-zpass-usps-text-scam-phishing-suit.html,doctor_radium,1.0,0.0,2025-11-13 03:58:54+00:00,shell,negative
+45910463,KVzip: Query-Agnostic KV Cache Compression with Context Reconstruction,https://github.com/snu-mllab/KVzip,biztos,1.0,0.0,2025-11-13 04:02:06+00:00,,neutral
+45910470,$48 4G hotspot that doubles as a 'smartphone' with a 3.2-inch display,https://www.techradar.com/pro/hmd-launches-a-usd48-4g-hotspot-that-doubles-as-a-smartphone-with-a-3-2-inch-display-and-even-a-pair-of-cameras-and-you-can-even-chat-on-it,ammojamo,1.0,0.0,2025-11-13 04:02:43+00:00,,neutral
+45910536,"Open source x 3: GRPO training with OpenEnv, vLLM, and Oumi",https://github.com/oumi-ai/oumi/blob/main/notebooks/Oumi%20-%20OpenEnv%20GRPO%20with%20trl.ipynb,stefanwebb,1.0,0.0,2025-11-13 04:12:10+00:00,,neutral
+45910584,How Strava Traded User Goodwill for Nothing,https://velo.outsideonline.com/road/road-gear/strava-missteps/,gregorvand,1.0,0.0,2025-11-13 04:20:16+00:00,,neutral
 =======,,,,,,,,
 >>>>>>> f5b57db54db68f78809e4cc7500826fc6c7fd7af,,,,,,,,
